@@ -48,6 +48,50 @@ tr/
 
 پس پیش از واردکردن در Windows Studio باید قرارداد به `tr` گسترش یابد؛ در غیر این صورت فایل را با برچسب `en` تحویل ندهید — آن کار واژه‌های ترکی را اشتباه برچسب می‌زند. این انحراف در فیلد `notes` داخل خود JSON هم ثبت شده است.
 
+## چرا Windows هنگام واردکردن خطا می‌دهد؟ (بررسی `reedance-desktop`)
+
+بررسی شاخهٔ `arena/132cfe2a-reedance-desktop` ریپوی `khodehydro/reedance-desktop` نشان می‌دهد خطا از **محتوای فایل نیست**؛ Windows فعلاً فقط `en/es/ko` را می‌فهمد و ترکی را رد می‌کند.
+
+### مسیر واردکردن در Windows (`src/main/import.ts` → `importDraftFile`)
+
+1. خواندن فایل (سقف ۴ MiB، رد BOM، UTF-8 سخت‌گیرانه) — این فایل پاس می‌کند (۱۲۱ KB، بدون BOM).
+2. `parseStrictJson` (رد کلید تکراری و دادهٔ اضافی) — پاس می‌کند.
+3. `findForbiddenKeys` (رد `media`/`startMs`/`audio`/…) — پاس می‌کند؛ در فایل هیچ‌کدام نیست.
+4. **`validateDraftStructure` (Ajv روی `contracts/draft.schema.json` + `lesson.schema.json`) — اینجا رد می‌شود.** پیام کاربر چیزی شبیه این است (فقط ۶ خطای اول نمایش داده می‌شود):
+
+   ```text
+   draft failed schema validation:
+   $.grammar[0].conceptId: 'tr:accusative-de' does not match '^(?:en|es|ko):...'
+   $.targetLanguage: must be equal to one of the allowed values
+   $.locale: 'tr-TR' does not match '^(?:en|es|ko)...'
+   $.vocabulary[0].lexemeId: 'tr:ben' does not match '^(?:en|es|ko):...'
+   ```
+
+   در مجموع ۲۳۷ خطای schema، همه فقط از کدهای `tr`/`tr-TR`/`tr:…` — صفر خطای دیگر.
+5. حتی اگر فقط schema را دستی patch کنید، دو لایهٔ بعدی هم رد می‌کنند:
+   - `src/main/validation.ts` خط ۹۳: `LEXEME_RE = /^(?:en|es|ko):[a-z0-9]+(?:-[a-z0-9]+)*$/` (هر ۷۵ `lexemeId` و ۱۲ `conceptId` را رد می‌کند).
+   - `src/main/db.ts` خط ۲۴: `CHECK(target_language IN ('en','es','ko'))` در جدول `songs` — درج پروژه در SQLite می‌خورد به خطای constraint.
+
+### همهٔ جاهایی که در Windows به `en/es/ko` قفل شده‌اند
+
+| فایل | مورد |
+| --- | --- |
+| `contracts/lesson.schema.json` | `language` enum، الگوی `locale` و `lexemeId` (‏`draft.schema.json` از طریق `urn:reedance:lesson:v1` به همین تعریف‌ها ارجاع می‌دهد) |
+| `src/shared/types.ts:9` | `TargetLanguage = "en" \| "es" \| "ko"` |
+| `src/main/validation.ts:93` | `LEXEME_RE` |
+| `src/main/import.ts:73` | الگوی `LOCALE` (مسیر ساخت پروژهٔ خالی) |
+| `src/main/db.ts:24` | `CHECK(target_language IN ('en','es','ko'))` — نیازمند migration برای دیتابیس‌های موجود |
+| `src/main/ipc.ts:192,420,433` | فهرست مجاز زبان در IPC |
+| `src/main/stats.ts:17` | `LANGUAGES = ["en","es","ko"]` |
+| `src/renderer/App.tsx:37` | `LOCALES = { en:"en-GB", es:"es-ES", ko:"ko-KR" }` — باید `tr:"tr-TR"` اضافه شود |
+| `src/renderer/components/LibraryPage.tsx` | فهرست زبان‌ها/پرچم‌ها در کتابخانه |
+
+### راه‌حل درست
+
+گسترش هماهنگ قرارداد به `tr` در همهٔ مصرف‌کننده‌ها (Windows + Android + contracts) — طبق `contracts/v1/README.md` تغییر ناسازگار باید با نسخهٔ جدید (`v2`) یا اصلاحیهٔ هماهنگ هر دو تیم انجام شود، نه patch محلیِ فقط یک schema. پس از آن، همین فایل بدون هیچ تغییری وارد می‌شود (با schema گسترش‌یافته صفر خطا دارد).
+
+**راه‌حل غلط (انجام ندهید):** تغییر `targetLanguage` به `en` و `lexemeId`ها به `en:…` فقط برای ردشدن از import. آن کار واژه‌های ترکی را به‌عنوان انگلیسی ثبت می‌کند، رجیستری lexeme و آمار زبان را خراب می‌کند و خروجی Android را اشتباه می‌سازد.
+
 ## حقوق و گام بعدی
 
 - متن لیریک توسط مدیر در همین تسک ارسال شد و **مدرک مجوز همراه آن نبود**؛ در `sources` هر دو بخش `rightsStatus: "unverified"` ثبت شده است. هیچ مجوز/URL/کلیدی ساخته نشده است.
