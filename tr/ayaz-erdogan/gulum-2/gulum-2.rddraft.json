@@ -1,0 +1,4275 @@
+{
+  "draftSchemaVersion": 1,
+  "songId": "gulum-2",
+  "targetLanguage": "tr",
+  "locale": "tr-TR",
+  "title": "Gülüm 2",
+  "artist": "Ayaz Erdoğan",
+  "createdAt": "2026-11-13T15:00:00Z",
+  "generator": "Arena AI content agent — reedance-doc (draft v1 structure, tr extension pending)",
+  "notes": "Turkish educational draft from manager-provided lyrics (46 lines, chorus repeated as separate lines for Windows timeline sync). No audio, no startMs/endMs, no media. Level was not provided and is omitted on purpose — Windows must complete it before export. IMPORTANT: contracts/v1 in khodehydro/reedance (branch arena/e6a6294d-reedance) only allows targetLanguage en/es/ko, locale en/es/ko-*, and lexemeId prefix en:/es:/ko:. This file uses the analogous tr / tr-TR / tr: codes so the content is correct Turkish; it will NOT pass the unmodified v1 schema until the contract is extended to tr (v2 or a coordinated v1 amendment). Rights are unverified: lyrics were pasted by the manager with no permission document. Do not publish lyrics or audio from this draft without Windows rights review.",
+  "sources": {
+    "lyrics": {
+      "description": "Lyrics text provided by the manager in the reedance-doc task on 2026-11-13 (Turkish text pasted in the request); no documented permission was provided with the text.",
+      "rightsStatus": "unverified",
+      "sourceReference": "Manager-provided lyrics in task message, 2026-11-13",
+      "attribution": "Ayaz Erdoğan — Gülüm 2"
+    },
+    "lesson": {
+      "description": "Original Persian/English translations, vocabulary, grammar and quiz created for this draft from the provided lyrics; no audio or timing included.",
+      "rightsStatus": "unverified",
+      "sourceReference": "Created for reedance-doc task, 2026-11-13"
+    }
+  },
+  "credits": {
+    "lyrics": "Ayaz Erdoğan — Gülüm 2 (lyrics as provided by manager; rights unverified)",
+    "noticeFa": "پیش‌نویس آموزشی؛ متن و ترجمه برای انتشار تأیید نشده است. حقوق متن و صوت باید در ویندوز بررسی شود.",
+    "noticeEn": "Educational draft only; lyrics and translations are not cleared for publication. Rights must be verified in Windows Studio."
+  },
+  "disclaimerFa": "این فایل خام آموزشی است، نه خروجی انتشار. صوت و زمان‌بندی ندارد و حقوق متن/صوت آن تأیید نشده است.",
+  "disclaimerEn": "This is a raw educational draft, not a published lesson. It has no audio or timing and its lyrics/audio rights are unverified.",
+  "lyrics": [
+    {
+      "id": "line-1",
+      "text": "Beni de al",
+      "translationFa": "مرا هم با خودت ببر.",
+      "translationEn": "Take me with you too.",
+      "tokens": [
+        {
+          "surface": "Beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        },
+        {
+          "surface": "de",
+          "translationFa": "هم",
+          "translationEn": "too"
+        },
+        {
+          "surface": "al",
+          "translationFa": "ببر",
+          "translationEn": "take",
+          "lexemeId": "tr:almak"
+        }
+      ]
+    },
+    {
+      "id": "line-2",
+      "text": "Bi köşede uyurum; yakma beni",
+      "translationFa": "در یک گوشه می‌خوابم؛ مرا نسوزان.",
+      "translationEn": "I'll sleep in a corner; don't burn me.",
+      "tokens": [
+        {
+          "surface": "Bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "köşede",
+          "translationFa": "در گوشه",
+          "translationEn": "in a corner",
+          "lexemeId": "tr:kose"
+        },
+        {
+          "surface": "uyurum;",
+          "translationFa": "می‌خوابم",
+          "translationEn": "I sleep",
+          "lexemeId": "tr:uyumak"
+        },
+        {
+          "surface": "yakma",
+          "translationFa": "نسوزان",
+          "translationEn": "don't burn",
+          "lexemeId": "tr:yakmak"
+        },
+        {
+          "surface": "beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        }
+      ]
+    },
+    {
+      "id": "line-3",
+      "text": "Bu inadını bi bırak",
+      "translationFa": "این لجاجتت را یک بار رها کن.",
+      "translationEn": "Just let go of this stubbornness of yours.",
+      "tokens": [
+        {
+          "surface": "Bu",
+          "translationFa": "این",
+          "translationEn": "this"
+        },
+        {
+          "surface": "inadını",
+          "translationFa": "لجاجتت را",
+          "translationEn": "your stubbornness",
+          "lexemeId": "tr:inat"
+        },
+        {
+          "surface": "bi",
+          "translationFa": "یک بار",
+          "translationEn": "just"
+        },
+        {
+          "surface": "bırak",
+          "translationFa": "رها کن",
+          "translationEn": "let go",
+          "lexemeId": "tr:birakmak"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "Kaşına gözüne vuruldum...",
+      "translationFa": "به ابرو و چشمت دل باختم...",
+      "translationEn": "I fell for your eyebrows and eyes...",
+      "tokens": [
+        {
+          "surface": "Kaşına",
+          "translationFa": "به ابرویت",
+          "translationEn": "for your eyebrow",
+          "lexemeId": "tr:kas"
+        },
+        {
+          "surface": "gözüne",
+          "translationFa": "به چشمت",
+          "translationEn": "for your eye",
+          "lexemeId": "tr:goz"
+        },
+        {
+          "surface": "vuruldum...",
+          "translationFa": "دل باختم",
+          "translationEn": "I fell in love",
+          "lexemeId": "tr:vurulmak"
+        }
+      ]
+    },
+    {
+      "id": "line-5",
+      "text": "Sana bunu yazmıştım",
+      "translationFa": "این را برای تو نوشته بودم.",
+      "translationEn": "I had written this for you.",
+      "tokens": [
+        {
+          "surface": "Sana",
+          "translationFa": "برای تو",
+          "translationEn": "for you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "bunu",
+          "translationFa": "این را",
+          "translationEn": "this"
+        },
+        {
+          "surface": "yazmıştım",
+          "translationFa": "نوشته بودم",
+          "translationEn": "I had written",
+          "lexemeId": "tr:yazmak"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "Siktir ettim",
+      "translationFa": "ولش کردم. (مبتذل)",
+      "translationEn": "I fucked it off. (vulgar)",
+      "tokens": [
+        {
+          "surface": "Siktir",
+          "translationFa": "ول",
+          "translationEn": "fuck off"
+        },
+        {
+          "surface": "ettim",
+          "translationFa": "کردم",
+          "translationEn": "I did"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "Kalbim deliler gibi sana hasret kaldı, inandım",
+      "translationFa": "قلبم مثل دیوانه‌ها دلتنگ تو شد، باور کردم.",
+      "translationEn": "My heart longed for you like crazy; I believed it.",
+      "tokens": [
+        {
+          "surface": "Kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "deliler",
+          "translationFa": "دیوانه‌ها",
+          "translationEn": "crazy people",
+          "lexemeId": "tr:deli"
+        },
+        {
+          "surface": "gibi",
+          "translationFa": "مثل",
+          "translationEn": "like"
+        },
+        {
+          "surface": "sana",
+          "translationFa": "تو را",
+          "translationEn": "for you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "hasret",
+          "translationFa": "دلتنگ",
+          "translationEn": "longing",
+          "lexemeId": "tr:hasret"
+        },
+        {
+          "surface": "kaldı,",
+          "translationFa": "شد",
+          "translationEn": "remained",
+          "lexemeId": "tr:kalmak"
+        },
+        {
+          "surface": "inandım",
+          "translationFa": "باور کردم",
+          "translationEn": "I believed",
+          "lexemeId": "tr:inanmak"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "Yerim hiç yokmuş gibi, zaten param da yoktu",
+      "translationFa": "انگار اصلاً جایی نداشتم، اصلاً پول هم نداشتم.",
+      "translationEn": "As if I had no place at all, and I had no money anyway.",
+      "tokens": [
+        {
+          "surface": "Yerim",
+          "translationFa": "جایم",
+          "translationEn": "my place",
+          "lexemeId": "tr:yer"
+        },
+        {
+          "surface": "hiç",
+          "translationFa": "اصلاً",
+          "translationEn": "at all"
+        },
+        {
+          "surface": "yokmuş",
+          "translationFa": "نداشتم",
+          "translationEn": "as if I had none",
+          "lexemeId": "tr:yok"
+        },
+        {
+          "surface": "gibi,",
+          "translationFa": "انگار",
+          "translationEn": "as if"
+        },
+        {
+          "surface": "zaten",
+          "translationFa": "اصلاً",
+          "translationEn": "anyway"
+        },
+        {
+          "surface": "param",
+          "translationFa": "پولم",
+          "translationEn": "my money",
+          "lexemeId": "tr:para"
+        },
+        {
+          "surface": "da",
+          "translationFa": "هم",
+          "translationEn": "also"
+        },
+        {
+          "surface": "yoktu",
+          "translationFa": "نداشتم",
+          "translationEn": "there was none",
+          "lexemeId": "tr:yok"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "Şimdi rahatım; arayan soranım çok, uyanırsam yarın",
+      "translationFa": "حالا راحتم؛ خیلی‌ها سراغم را می‌گیرند، اگر فردا بیدار شوم.",
+      "translationEn": "Now I'm at ease; many people ask after me, if I wake up tomorrow.",
+      "tokens": [
+        {
+          "surface": "Şimdi",
+          "translationFa": "حالا",
+          "translationEn": "now"
+        },
+        {
+          "surface": "rahatım;",
+          "translationFa": "راحتم",
+          "translationEn": "I'm at ease",
+          "lexemeId": "tr:rahat"
+        },
+        {
+          "surface": "arayan",
+          "translationFa": "سراغ‌گیر",
+          "translationEn": "who looks for",
+          "lexemeId": "tr:aramak"
+        },
+        {
+          "surface": "soranım",
+          "translationFa": "سراغ‌گیر من",
+          "translationEn": "who asks for me",
+          "lexemeId": "tr:sormak"
+        },
+        {
+          "surface": "çok,",
+          "translationFa": "خیلی",
+          "translationEn": "many",
+          "lexemeId": "tr:cok"
+        },
+        {
+          "surface": "uyanırsam",
+          "translationFa": "اگر بیدار شوم",
+          "translationEn": "if I wake"
+        },
+        {
+          "surface": "yarın",
+          "translationFa": "فردا",
+          "translationEn": "tomorrow",
+          "lexemeId": "tr:yarin"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "Adını çok duyar oldum",
+      "translationFa": "خیلی نامت را می‌شنوم.",
+      "translationEn": "I hear your name a lot lately.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "çok",
+          "translationFa": "خیلی",
+          "translationEn": "a lot",
+          "lexemeId": "tr:cok"
+        },
+        {
+          "surface": "duyar",
+          "translationFa": "می‌شنوم",
+          "translationEn": "I hear",
+          "lexemeId": "tr:duymak"
+        },
+        {
+          "surface": "oldum",
+          "translationFa": "شده‌ام",
+          "translationEn": "have become",
+          "lexemeId": "tr:olmak"
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "Artık sağırım!",
+      "translationFa": "دیگر کر شده‌ام!",
+      "translationEn": "I'm deaf now!",
+      "tokens": [
+        {
+          "surface": "Artık",
+          "translationFa": "دیگر",
+          "translationEn": "now"
+        },
+        {
+          "surface": "sağırım!",
+          "translationFa": "کر شده‌ام",
+          "translationEn": "I'm deaf",
+          "lexemeId": "tr:sagir"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "Aklıma geliyorsun, yakma beni",
+      "translationFa": "به ذهنم می‌آیی، مرا نسوزان.",
+      "translationEn": "You come to mind; don't burn me.",
+      "tokens": [
+        {
+          "surface": "Aklıma",
+          "translationFa": "به ذهنم",
+          "translationEn": "to my mind",
+          "lexemeId": "tr:akil"
+        },
+        {
+          "surface": "geliyorsun,",
+          "translationFa": "می‌آیی",
+          "translationEn": "you come",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "yakma",
+          "translationFa": "نسوزان",
+          "translationEn": "don't burn",
+          "lexemeId": "tr:yakmak"
+        },
+        {
+          "surface": "beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "Ne yapsam da kurtulamam, denedim",
+      "translationFa": "هر کاری هم بکنم نمی‌توانم خلاص شوم، امتحان کردم.",
+      "translationEn": "Whatever I do, I can't get rid of it; I tried.",
+      "tokens": [
+        {
+          "surface": "Ne",
+          "translationFa": "هر",
+          "translationEn": "whatever"
+        },
+        {
+          "surface": "yapsam",
+          "translationFa": "بکنم",
+          "translationEn": "I do",
+          "lexemeId": "tr:yapmak"
+        },
+        {
+          "surface": "da",
+          "translationFa": "هم",
+          "translationEn": "even"
+        },
+        {
+          "surface": "kurtulamam,",
+          "translationFa": "نمی‌توانم خلاص شوم",
+          "translationEn": "I can't escape",
+          "lexemeId": "tr:kurtulmak"
+        },
+        {
+          "surface": "denedim",
+          "translationFa": "امتحان کردم",
+          "translationEn": "I tried",
+          "lexemeId": "tr:denemek"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "Bi uçurum kenarında unutup",
+      "translationFa": "در لبهٔ یک پرتگاه فراموش کن و...",
+      "translationEn": "Forgetting at the edge of a cliff...",
+      "tokens": [
+        {
+          "surface": "Bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "uçurum",
+          "translationFa": "پرتگاه",
+          "translationEn": "cliff",
+          "lexemeId": "tr:ucurum"
+        },
+        {
+          "surface": "kenarında",
+          "translationFa": "در لبهٔ",
+          "translationEn": "at the edge of",
+          "lexemeId": "tr:kenar"
+        },
+        {
+          "surface": "unutup",
+          "translationFa": "فراموش کن و",
+          "translationEn": "forgetting",
+          "lexemeId": "tr:unutmak"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "Kendimi, vurasım var be gülüm!",
+      "translationFa": "دلم می‌خواهد خودم را بزنم، ای عزیزم!",
+      "translationEn": "I want to hit myself, my dear!",
+      "tokens": [
+        {
+          "surface": "Kendimi,",
+          "translationFa": "خودم را",
+          "translationEn": "myself"
+        },
+        {
+          "surface": "vurasım",
+          "translationFa": "بزنم",
+          "translationEn": "I want to hit",
+          "lexemeId": "tr:vurmak"
+        },
+        {
+          "surface": "var",
+          "translationFa": "دلم می‌خواهد",
+          "translationEn": "I want"
+        },
+        {
+          "surface": "be",
+          "translationFa": "ای",
+          "translationEn": "oh"
+        },
+        {
+          "surface": "gülüm!",
+          "translationFa": "عزیزم",
+          "translationEn": "my dear",
+          "lexemeId": "tr:gulum"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "Neye bulaştım",
+      "translationFa": "در چه چیزی درگیر شدم؟",
+      "translationEn": "What did I get myself into?",
+      "tokens": [
+        {
+          "surface": "Neye",
+          "translationFa": "در چه چیزی",
+          "translationEn": "into what"
+        },
+        {
+          "surface": "bulaştım",
+          "translationFa": "درگیر شدم",
+          "translationEn": "I got involved",
+          "lexemeId": "tr:bulasmk"
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "Nasıl bi bela bu?",
+      "translationFa": "این چه بلایی است؟",
+      "translationEn": "What kind of trouble is this?",
+      "tokens": [
+        {
+          "surface": "Nasıl",
+          "translationFa": "چه",
+          "translationEn": "what kind of"
+        },
+        {
+          "surface": "bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "bela",
+          "translationFa": "بلا",
+          "translationEn": "trouble",
+          "lexemeId": "tr:bela"
+        },
+        {
+          "surface": "bu?",
+          "translationFa": "این",
+          "translationEn": "this"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "Bi kadeh kadar dolu içim, duy İstanbul",
+      "translationFa": "درونم به اندازهٔ یک جام پر است، بشنو ای استانبول.",
+      "translationEn": "I'm full inside like a goblet, hear me, Istanbul.",
+      "tokens": [
+        {
+          "surface": "Bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "kadeh",
+          "translationFa": "جام",
+          "translationEn": "goblet",
+          "lexemeId": "tr:kadeh"
+        },
+        {
+          "surface": "kadar",
+          "translationFa": "به اندازهٔ",
+          "translationEn": "as much as"
+        },
+        {
+          "surface": "dolu",
+          "translationFa": "پر",
+          "translationEn": "full",
+          "lexemeId": "tr:dolmak"
+        },
+        {
+          "surface": "içim,",
+          "translationFa": "درونم",
+          "translationEn": "inside me",
+          "lexemeId": "tr:ic"
+        },
+        {
+          "surface": "duy",
+          "translationFa": "بشنو",
+          "translationEn": "hear",
+          "lexemeId": "tr:duymak"
+        },
+        {
+          "surface": "İstanbul",
+          "translationFa": "استانبول",
+          "translationEn": "Istanbul"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "\"Sensiz yapamam\" derdi, yapıyor",
+      "translationFa": "می‌گفت «بدون تو نمی‌توانم»، دارد می‌تواند.",
+      "translationEn": "She used to say \"I can't do without you\"; now she can.",
+      "tokens": [
+        {
+          "surface": "\"Sensiz",
+          "translationFa": "بدون تو",
+          "translationEn": "without you",
+          "lexemeId": "tr:sensiz"
+        },
+        {
+          "surface": "yapamam\"",
+          "translationFa": "نمی‌توانم",
+          "translationEn": "I can't",
+          "lexemeId": "tr:yapmak"
+        },
+        {
+          "surface": "derdi,",
+          "translationFa": "می‌گفت",
+          "translationEn": "she said",
+          "lexemeId": "tr:demek"
+        },
+        {
+          "surface": "yapıyor",
+          "translationFa": "می‌تواند",
+          "translationEn": "she manages",
+          "lexemeId": "tr:yapmak"
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "Zaman geçtikçe insan, beklemedim insaf",
+      "translationFa": "با گذشت زمان انسان... انصاف را انتظار نداشتم.",
+      "translationEn": "As time passes, a person... I didn't expect fairness.",
+      "tokens": [
+        {
+          "surface": "Zaman",
+          "translationFa": "زمان",
+          "translationEn": "time",
+          "lexemeId": "tr:zaman"
+        },
+        {
+          "surface": "geçtikçe",
+          "translationFa": "با گذشت",
+          "translationEn": "as it passes",
+          "lexemeId": "tr:gecmek"
+        },
+        {
+          "surface": "insan,",
+          "translationFa": "انسان",
+          "translationEn": "a person"
+        },
+        {
+          "surface": "beklemedim",
+          "translationFa": "انتظار نداشتم",
+          "translationEn": "I didn't expect",
+          "lexemeId": "tr:beklemek"
+        },
+        {
+          "surface": "insaf",
+          "translationFa": "انصاف",
+          "translationEn": "fairness"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "Geldim ne hâle...",
+      "translationFa": "به چه حالی رسیدم...",
+      "translationEn": "Look at the state I've come to...",
+      "tokens": [
+        {
+          "surface": "Geldim",
+          "translationFa": "رسیدم",
+          "translationEn": "I came",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "ne",
+          "translationFa": "چه",
+          "translationEn": "what"
+        },
+        {
+          "surface": "hâle...",
+          "translationFa": "حالی",
+          "translationEn": "state",
+          "lexemeId": "tr:hal"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "Hayatımın içine etmeseydin, hiç bari",
+      "translationFa": "کاش زندگی‌ام را خراب نمی‌کردی، دست‌کم اصلاً.",
+      "translationEn": "If only you hadn't ruined my life, at least not at all.",
+      "tokens": [
+        {
+          "surface": "Hayatımın",
+          "translationFa": "زندگی‌ام را",
+          "translationEn": "my life",
+          "lexemeId": "tr:hayat"
+        },
+        {
+          "surface": "içine",
+          "translationFa": "خراب",
+          "translationEn": "ruined"
+        },
+        {
+          "surface": "etmeseydin,",
+          "translationFa": "نمی‌کردی",
+          "translationEn": "you hadn't"
+        },
+        {
+          "surface": "hiç",
+          "translationFa": "اصلاً",
+          "translationEn": "at all"
+        },
+        {
+          "surface": "bari",
+          "translationFa": "کاش دست‌کم",
+          "translationEn": "at least"
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "Başkasıyla bir olabilir miyiz diye düşündün mü sahi?",
+      "translationFa": "واقعاً فکر کردی که آیا می‌توانیم با دیگری یکی شویم؟",
+      "translationEn": "Did you really think whether we could be together with someone else?",
+      "tokens": [
+        {
+          "surface": "Başkasıyla",
+          "translationFa": "با دیگری",
+          "translationEn": "with someone else"
+        },
+        {
+          "surface": "bir",
+          "translationFa": "با هم",
+          "translationEn": "together",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "olabilir",
+          "translationFa": "می‌توانیم باشیم",
+          "translationEn": "can we be",
+          "lexemeId": "tr:olmak"
+        },
+        {
+          "surface": "miyiz",
+          "translationFa": "آیا",
+          "translationEn": "do we"
+        },
+        {
+          "surface": "diye",
+          "translationFa": "که",
+          "translationEn": "that"
+        },
+        {
+          "surface": "düşündün",
+          "translationFa": "فکر کردی",
+          "translationEn": "you thought",
+          "lexemeId": "tr:dusunmek"
+        },
+        {
+          "surface": "mü",
+          "translationFa": "آیا",
+          "translationEn": "did"
+        },
+        {
+          "surface": "sahi?",
+          "translationFa": "واقعاً",
+          "translationEn": "really"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "Yalnız kalmak bazen daha iyi",
+      "translationFa": "گاهی تنها ماندن بهتر است.",
+      "translationEn": "Being alone is sometimes better.",
+      "tokens": [
+        {
+          "surface": "Yalnız",
+          "translationFa": "تنها",
+          "translationEn": "alone",
+          "lexemeId": "tr:yalniz"
+        },
+        {
+          "surface": "kalmak",
+          "translationFa": "ماندن",
+          "translationEn": "to stay",
+          "lexemeId": "tr:kalmak"
+        },
+        {
+          "surface": "bazen",
+          "translationFa": "گاهی",
+          "translationEn": "sometimes"
+        },
+        {
+          "surface": "daha",
+          "translationFa": "بیشتر",
+          "translationEn": "more"
+        },
+        {
+          "surface": "iyi",
+          "translationFa": "خوب",
+          "translationEn": "good",
+          "lexemeId": "tr:iyi"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "Ama soruyorum artık: hayat neden adil değildi?",
+      "translationFa": "اما حالا می‌پرسم: چرا زندگی عادلانه نبود؟",
+      "translationEn": "But now I ask: why wasn't life fair?",
+      "tokens": [
+        {
+          "surface": "Ama",
+          "translationFa": "اما",
+          "translationEn": "but"
+        },
+        {
+          "surface": "soruyorum",
+          "translationFa": "می‌پرسم",
+          "translationEn": "I ask",
+          "lexemeId": "tr:sormak"
+        },
+        {
+          "surface": "artık:",
+          "translationFa": "حالا",
+          "translationEn": "now"
+        },
+        {
+          "surface": "hayat",
+          "translationFa": "زندگی",
+          "translationEn": "life",
+          "lexemeId": "tr:hayat"
+        },
+        {
+          "surface": "neden",
+          "translationFa": "چرا",
+          "translationEn": "why",
+          "lexemeId": "tr:neden"
+        },
+        {
+          "surface": "adil",
+          "translationFa": "عادلانه",
+          "translationEn": "fair",
+          "lexemeId": "tr:adil"
+        },
+        {
+          "surface": "değildi?",
+          "translationFa": "نبود",
+          "translationEn": "wasn't"
+        }
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "Sen nerdesin?",
+      "translationFa": "تو کجایی؟",
+      "translationEn": "Where are you?",
+      "tokens": [
+        {
+          "surface": "Sen",
+          "translationFa": "تو",
+          "translationEn": "you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "nerdesin?",
+          "translationFa": "کجایی",
+          "translationEn": "where are you"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "Ben hep sendeyim, bi dert değmesin aman",
+      "translationFa": "من همیشه در توام، مبادا دردی به تو برسد.",
+      "translationEn": "I'm always in you; let no trouble touch you.",
+      "tokens": [
+        {
+          "surface": "Ben",
+          "translationFa": "من",
+          "translationEn": "I",
+          "lexemeId": "tr:ben"
+        },
+        {
+          "surface": "hep",
+          "translationFa": "همیشه",
+          "translationEn": "always"
+        },
+        {
+          "surface": "sendeyim,",
+          "translationFa": "در توام",
+          "translationEn": "I'm in you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "dert",
+          "translationFa": "درد",
+          "translationEn": "trouble",
+          "lexemeId": "tr:dert"
+        },
+        {
+          "surface": "değmesin",
+          "translationFa": "نرسد",
+          "translationEn": "let it not touch"
+        },
+        {
+          "surface": "aman",
+          "translationFa": "مبادا",
+          "translationEn": "God forbid"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "Düşmüşüm, yerdeyim...",
+      "translationFa": "افتاده‌ام، روی زمینم...",
+      "translationEn": "I've fallen, I'm on the ground...",
+      "tokens": [
+        {
+          "surface": "Düşmüşüm,",
+          "translationFa": "افتاده‌ام",
+          "translationEn": "I've fallen",
+          "lexemeId": "tr:dusmek"
+        },
+        {
+          "surface": "yerdeyim...",
+          "translationFa": "روی زمینم",
+          "translationEn": "I'm on the ground",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "Babam görmesin",
+      "translationFa": "پدرم نبیند.",
+      "translationEn": "Let my father not see.",
+      "tokens": [
+        {
+          "surface": "Babam",
+          "translationFa": "پدرم",
+          "translationEn": "my father",
+          "lexemeId": "tr:baba"
+        },
+        {
+          "surface": "görmesin",
+          "translationFa": "نبیند",
+          "translationEn": "let him not see",
+          "lexemeId": "tr:gormek"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "Aklıma geliyorsun, yakma beni",
+      "translationFa": "به ذهنم می‌آیی، مرا نسوزان.",
+      "translationEn": "You come to mind; don't burn me.",
+      "tokens": [
+        {
+          "surface": "Aklıma",
+          "translationFa": "به ذهنم",
+          "translationEn": "to my mind",
+          "lexemeId": "tr:akil"
+        },
+        {
+          "surface": "geliyorsun,",
+          "translationFa": "می‌آیی",
+          "translationEn": "you come",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "yakma",
+          "translationFa": "نسوزان",
+          "translationEn": "don't burn",
+          "lexemeId": "tr:yakmak"
+        },
+        {
+          "surface": "beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "Ne yapsam da kurtulamam, denedim",
+      "translationFa": "هر کاری هم بکنم نمی‌توانم خلاص شوم، امتحان کردم.",
+      "translationEn": "Whatever I do, I can't get rid of it; I tried.",
+      "tokens": [
+        {
+          "surface": "Ne",
+          "translationFa": "هر",
+          "translationEn": "whatever"
+        },
+        {
+          "surface": "yapsam",
+          "translationFa": "بکنم",
+          "translationEn": "I do",
+          "lexemeId": "tr:yapmak"
+        },
+        {
+          "surface": "da",
+          "translationFa": "هم",
+          "translationEn": "even"
+        },
+        {
+          "surface": "kurtulamam,",
+          "translationFa": "نمی‌توانم خلاص شوم",
+          "translationEn": "I can't escape",
+          "lexemeId": "tr:kurtulmak"
+        },
+        {
+          "surface": "denedim",
+          "translationFa": "امتحان کردم",
+          "translationEn": "I tried",
+          "lexemeId": "tr:denemek"
+        }
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "Bi uçurum kenarında unutup",
+      "translationFa": "در لبهٔ یک پرتگاه فراموش کن و...",
+      "translationEn": "Forgetting at the edge of a cliff...",
+      "tokens": [
+        {
+          "surface": "Bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "uçurum",
+          "translationFa": "پرتگاه",
+          "translationEn": "cliff",
+          "lexemeId": "tr:ucurum"
+        },
+        {
+          "surface": "kenarında",
+          "translationFa": "در لبهٔ",
+          "translationEn": "at the edge of",
+          "lexemeId": "tr:kenar"
+        },
+        {
+          "surface": "unutup",
+          "translationFa": "فراموش کن و",
+          "translationEn": "forgetting",
+          "lexemeId": "tr:unutmak"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "Kendimi, vurasım var be gülüm!",
+      "translationFa": "دلم می‌خواهد خودم را بزنم، ای عزیزم!",
+      "translationEn": "I want to hit myself, my dear!",
+      "tokens": [
+        {
+          "surface": "Kendimi,",
+          "translationFa": "خودم را",
+          "translationEn": "myself"
+        },
+        {
+          "surface": "vurasım",
+          "translationFa": "بزنم",
+          "translationEn": "I want to hit",
+          "lexemeId": "tr:vurmak"
+        },
+        {
+          "surface": "var",
+          "translationFa": "دلم می‌خواهد",
+          "translationEn": "I want"
+        },
+        {
+          "surface": "be",
+          "translationFa": "ای",
+          "translationEn": "oh"
+        },
+        {
+          "surface": "gülüm!",
+          "translationFa": "عزیزم",
+          "translationEn": "my dear",
+          "lexemeId": "tr:gulum"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "Ömrümü harcadım hep sana; ne varsa haram olsun",
+      "translationFa": "عمرم را همیشه برای تو خرج کردم؛ هر چه هست حرام باشد.",
+      "translationEn": "I spent my whole life on you; let everything be cursed.",
+      "tokens": [
+        {
+          "surface": "Ömrümü",
+          "translationFa": "عمرم را",
+          "translationEn": "my life",
+          "lexemeId": "tr:omur"
+        },
+        {
+          "surface": "harcadım",
+          "translationFa": "خرج کردم",
+          "translationEn": "I spent",
+          "lexemeId": "tr:harcamak"
+        },
+        {
+          "surface": "hep",
+          "translationFa": "همیشه",
+          "translationEn": "always"
+        },
+        {
+          "surface": "sana;",
+          "translationFa": "برای تو",
+          "translationEn": "on you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "ne",
+          "translationFa": "هر چه",
+          "translationEn": "whatever"
+        },
+        {
+          "surface": "varsa",
+          "translationFa": "هست",
+          "translationEn": "there is"
+        },
+        {
+          "surface": "haram",
+          "translationFa": "حرام",
+          "translationEn": "cursed",
+          "lexemeId": "tr:haram"
+        },
+        {
+          "surface": "olsun",
+          "translationFa": "باشد",
+          "translationEn": "let it be",
+          "lexemeId": "tr:olmak"
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "Yakışmamıştım sana, ama belanı bulursun",
+      "translationFa": "برازندهٔ تو نبودم، اما به سزای خودت می‌رسی.",
+      "translationEn": "I wasn't right for you, but you'll get what's coming to you.",
+      "tokens": [
+        {
+          "surface": "Yakışmamıştım",
+          "translationFa": "برازنده نبودم",
+          "translationEn": "I wasn't fit",
+          "lexemeId": "tr:yakismak"
+        },
+        {
+          "surface": "sana,",
+          "translationFa": "برای تو",
+          "translationEn": "for you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "ama",
+          "translationFa": "اما",
+          "translationEn": "but"
+        },
+        {
+          "surface": "belanı",
+          "translationFa": "سزایت را",
+          "translationEn": "what's coming to you",
+          "lexemeId": "tr:bela"
+        },
+        {
+          "surface": "bulursun",
+          "translationFa": "می‌رسی",
+          "translationEn": "you'll find",
+          "lexemeId": "tr:bulmak"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "Yat, omzuna seni başkası uyutsun",
+      "translationFa": "بخواب، دیگری تو را روی شانه‌اش بخواباند.",
+      "translationEn": "Sleep, let someone else put you to sleep on their shoulder.",
+      "tokens": [
+        {
+          "surface": "Yat,",
+          "translationFa": "بخواب",
+          "translationEn": "sleep",
+          "lexemeId": "tr:yatmak"
+        },
+        {
+          "surface": "omzuna",
+          "translationFa": "روی شانه‌اش",
+          "translationEn": "on their shoulder",
+          "lexemeId": "tr:omuz"
+        },
+        {
+          "surface": "seni",
+          "translationFa": "تو را",
+          "translationEn": "you",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "başkası",
+          "translationFa": "دیگری",
+          "translationEn": "someone else"
+        },
+        {
+          "surface": "uyutsun",
+          "translationFa": "بخواباند",
+          "translationEn": "let them put to sleep",
+          "lexemeId": "tr:uyutmak"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "Bir cümlede kalırsın",
+      "translationFa": "در یک جمله می‌مانی.",
+      "translationEn": "You'll remain in a single sentence.",
+      "tokens": [
+        {
+          "surface": "Bir",
+          "translationFa": "یک",
+          "translationEn": "a",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "cümlede",
+          "translationFa": "در جمله",
+          "translationEn": "in a sentence",
+          "lexemeId": "tr:cumle"
+        },
+        {
+          "surface": "kalırsın",
+          "translationFa": "می‌مانی",
+          "translationEn": "you'll stay",
+          "lexemeId": "tr:kalmak"
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "Bir gecelik olursun",
+      "translationFa": "یک‌شبه می‌شوی.",
+      "translationEn": "You'll be a one-night thing.",
+      "tokens": [
+        {
+          "surface": "Bir",
+          "translationFa": "یک",
+          "translationEn": "a",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "gecelik",
+          "translationFa": "یک‌شبه",
+          "translationEn": "one-night",
+          "lexemeId": "tr:gece"
+        },
+        {
+          "surface": "olursun",
+          "translationFa": "می‌شوی",
+          "translationEn": "you'll be",
+          "lexemeId": "tr:olmak"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "İçim yanıyor hâlâ",
+      "translationFa": "درونم هنوز می‌سوزد.",
+      "translationEn": "My insides still burn.",
+      "tokens": [
+        {
+          "surface": "İçim",
+          "translationFa": "درونم",
+          "translationEn": "my insides",
+          "lexemeId": "tr:ic"
+        },
+        {
+          "surface": "yanıyor",
+          "translationFa": "می‌سوزد",
+          "translationEn": "burns",
+          "lexemeId": "tr:yanmak"
+        },
+        {
+          "surface": "hâlâ",
+          "translationFa": "هنوز",
+          "translationEn": "still"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "Hiç sevmedin mi beni ya?",
+      "translationFa": "اصلاً مرا دوست نداشتی، مگر نه؟",
+      "translationEn": "Did you never love me at all?",
+      "tokens": [
+        {
+          "surface": "Hiç",
+          "translationFa": "اصلاً",
+          "translationEn": "never"
+        },
+        {
+          "surface": "sevmedin",
+          "translationFa": "دوست نداشتی",
+          "translationEn": "you didn't love",
+          "lexemeId": "tr:sevmek"
+        },
+        {
+          "surface": "mi",
+          "translationFa": "آیا",
+          "translationEn": "did"
+        },
+        {
+          "surface": "beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        },
+        {
+          "surface": "ya?",
+          "translationFa": "مگر نه",
+          "translationEn": "huh"
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "Gönlünde yer bulamadın mı bana?",
+      "translationFa": "در دلت برای من جا پیدا نکردی؟",
+      "translationEn": "Didn't you find a place for me in your heart?",
+      "tokens": [
+        {
+          "surface": "Gönlünde",
+          "translationFa": "در دلت",
+          "translationEn": "in your heart",
+          "lexemeId": "tr:gonul"
+        },
+        {
+          "surface": "yer",
+          "translationFa": "جا",
+          "translationEn": "place",
+          "lexemeId": "tr:yer"
+        },
+        {
+          "surface": "bulamadın",
+          "translationFa": "پیدا نکردی",
+          "translationEn": "you didn't find",
+          "lexemeId": "tr:bulmak"
+        },
+        {
+          "surface": "mı",
+          "translationFa": "آیا",
+          "translationEn": "did"
+        },
+        {
+          "surface": "bana?",
+          "translationFa": "برای من",
+          "translationEn": "for me",
+          "lexemeId": "tr:ben"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "Yine de gölgen olurum ardında...",
+      "translationFa": "باز هم سایه‌ات می‌شوم پشت سرت...",
+      "translationEn": "Still, I'll be your shadow behind you...",
+      "tokens": [
+        {
+          "surface": "Yine",
+          "translationFa": "باز هم",
+          "translationEn": "still"
+        },
+        {
+          "surface": "de",
+          "translationFa": "هم",
+          "translationEn": "even"
+        },
+        {
+          "surface": "gölgen",
+          "translationFa": "سایه‌ات",
+          "translationEn": "your shadow",
+          "lexemeId": "tr:golge"
+        },
+        {
+          "surface": "olurum",
+          "translationFa": "می‌شوم",
+          "translationEn": "I'll be",
+          "lexemeId": "tr:olmak"
+        },
+        {
+          "surface": "ardında...",
+          "translationFa": "پشت سرت",
+          "translationEn": "behind you"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "Aklıma geliyorsun, yakma beni",
+      "translationFa": "به ذهنم می‌آیی، مرا نسوزان.",
+      "translationEn": "You come to mind; don't burn me.",
+      "tokens": [
+        {
+          "surface": "Aklıma",
+          "translationFa": "به ذهنم",
+          "translationEn": "to my mind",
+          "lexemeId": "tr:akil"
+        },
+        {
+          "surface": "geliyorsun,",
+          "translationFa": "می‌آیی",
+          "translationEn": "you come",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "yakma",
+          "translationFa": "نسوزان",
+          "translationEn": "don't burn",
+          "lexemeId": "tr:yakmak"
+        },
+        {
+          "surface": "beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        }
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "Ne yapsam da kurtulamam, denedim",
+      "translationFa": "هر کاری هم بکنم نمی‌توانم خلاص شوم، امتحان کردم.",
+      "translationEn": "Whatever I do, I can't get rid of it; I tried.",
+      "tokens": [
+        {
+          "surface": "Ne",
+          "translationFa": "هر",
+          "translationEn": "whatever"
+        },
+        {
+          "surface": "yapsam",
+          "translationFa": "بکنم",
+          "translationEn": "I do",
+          "lexemeId": "tr:yapmak"
+        },
+        {
+          "surface": "da",
+          "translationFa": "هم",
+          "translationEn": "even"
+        },
+        {
+          "surface": "kurtulamam,",
+          "translationFa": "نمی‌توانم خلاص شوم",
+          "translationEn": "I can't escape",
+          "lexemeId": "tr:kurtulmak"
+        },
+        {
+          "surface": "denedim",
+          "translationFa": "امتحان کردم",
+          "translationEn": "I tried",
+          "lexemeId": "tr:denemek"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "Bi uçurum kenarında unutup",
+      "translationFa": "در لبهٔ یک پرتگاه فراموش کن و...",
+      "translationEn": "Forgetting at the edge of a cliff...",
+      "tokens": [
+        {
+          "surface": "Bi",
+          "translationFa": "یک",
+          "translationEn": "a"
+        },
+        {
+          "surface": "uçurum",
+          "translationFa": "پرتگاه",
+          "translationEn": "cliff",
+          "lexemeId": "tr:ucurum"
+        },
+        {
+          "surface": "kenarında",
+          "translationFa": "در لبهٔ",
+          "translationEn": "at the edge of",
+          "lexemeId": "tr:kenar"
+        },
+        {
+          "surface": "unutup",
+          "translationFa": "فراموش کن و",
+          "translationEn": "forgetting",
+          "lexemeId": "tr:unutmak"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "Kendimi, vurasım var be gülüm!",
+      "translationFa": "دلم می‌خواهد خودم را بزنم، ای عزیزم!",
+      "translationEn": "I want to hit myself, my dear!",
+      "tokens": [
+        {
+          "surface": "Kendimi,",
+          "translationFa": "خودم را",
+          "translationEn": "myself"
+        },
+        {
+          "surface": "vurasım",
+          "translationFa": "بزنم",
+          "translationEn": "I want to hit",
+          "lexemeId": "tr:vurmak"
+        },
+        {
+          "surface": "var",
+          "translationFa": "دلم می‌خواهد",
+          "translationEn": "I want"
+        },
+        {
+          "surface": "be",
+          "translationFa": "ای",
+          "translationEn": "oh"
+        },
+        {
+          "surface": "gülüm!",
+          "translationFa": "عزیزم",
+          "translationEn": "my dear",
+          "lexemeId": "tr:gulum"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "lexemeId": "tr:ben",
+      "lemma": "ben",
+      "normalizedKey": "ben",
+      "translationFa": "من",
+      "translationEn": "I",
+      "faReading": "بِن",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Ben buradayım.",
+        "translationFa": "من اینجا هستم.",
+        "translationEn": "I am here."
+      }
+    },
+    {
+      "lexemeId": "tr:almak",
+      "lemma": "almak",
+      "normalizedKey": "almak",
+      "translationFa": "گرفتن",
+      "translationEn": "to take",
+      "faReading": "آلماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Beni de al.",
+        "translationFa": "مرا هم ببر.",
+        "translationEn": "Take me too."
+      }
+    },
+    {
+      "lexemeId": "tr:kose",
+      "lemma": "köşe",
+      "normalizedKey": "köşe",
+      "translationFa": "گوشه",
+      "translationEn": "corner",
+      "faReading": "کوشه",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Köşede oturuyorum.",
+        "translationFa": "در گوشه می‌نشینم.",
+        "translationEn": "I'm sitting in the corner."
+      }
+    },
+    {
+      "lexemeId": "tr:uyumak",
+      "lemma": "uyumak",
+      "normalizedKey": "uyumak",
+      "translationFa": "خوابیدن",
+      "translationEn": "to sleep",
+      "faReading": "اویوماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Köşede uyurum.",
+        "translationFa": "در گوشه می‌خوابم.",
+        "translationEn": "I sleep in the corner."
+      }
+    },
+    {
+      "lexemeId": "tr:yakmak",
+      "lemma": "yakmak",
+      "normalizedKey": "yakmak",
+      "translationFa": "سوزاندن",
+      "translationEn": "to burn",
+      "faReading": "یاکماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "coral",
+      "example": {
+        "text": "Yakma beni.",
+        "translationFa": "مرا نسوزان.",
+        "translationEn": "Don't burn me."
+      }
+    },
+    {
+      "lexemeId": "tr:inat",
+      "lemma": "inat",
+      "normalizedKey": "inat",
+      "translationFa": "لجاجت",
+      "translationEn": "stubbornness",
+      "faReading": "اینات",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "rose",
+      "example": {
+        "text": "Bu inadı bırak.",
+        "translationFa": "این لجاجت را رها کن.",
+        "translationEn": "Let go of this stubbornness."
+      }
+    },
+    {
+      "lexemeId": "tr:birakmak",
+      "lemma": "bırakmak",
+      "normalizedKey": "bırakmak",
+      "translationFa": "رها کردن",
+      "translationEn": "to leave, let go",
+      "faReading": "بیراکماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bırak beni.",
+        "translationFa": "مرا رها کن.",
+        "translationEn": "Let me go."
+      }
+    },
+    {
+      "lexemeId": "tr:kas",
+      "lemma": "kaş",
+      "normalizedKey": "kaş",
+      "translationFa": "ابرو",
+      "translationEn": "eyebrow",
+      "faReading": "کاش",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "apricot",
+      "example": {
+        "text": "Kaşına vuruldum.",
+        "translationFa": "به ابرویت دل باختم.",
+        "translationEn": "I fell for your eyebrow."
+      }
+    },
+    {
+      "lexemeId": "tr:goz",
+      "lemma": "göz",
+      "normalizedKey": "göz",
+      "translationFa": "چشم",
+      "translationEn": "eye",
+      "faReading": "گوز",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Gözüne vuruldum.",
+        "translationFa": "به چشمت دل باختم.",
+        "translationEn": "I fell for your eye."
+      }
+    },
+    {
+      "lexemeId": "tr:vurulmak",
+      "lemma": "vurulmak",
+      "normalizedKey": "vurulmak",
+      "translationFa": "عاشق شدن",
+      "translationEn": "to fall in love",
+      "faReading": "وورولماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "rose",
+      "example": {
+        "text": "Ona vuruldum.",
+        "translationFa": "به او دل باختم.",
+        "translationEn": "I fell for her."
+      }
+    },
+    {
+      "lexemeId": "tr:yazmak",
+      "lemma": "yazmak",
+      "normalizedKey": "yazmak",
+      "translationFa": "نوشتن",
+      "translationEn": "to write",
+      "faReading": "یازماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Sana yazmıştım.",
+        "translationFa": "برای تو نوشته بودم.",
+        "translationEn": "I had written to you."
+      }
+    },
+    {
+      "lexemeId": "tr:kalp",
+      "lemma": "kalp",
+      "normalizedKey": "kalp",
+      "translationFa": "قلب",
+      "translationEn": "heart",
+      "faReading": "کالپ",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "coral",
+      "example": {
+        "text": "Kalbim yanıyor.",
+        "translationFa": "قلبم می‌سوزد.",
+        "translationEn": "My heart burns."
+      }
+    },
+    {
+      "lexemeId": "tr:deli",
+      "lemma": "deli",
+      "normalizedKey": "deli",
+      "translationFa": "دیوانه",
+      "translationEn": "crazy",
+      "faReading": "دلی",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "rose",
+      "example": {
+        "text": "Deliler gibi seviyorum.",
+        "translationFa": "مثل دیوانه‌ها دوست دارم.",
+        "translationEn": "I love like crazy."
+      }
+    },
+    {
+      "lexemeId": "tr:hasret",
+      "lemma": "hasret",
+      "normalizedKey": "hasret",
+      "translationFa": "دلتنگی",
+      "translationEn": "longing",
+      "faReading": "هاسرت",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "apricot",
+      "example": {
+        "text": "Sana hasret kaldım.",
+        "translationFa": "دلتنگ تو شدم.",
+        "translationEn": "I longed for you."
+      }
+    },
+    {
+      "lexemeId": "tr:kalmak",
+      "lemma": "kalmak",
+      "normalizedKey": "kalmak",
+      "translationFa": "ماندن",
+      "translationEn": "to stay, remain",
+      "faReading": "کالماك",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Yalnız kalmak iyi.",
+        "translationFa": "تنها ماندن خوب است.",
+        "translationEn": "Being alone is good."
+      }
+    },
+    {
+      "lexemeId": "tr:inanmak",
+      "lemma": "inanmak",
+      "normalizedKey": "inanmak",
+      "translationFa": "باور کردن",
+      "translationEn": "to believe",
+      "faReading": "اینانماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "İnandım.",
+        "translationFa": "باور کردم.",
+        "translationEn": "I believed."
+      }
+    },
+    {
+      "lexemeId": "tr:yer",
+      "lemma": "yer",
+      "normalizedKey": "yer",
+      "translationFa": "جا",
+      "translationEn": "place",
+      "faReading": "یر",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Gönlünde yer bulamadım.",
+        "translationFa": "در دلت جا پیدا نکردم.",
+        "translationEn": "I found no place in your heart."
+      }
+    },
+    {
+      "lexemeId": "tr:yok",
+      "lemma": "yok",
+      "normalizedKey": "yok",
+      "translationFa": "نیست",
+      "translationEn": "nonexistent",
+      "faReading": "یوخ",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "coral",
+      "example": {
+        "text": "Param yoktu.",
+        "translationFa": "پول نداشتم.",
+        "translationEn": "I had no money."
+      }
+    },
+    {
+      "lexemeId": "tr:para",
+      "lemma": "para",
+      "normalizedKey": "para",
+      "translationFa": "پول",
+      "translationEn": "money",
+      "faReading": "پارا",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "mint",
+      "example": {
+        "text": "Param yoktu.",
+        "translationFa": "پول نداشتم.",
+        "translationEn": "I had no money."
+      }
+    },
+    {
+      "lexemeId": "tr:rahat",
+      "lemma": "rahat",
+      "normalizedKey": "rahat",
+      "translationFa": "راحت",
+      "translationEn": "at ease",
+      "faReading": "راحات",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "mint",
+      "example": {
+        "text": "Şimdi rahatım.",
+        "translationFa": "حالا راحتم.",
+        "translationEn": "Now I'm at ease."
+      }
+    },
+    {
+      "lexemeId": "tr:aramak",
+      "lemma": "aramak",
+      "normalizedKey": "aramak",
+      "translationFa": "جستجو کردن",
+      "translationEn": "to look for",
+      "faReading": "آراماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Arayan çok.",
+        "translationFa": "سراغ‌گیرنده زیاد است.",
+        "translationEn": "Many look for me."
+      }
+    },
+    {
+      "lexemeId": "tr:sormak",
+      "lemma": "sormak",
+      "normalizedKey": "sormak",
+      "translationFa": "پرسیدن",
+      "translationEn": "to ask",
+      "faReading": "سورماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "amber",
+      "example": {
+        "text": "Soruyorum.",
+        "translationFa": "می‌پرسم.",
+        "translationEn": "I'm asking."
+      }
+    },
+    {
+      "lexemeId": "tr:cok",
+      "lemma": "çok",
+      "normalizedKey": "çok",
+      "translationFa": "خیلی",
+      "translationEn": "very, much",
+      "faReading": "چوک",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Adını çok duyar oldum.",
+        "translationFa": "نامت را خیلی می‌شنوم.",
+        "translationEn": "I hear your name a lot."
+      }
+    },
+    {
+      "lexemeId": "tr:yarin",
+      "lemma": "yarın",
+      "normalizedKey": "yarın",
+      "translationFa": "فردا",
+      "translationEn": "tomorrow",
+      "faReading": "یارین",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "apricot",
+      "example": {
+        "text": "Yarın uyanırsam.",
+        "translationFa": "اگر فردا بیدار شوم.",
+        "translationEn": "If I wake tomorrow."
+      }
+    },
+    {
+      "lexemeId": "tr:ad",
+      "lemma": "ad",
+      "normalizedKey": "ad",
+      "translationFa": "نام",
+      "translationEn": "name",
+      "faReading": "آد",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "mint",
+      "example": {
+        "text": "Adını duyar oldum.",
+        "translationFa": "نامت را می‌شنوم.",
+        "translationEn": "I hear your name."
+      }
+    },
+    {
+      "lexemeId": "tr:duymak",
+      "lemma": "duymak",
+      "normalizedKey": "duymak",
+      "translationFa": "شنیدن",
+      "translationEn": "to hear",
+      "faReading": "دویماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Duy İstanbul.",
+        "translationFa": "بشنو ای استانبول.",
+        "translationEn": "Hear, Istanbul."
+      }
+    },
+    {
+      "lexemeId": "tr:sagir",
+      "lemma": "sağır",
+      "normalizedKey": "sağır",
+      "translationFa": "کر",
+      "translationEn": "deaf",
+      "faReading": "ساعیر",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "coral",
+      "example": {
+        "text": "Artık sağırım.",
+        "translationFa": "دیگر کر شده‌ام.",
+        "translationEn": "I'm deaf now."
+      }
+    },
+    {
+      "lexemeId": "tr:akil",
+      "lemma": "akıl",
+      "normalizedKey": "akıl",
+      "translationFa": "ذهن",
+      "translationEn": "mind",
+      "faReading": "آکیل",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Aklıma geliyorsun.",
+        "translationFa": "به ذهنم می‌آیی.",
+        "translationEn": "You come to mind."
+      }
+    },
+    {
+      "lexemeId": "tr:gelmek",
+      "lemma": "gelmek",
+      "normalizedKey": "gelmek",
+      "translationFa": "آمدن",
+      "translationEn": "to come",
+      "faReading": "گلمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Aklıma geliyorsun.",
+        "translationFa": "به ذهنم می‌آیی.",
+        "translationEn": "You come to mind."
+      }
+    },
+    {
+      "lexemeId": "tr:kurtulmak",
+      "lemma": "kurtulmak",
+      "normalizedKey": "kurtulmak",
+      "translationFa": "نجات یافتن",
+      "translationEn": "to get rid of",
+      "faReading": "کورتولماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "rose",
+      "example": {
+        "text": "Kurtulamam.",
+        "translationFa": "نمی‌توانم خلاص شوم.",
+        "translationEn": "I can't escape."
+      }
+    },
+    {
+      "lexemeId": "tr:denemek",
+      "lemma": "denemek",
+      "normalizedKey": "denemek",
+      "translationFa": "امتحان کردن",
+      "translationEn": "to try",
+      "faReading": "دنمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Denedim.",
+        "translationFa": "امتحان کردم.",
+        "translationEn": "I tried."
+      }
+    },
+    {
+      "lexemeId": "tr:ucurum",
+      "lemma": "uçurum",
+      "normalizedKey": "uçurum",
+      "translationFa": "پرتگاه",
+      "translationEn": "cliff",
+      "faReading": "اوچوروم",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "coral",
+      "example": {
+        "text": "Uçurum kenarında.",
+        "translationFa": "در لبهٔ پرتگاه.",
+        "translationEn": "At the edge of a cliff."
+      }
+    },
+    {
+      "lexemeId": "tr:kenar",
+      "lemma": "kenar",
+      "normalizedKey": "kenar",
+      "translationFa": "لبه",
+      "translationEn": "edge",
+      "faReading": "کنار",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Uçurum kenarında.",
+        "translationFa": "در لبهٔ پرتگاه.",
+        "translationEn": "At the edge of a cliff."
+      }
+    },
+    {
+      "lexemeId": "tr:unutmak",
+      "lemma": "unutmak",
+      "normalizedKey": "unutmak",
+      "translationFa": "فراموش کردن",
+      "translationEn": "to forget",
+      "faReading": "اونوتماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "apricot",
+      "example": {
+        "text": "Unutup kendimi.",
+        "translationFa": "خودم را فراموش کن.",
+        "translationEn": "Forgetting myself."
+      }
+    },
+    {
+      "lexemeId": "tr:vurmak",
+      "lemma": "vurmak",
+      "normalizedKey": "vurmak",
+      "translationFa": "زدن",
+      "translationEn": "to hit",
+      "faReading": "وورماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "rose",
+      "example": {
+        "text": "Kendimi vurasım var.",
+        "translationFa": "دلم می‌خواهد خودم را بزنم.",
+        "translationEn": "I want to hit myself."
+      }
+    },
+    {
+      "lexemeId": "tr:gulum",
+      "lemma": "gülüm",
+      "normalizedKey": "gülüm",
+      "translationFa": "عزیزم",
+      "translationEn": "my dear",
+      "faReading": "گولوم",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "rose",
+      "example": {
+        "text": "Vurasım var be gülüm.",
+        "translationFa": "دلم می‌خواهد بزنم، ای عزیزم.",
+        "translationEn": "I want to hit, my dear."
+      }
+    },
+    {
+      "lexemeId": "tr:bulasmk",
+      "lemma": "bulaşmak",
+      "normalizedKey": "bulaşmak",
+      "translationFa": "درگیر شدن",
+      "translationEn": "to get involved",
+      "faReading": "بولاشماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "coral",
+      "example": {
+        "text": "Neye bulaştım.",
+        "translationFa": "در چه چیزی درگیر شدم.",
+        "translationEn": "What did I get into."
+      }
+    },
+    {
+      "lexemeId": "tr:bela",
+      "lemma": "bela",
+      "normalizedKey": "bela",
+      "translationFa": "بلا",
+      "translationEn": "trouble",
+      "faReading": "بلا",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "coral",
+      "example": {
+        "text": "Nasıl bir bela bu?",
+        "translationFa": "این چه بلایی است؟",
+        "translationEn": "What kind of trouble is this."
+      }
+    },
+    {
+      "lexemeId": "tr:kadeh",
+      "lemma": "kadeh",
+      "normalizedKey": "kadeh",
+      "translationFa": "جام",
+      "translationEn": "goblet",
+      "faReading": "کاده",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Bir kadeh kadar doluyum.",
+        "translationFa": "به اندازهٔ یک جام پرم.",
+        "translationEn": "I'm full like a goblet."
+      }
+    },
+    {
+      "lexemeId": "tr:dolmak",
+      "lemma": "dolmak",
+      "normalizedKey": "dolmak",
+      "translationFa": "پر شدن",
+      "translationEn": "to fill",
+      "faReading": "دولماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "İçim dolu.",
+        "translationFa": "درونم پر است.",
+        "translationEn": "I'm full inside."
+      }
+    },
+    {
+      "lexemeId": "tr:ic",
+      "lemma": "iç",
+      "normalizedKey": "iç",
+      "translationFa": "داخل",
+      "translationEn": "inside",
+      "faReading": "ایچ",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "rose",
+      "example": {
+        "text": "İçim yanıyor.",
+        "translationFa": "درونم می‌سوزد.",
+        "translationEn": "My insides burn."
+      }
+    },
+    {
+      "lexemeId": "tr:sensiz",
+      "lemma": "sensiz",
+      "normalizedKey": "sensiz",
+      "translationFa": "بدون تو",
+      "translationEn": "without you",
+      "faReading": "سنسیز",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "apricot",
+      "example": {
+        "text": "Sensiz yapamam.",
+        "translationFa": "بدون تو نمی‌توانم.",
+        "translationEn": "I can't without you."
+      }
+    },
+    {
+      "lexemeId": "tr:yapmak",
+      "lemma": "yapmak",
+      "normalizedKey": "yapmak",
+      "translationFa": "انجام دادن",
+      "translationEn": "to do",
+      "faReading": "یاپماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Sensiz yapamam.",
+        "translationFa": "بدون تو نمی‌توانم.",
+        "translationEn": "I can't without you."
+      }
+    },
+    {
+      "lexemeId": "tr:demek",
+      "lemma": "demek",
+      "normalizedKey": "demek",
+      "translationFa": "گفتن",
+      "translationEn": "to say",
+      "faReading": "دمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Sensiz yapamam derdi.",
+        "translationFa": "می‌گفت بدون تو نمی‌توانم.",
+        "translationEn": "She said I can't without you."
+      }
+    },
+    {
+      "lexemeId": "tr:zaman",
+      "lemma": "zaman",
+      "normalizedKey": "zaman",
+      "translationFa": "زمان",
+      "translationEn": "time",
+      "faReading": "زامان",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Zaman geçtikçe.",
+        "translationFa": "با گذشت زمان.",
+        "translationEn": "As time passes."
+      }
+    },
+    {
+      "lexemeId": "tr:gecmek",
+      "lemma": "geçmek",
+      "normalizedKey": "geçmek",
+      "translationFa": "گذشتن",
+      "translationEn": "to pass",
+      "faReading": "گچمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Zaman geçtikçe.",
+        "translationFa": "با گذشت زمان.",
+        "translationEn": "As time passes."
+      }
+    },
+    {
+      "lexemeId": "tr:beklemek",
+      "lemma": "beklemek",
+      "normalizedKey": "beklemek",
+      "translationFa": "انتظار کشیدن",
+      "translationEn": "to wait, expect",
+      "faReading": "بکلمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "apricot",
+      "example": {
+        "text": "İnsaf beklemedim.",
+        "translationFa": "انصاف انتظار نداشتم.",
+        "translationEn": "I didn't expect fairness."
+      }
+    },
+    {
+      "lexemeId": "tr:hal",
+      "lemma": "hâl",
+      "normalizedKey": "hâl",
+      "translationFa": "حال",
+      "translationEn": "state",
+      "faReading": "هال",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "coral",
+      "example": {
+        "text": "Geldim ne hâle.",
+        "translationFa": "به چه حالی رسیدم.",
+        "translationEn": "Look at my state."
+      }
+    },
+    {
+      "lexemeId": "tr:hayat",
+      "lemma": "hayat",
+      "normalizedKey": "hayat",
+      "translationFa": "زندگی",
+      "translationEn": "life",
+      "faReading": "حیات",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "mint",
+      "example": {
+        "text": "Hayat neden adil değildi?",
+        "translationFa": "چرا زندگی عادلانه نبود؟",
+        "translationEn": "Why wasn't life fair."
+      }
+    },
+    {
+      "lexemeId": "tr:olmak",
+      "lemma": "olmak",
+      "normalizedKey": "olmak",
+      "translationFa": "شدن",
+      "translationEn": "to be, become",
+      "faReading": "اولماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Bir gecelik olursun.",
+        "translationFa": "یک‌شبه می‌شوی.",
+        "translationEn": "You'll be a one-night thing."
+      }
+    },
+    {
+      "lexemeId": "tr:dusunmek",
+      "lemma": "düşünmek",
+      "normalizedKey": "düşünmek",
+      "translationFa": "فکر کردن",
+      "translationEn": "to think",
+      "faReading": "دوشونمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "amber",
+      "example": {
+        "text": "Düşündün mü?",
+        "translationFa": "فکر کردی؟",
+        "translationEn": "Did you think."
+      }
+    },
+    {
+      "lexemeId": "tr:yalniz",
+      "lemma": "yalnız",
+      "normalizedKey": "yalnız",
+      "translationFa": "تنها",
+      "translationEn": "alone",
+      "faReading": "یالنیز",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "apricot",
+      "example": {
+        "text": "Yalnız kalmak iyi.",
+        "translationFa": "تنها ماندن خوب است.",
+        "translationEn": "Being alone is good."
+      }
+    },
+    {
+      "lexemeId": "tr:iyi",
+      "lemma": "iyi",
+      "normalizedKey": "iyi",
+      "translationFa": "خوب",
+      "translationEn": "good",
+      "faReading": "ئی",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "mint",
+      "example": {
+        "text": "Yalnız kalmak daha iyi.",
+        "translationFa": "تنها ماندن بهتر است.",
+        "translationEn": "Being alone is better."
+      }
+    },
+    {
+      "lexemeId": "tr:neden",
+      "lemma": "neden",
+      "normalizedKey": "neden",
+      "translationFa": "چرا",
+      "translationEn": "why",
+      "faReading": "ندن",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Hayat neden adil değildi?",
+        "translationFa": "چرا زندگی عادلانه نبود؟",
+        "translationEn": "Why wasn't life fair."
+      }
+    },
+    {
+      "lexemeId": "tr:adil",
+      "lemma": "adil",
+      "normalizedKey": "adil",
+      "translationFa": "عادلانه",
+      "translationEn": "fair",
+      "faReading": "آدیل",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "amber",
+      "example": {
+        "text": "Hayat adil değildi.",
+        "translationFa": "زندگی عادلانه نبود.",
+        "translationEn": "Life wasn't fair."
+      }
+    },
+    {
+      "lexemeId": "tr:sen",
+      "lemma": "sen",
+      "normalizedKey": "sen",
+      "translationFa": "تو",
+      "translationEn": "you",
+      "faReading": "سن",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Sen nerdesin?",
+        "translationFa": "تو کجایی؟",
+        "translationEn": "Where are you."
+      }
+    },
+    {
+      "lexemeId": "tr:dert",
+      "lemma": "dert",
+      "normalizedKey": "dert",
+      "translationFa": "درد",
+      "translationEn": "trouble",
+      "faReading": "درت",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "coral",
+      "example": {
+        "text": "Bir dert değmesin.",
+        "translationFa": "مبادا دردی برسد.",
+        "translationEn": "Let no trouble touch."
+      }
+    },
+    {
+      "lexemeId": "tr:dusmek",
+      "lemma": "düşmek",
+      "normalizedKey": "düşmek",
+      "translationFa": "افتادن",
+      "translationEn": "to fall",
+      "faReading": "دوشمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "rose",
+      "example": {
+        "text": "Düşmüşüm.",
+        "translationFa": "افتاده‌ام.",
+        "translationEn": "I've fallen."
+      }
+    },
+    {
+      "lexemeId": "tr:baba",
+      "lemma": "baba",
+      "normalizedKey": "baba",
+      "translationFa": "پدر",
+      "translationEn": "father",
+      "faReading": "بابا",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "amber",
+      "example": {
+        "text": "Babam görmesin.",
+        "translationFa": "پدرم نبیند.",
+        "translationEn": "Let my father not see."
+      }
+    },
+    {
+      "lexemeId": "tr:gormek",
+      "lemma": "görmek",
+      "normalizedKey": "görmek",
+      "translationFa": "دیدن",
+      "translationEn": "to see",
+      "faReading": "گورمک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Babam görmesin.",
+        "translationFa": "پدرم نبیند.",
+        "translationEn": "Let my father not see."
+      }
+    },
+    {
+      "lexemeId": "tr:omur",
+      "lemma": "ömür",
+      "normalizedKey": "ömür",
+      "translationFa": "عمر",
+      "translationEn": "lifetime",
+      "faReading": "اومور",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "apricot",
+      "example": {
+        "text": "Ömrümü harcadım.",
+        "translationFa": "عمرم را خرج کردم.",
+        "translationEn": "I spent my life."
+      }
+    },
+    {
+      "lexemeId": "tr:harcamak",
+      "lemma": "harcamak",
+      "normalizedKey": "harcamak",
+      "translationFa": "خرج کردن",
+      "translationEn": "to spend",
+      "faReading": "هارجاماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "coral",
+      "example": {
+        "text": "Ömrümü harcadım.",
+        "translationFa": "عمرم را خرج کردم.",
+        "translationEn": "I spent my life."
+      }
+    },
+    {
+      "lexemeId": "tr:haram",
+      "lemma": "haram",
+      "normalizedKey": "haram",
+      "translationFa": "حرام",
+      "translationEn": "cursed",
+      "faReading": "هارام",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "rose",
+      "example": {
+        "text": "Ne varsa haram olsun.",
+        "translationFa": "هر چه هست حرام باشد.",
+        "translationEn": "Let everything be cursed."
+      }
+    },
+    {
+      "lexemeId": "tr:yakismak",
+      "lemma": "yakışmak",
+      "normalizedKey": "yakışmak",
+      "translationFa": "برازنده بودن",
+      "translationEn": "to suit, befit",
+      "faReading": "یاکیشماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "amber",
+      "example": {
+        "text": "Sana yakışmamıştım.",
+        "translationFa": "برازندهٔ تو نبودم.",
+        "translationEn": "I wasn't right for you."
+      }
+    },
+    {
+      "lexemeId": "tr:bulmak",
+      "lemma": "bulmak",
+      "normalizedKey": "bulmak",
+      "translationFa": "پیدا کردن",
+      "translationEn": "to find",
+      "faReading": "بولماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Belanı bulursun.",
+        "translationFa": "به سزایت می‌رسی.",
+        "translationEn": "You'll get what's coming."
+      }
+    },
+    {
+      "lexemeId": "tr:yatmak",
+      "lemma": "yatmak",
+      "normalizedKey": "yatmak",
+      "translationFa": "خوابیدن",
+      "translationEn": "to lie down",
+      "faReading": "یاتماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "blue",
+      "example": {
+        "text": "Yat, uyutsun.",
+        "translationFa": "بخواب، بخواباند.",
+        "translationEn": "Sleep, let them put you to sleep."
+      }
+    },
+    {
+      "lexemeId": "tr:omuz",
+      "lemma": "omuz",
+      "normalizedKey": "omuz",
+      "translationFa": "شانه",
+      "translationEn": "shoulder",
+      "faReading": "اوموز",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "apricot",
+      "example": {
+        "text": "Omzuna uyutsun.",
+        "translationFa": "روی شانه‌اش بخواباند.",
+        "translationEn": "Let them put you to sleep on their shoulder."
+      }
+    },
+    {
+      "lexemeId": "tr:uyutmak",
+      "lemma": "uyutmak",
+      "normalizedKey": "uyutmak",
+      "translationFa": "خواباندن",
+      "translationEn": "to put to sleep",
+      "faReading": "اویوتماك",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Seni uyutsun.",
+        "translationFa": "تو را بخواباند.",
+        "translationEn": "Let them put you to sleep."
+      }
+    },
+    {
+      "lexemeId": "tr:cumle",
+      "lemma": "cümle",
+      "normalizedKey": "cümle",
+      "translationFa": "جمله",
+      "translationEn": "sentence",
+      "faReading": "جومله",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bir cümlede kalırsın.",
+        "translationFa": "در یک جمله می‌مانی.",
+        "translationEn": "You'll remain in a sentence."
+      }
+    },
+    {
+      "lexemeId": "tr:gece",
+      "lemma": "gece",
+      "normalizedKey": "gece",
+      "translationFa": "شب",
+      "translationEn": "night",
+      "faReading": "گجه",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "coral",
+      "example": {
+        "text": "Bir gecelik olursun.",
+        "translationFa": "یک‌شبه می‌شوی.",
+        "translationEn": "You'll be a one-night thing."
+      }
+    },
+    {
+      "lexemeId": "tr:yanmak",
+      "lemma": "yanmak",
+      "normalizedKey": "yanmak",
+      "translationFa": "سوختن",
+      "translationEn": "to burn",
+      "faReading": "یانماک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "rose",
+      "example": {
+        "text": "İçim yanıyor.",
+        "translationFa": "درونم می‌سوزد.",
+        "translationEn": "My insides burn."
+      }
+    },
+    {
+      "lexemeId": "tr:sevmek",
+      "lemma": "sevmek",
+      "normalizedKey": "sevmek",
+      "translationFa": "دوست داشتن",
+      "translationEn": "to love",
+      "faReading": "سوک",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "rose",
+      "example": {
+        "text": "Hiç sevmedin mi?",
+        "translationFa": "اصلاً دوست نداشتی؟",
+        "translationEn": "Did you never love."
+      }
+    },
+    {
+      "lexemeId": "tr:gonul",
+      "lemma": "gönül",
+      "normalizedKey": "gönül",
+      "translationFa": "دل",
+      "translationEn": "heart",
+      "faReading": "گونول",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "apricot",
+      "example": {
+        "text": "Gönlünde yer bulamadın.",
+        "translationFa": "در دلت جا پیدا نکردی.",
+        "translationEn": "You found no place in your heart."
+      }
+    },
+    {
+      "lexemeId": "tr:golge",
+      "lemma": "gölge",
+      "normalizedKey": "gölge",
+      "translationFa": "سایه",
+      "translationEn": "shadow",
+      "faReading": "گولگه",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "mint",
+      "example": {
+        "text": "Gölgen olurum.",
+        "translationFa": "سایه‌ات می‌شوم.",
+        "translationEn": "I'll be your shadow."
+      }
+    },
+    {
+      "lexemeId": "tr:bir",
+      "lemma": "bir",
+      "normalizedKey": "bir",
+      "translationFa": "یک",
+      "translationEn": "one, together",
+      "faReading": "بیر",
+      "partFa": "عدد",
+      "partEn": "numeral",
+      "tone": "amber",
+      "example": {
+        "text": "Bir olabilir miyiz?",
+        "translationFa": "می‌توانیم با هم باشیم؟",
+        "translationEn": "Can we be together."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "accusative-de",
+      "conceptId": "tr:accusative-de",
+      "tagFa": "حالت مفعولی",
+      "tagEn": "Case",
+      "titleFa": "مفعول -i و حرف de",
+      "titleEn": "Accusative -i and particle de",
+      "bodyFa": "در ترکی، مفعول با پسوند -i/-ı/-u/-ü مشخص می‌شود و حرف de (هم، نیز) جدا نوشته می‌شود و به حرف قبل می‌چسبد از نظر معنی. در Beni de al، beni یعنی «مرا» و de یعنی «هم».",
+      "bodyEn": "In Turkish the object takes the accusative suffix -i/-ı/-u/-ü, and the particle de (too, also) is written separately. In Beni de al, beni means me and de means too.",
+      "example": {
+        "text": "Beni de al.",
+        "translationFa": "مرا هم ببر.",
+        "translationEn": "Take me too."
+      },
+      "tone": "blue",
+      "tables": [
+        {
+          "titleFa": "بخش‌های جمله",
+          "titleEn": "Parts of the sentence",
+          "columns": [
+            {
+              "fa": "بخش",
+              "en": "Part"
+            },
+            {
+              "fa": "نمونه",
+              "en": "Example"
+            }
+          ],
+          "rows": [
+            [
+              "مفعول",
+              "beni"
+            ],
+            [
+              "حرف هم",
+              "de"
+            ],
+            [
+              "فعل",
+              "al"
+            ]
+          ],
+          "rowHeader": true
+        }
+      ],
+      "takeawayFa": "پسوند -i مفعول را نشان می‌دهد و de جدا نوشته می‌شود.",
+      "takeawayEn": "The -i suffix marks the object and de is written separately.",
+      "check": {
+        "promptFa": "در Beni de al، مفعول کدام است؟",
+        "promptEn": "What is the object in Beni de al?",
+        "answerFa": "beni",
+        "answerEn": "beni"
+      }
+    },
+    {
+      "id": "negative-imperative",
+      "conceptId": "tr:negative-imperative",
+      "tagFa": "وجه امری منفی",
+      "tagEn": "Mood",
+      "titleFa": "امر منفی -ma",
+      "titleEn": "Negative imperative -ma",
+      "bodyFa": "برای نهی کردن، به بن فعل پسوند -ma/-me اضافه می‌شود: yak- + -ma = yakma (نسوزان). مفعول بعد از آن می‌آید: yakma beni.",
+      "bodyEn": "To forbid, add -ma/-me to the verb stem: yak- + -ma = yakma (don't burn). The object follows: yakma beni.",
+      "example": {
+        "text": "Yakma beni.",
+        "translationFa": "مرا نسوزان.",
+        "translationEn": "Don't burn me."
+      },
+      "tone": "coral",
+      "tables": [
+        {
+          "titleFa": "فعل و امر منفی",
+          "titleEn": "Verb and negative imperative",
+          "columns": [
+            {
+              "fa": "فعل",
+              "en": "Verb"
+            },
+            {
+              "fa": "امر منفی",
+              "en": "Negative imperative"
+            }
+          ],
+          "rows": [
+            [
+              "yakmak",
+              "yakma"
+            ],
+            [
+              "bırakmak",
+              "bırakma"
+            ],
+            [
+              "gelmek",
+              "gelme"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "امر منفی با -ma ساخته می‌شود.",
+      "takeawayEn": "The negative imperative is formed with -ma.",
+      "check": {
+        "promptFa": "امر منفی yakmak چیست؟",
+        "promptEn": "What is the negative imperative of yakmak?",
+        "answerFa": "yakma",
+        "answerEn": "yakma"
+      }
+    },
+    {
+      "id": "passive-vurulmak",
+      "conceptId": "tr:passive-vurulmak",
+      "tagFa": "فعل مجهول",
+      "tagEn": "Voice",
+      "titleFa": "مجهول -ul- و اصطلاح vurulmak",
+      "titleEn": "Passive -ul- and the idiom vurulmak",
+      "bodyFa": "پسوند -ul/-ıl/-ül فعل را مجهول می‌کند. vurulmak در زبان روزمره یعنی «دل باختن و عاشق شدن»، نه فقط «زده شدن». vuruldum یعنی «دل باختم».",
+      "bodyEn": "The suffix -ul/-ıl/-ül makes a verb passive. Vurulmak in everyday speech means to fall in love, not only to be hit. Vuruldum means I fell in love.",
+      "example": {
+        "text": "Kaşına gözüne vuruldum.",
+        "translationFa": "به ابرو و چشمت دل باختم.",
+        "translationEn": "I fell for your eyebrows and eyes."
+      },
+      "tone": "rose",
+      "tables": [
+        {
+          "titleFa": "شکل‌های vurulmak",
+          "titleEn": "Forms of vurulmak",
+          "columns": [
+            {
+              "fa": "شکل",
+              "en": "Form"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "vuruldum",
+              "دل باختم"
+            ],
+            [
+              "vuruldun",
+              "دل باختی"
+            ],
+            [
+              "vuruldu",
+              "دل باخت"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "vurulmak یعنی عاشق شدن.",
+      "takeawayEn": "Vurulmak means to fall in love.",
+      "check": {
+        "promptFa": "vuruldum یعنی چه؟",
+        "promptEn": "What does vuruldum mean?",
+        "answerFa": "دل باختم",
+        "answerEn": "I fell in love"
+      }
+    },
+    {
+      "id": "evidential-mis",
+      "conceptId": "tr:evidential-mis",
+      "tagFa": "وجه نقلی",
+      "tagEn": "Evidential",
+      "titleFa": "نقلی -miş",
+      "titleEn": "Evidential -miş",
+      "bodyFa": "پسوند -miş برای چیزی است که شنیده‌ایم یا نتیجه‌اش را می‌بینیم، نه این‌که خودمان دیده باشیم. yokmuş یعنی «انگار نبود»، düşmüşüm یعنی «افتاده‌ام (می‌بینم که افتاده‌ام)».",
+      "bodyEn": "The suffix -miş is used for things heard or inferred, not directly witnessed. Yokmuş means as if there was none, düşmüşüm means I've fallen (I can see it).",
+      "example": {
+        "text": "Düşmüşüm, yerdeyim.",
+        "translationFa": "افتاده‌ام، روی زمینم.",
+        "translationEn": "I've fallen, I'm on the ground."
+      },
+      "tone": "amber",
+      "tables": [
+        {
+          "titleFa": "نمونه‌های -miş",
+          "titleEn": "Examples of -miş",
+          "columns": [
+            {
+              "fa": "شکل",
+              "en": "Form"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "yokmuş",
+              "انگار نبود"
+            ],
+            [
+              "düşmüşüm",
+              "افتاده‌ام"
+            ],
+            [
+              "yazmıştım",
+              "نوشته بودم"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-miş برای خبر شنیده یا استنتاج‌شده است.",
+      "takeawayEn": "-miş marks reported or inferred information.",
+      "check": {
+        "promptFa": "yokmuş یعنی چه؟",
+        "promptEn": "What does yokmuş mean?",
+        "answerFa": "انگار نبود",
+        "answerEn": "as if there was none"
+      }
+    },
+    {
+      "id": "concessive-sa-da",
+      "conceptId": "tr:concessive-sa-da",
+      "tagFa": "وجه التزامی",
+      "tagEn": "Subjunctive",
+      "titleFa": "شرطی -sa و da",
+      "titleEn": "Conditional -sa and da",
+      "bodyFa": "ساختار -sa + da یعنی «هر کاری هم بکنم». yapsam da یعنی «اگر هم بکنم / هر کاری بکنم». بعد از آن فعل منفی می‌آید: kurtulamam (نمی‌توانم خلاص شوم).",
+      "bodyEn": "The pattern -sa + da means whatever / even if. Yapsam da means whatever I do. It is followed by a negative verb: kurtulamam (I can't escape).",
+      "example": {
+        "text": "Ne yapsam da kurtulamam.",
+        "translationFa": "هر کاری هم بکنم نمی‌توانم خلاص شوم.",
+        "translationEn": "Whatever I do, I can't escape."
+      },
+      "tone": "mint",
+      "tables": [
+        {
+          "titleFa": "ساختار",
+          "titleEn": "Pattern",
+          "columns": [
+            {
+              "fa": "بخش",
+              "en": "Part"
+            },
+            {
+              "fa": "نمونه",
+              "en": "Example"
+            }
+          ],
+          "rows": [
+            [
+              "-sa",
+              "yapsam"
+            ],
+            [
+              "da",
+              "da"
+            ],
+            [
+              "فعل منفی",
+              "kurtulamam"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-sa + da یعنی «هر چه هم».",
+      "takeawayEn": "-sa + da means whatever / even if.",
+      "check": {
+        "promptFa": "yapsam da یعنی چه؟",
+        "promptEn": "What does yapsam da mean?",
+        "answerFa": "هر کاری هم بکنم",
+        "answerEn": "whatever I do"
+      }
+    },
+    {
+      "id": "desiderative-var",
+      "conceptId": "tr:desiderative-var",
+      "tagFa": "میل و آرزو",
+      "tagEn": "Desire",
+      "titleFa": "-sI + var",
+      "titleEn": "-sI + var (want to)",
+      "bodyFa": "برای گفتن «دلم می‌خواهد...» از -sI + var استفاده می‌شود: vurasım var یعنی «دلم می‌خواهد بزنم». var در اینجا به‌تنهایی «هست» نیست، بلکه میل را نشان می‌دهد.",
+      "bodyEn": "To say I want to..., Turkish uses -sI + var: vurasım var means I want to hit. Here var does not just mean there is; it expresses desire.",
+      "example": {
+        "text": "Kendimi vurasım var.",
+        "translationFa": "دلم می‌خواهد خودم را بزنم.",
+        "translationEn": "I want to hit myself."
+      },
+      "tone": "coral",
+      "tables": [
+        {
+          "titleFa": "نمونه‌ها",
+          "titleEn": "Examples",
+          "columns": [
+            {
+              "fa": "ترکی",
+              "en": "Turkish"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "vurasım var",
+              "دلم می‌خواهد بزنم"
+            ],
+            [
+              "gelesim var",
+              "دلم می‌خواهد بیایم"
+            ],
+            [
+              "yiyesim var",
+              "دلم می‌خواهد بخورم"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-sI + var یعنی «دلم می‌خواهد».",
+      "takeawayEn": "-sI + var means I want to.",
+      "check": {
+        "promptFa": "vurasım var یعنی چه؟",
+        "promptEn": "What does vurasım var mean?",
+        "answerFa": "دلم می‌خواهد بزنم",
+        "answerEn": "I want to hit"
+      }
+    },
+    {
+      "id": "potential-mi",
+      "conceptId": "tr:potential-mi",
+      "tagFa": "توانایی",
+      "tagEn": "Ability",
+      "titleFa": "توانایی -bil و mi",
+      "titleEn": "Potential -bil and mi",
+      "bodyFa": "پسوند -bil توانایی را نشان می‌دهد: olabilir یعنی «می‌تواند باشد». با mi به سؤال تبدیل می‌شود: olabilir miyiz یعنی «آیا می‌توانیم باشیم؟».",
+      "bodyEn": "The suffix -bil shows ability: olabilir means can be. With mi it becomes a question: olabilir miyiz means can we be?",
+      "example": {
+        "text": "Bir olabilir miyiz?",
+        "translationFa": "آیا می‌توانیم با هم باشیم؟",
+        "translationEn": "Can we be together."
+      },
+      "tone": "blue",
+      "tables": [
+        {
+          "titleFa": "توانایی",
+          "titleEn": "Ability",
+          "columns": [
+            {
+              "fa": "فعل",
+              "en": "Verb"
+            },
+            {
+              "fa": "توانایی",
+              "en": "Potential"
+            }
+          ],
+          "rows": [
+            [
+              "olmak",
+              "olabilir"
+            ],
+            [
+              "yapmak",
+              "yapabilir"
+            ],
+            [
+              "gelmek",
+              "gelebilir"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-bil یعنی «می‌تواند».",
+      "takeawayEn": "-bil means can.",
+      "check": {
+        "promptFa": "olabilir یعنی چه؟",
+        "promptEn": "What does olabilir mean?",
+        "answerFa": "می‌تواند باشد",
+        "answerEn": "can be"
+      }
+    },
+    {
+      "id": "question-mi",
+      "conceptId": "tr:question-mi",
+      "tagFa": "سؤال",
+      "tagEn": "Question",
+      "titleFa": "حرف سؤال mi",
+      "titleEn": "Question particle mi",
+      "bodyFa": "حرف mi جدا نوشته می‌شود و با هماهنگی صدا به شکل mi/mı/mu/mü درمی‌آید. sevmedin mi یعنی «آیا دوست نداشتی؟». mi به فعل قبل می‌چسبد از نظر آهنگ ولی جدا نوشته می‌شود.",
+      "bodyEn": "The particle mi is written separately and harmonises as mi/mı/mu/mü. Sevmedin mi means did you not love. It follows the verb it questions.",
+      "example": {
+        "text": "Hiç sevmedin mi?",
+        "translationFa": "اصلاً دوست نداشتی؟",
+        "translationEn": "Did you never love."
+      },
+      "tone": "amber",
+      "tables": [
+        {
+          "titleFa": "نمونه‌های mi",
+          "titleEn": "Examples of mi",
+          "columns": [
+            {
+              "fa": "ترکی",
+              "en": "Turkish"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "sevmedin mi",
+              "دوست نداشتی؟"
+            ],
+            [
+              "bulamadın mı",
+              "پیدا نکردی؟"
+            ],
+            [
+              "düşündün mü",
+              "فکر کردی؟"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "mi حرف سؤال است و جدا نوشته می‌شود.",
+      "takeawayEn": "Mi is the question particle and is written separately.",
+      "check": {
+        "promptFa": "sevmedin mi یعنی چه؟",
+        "promptEn": "What does sevmedin mi mean?",
+        "answerFa": "آیا دوست نداشتی؟",
+        "answerEn": "did you not love"
+      }
+    },
+    {
+      "id": "optative-wish",
+      "conceptId": "tr:optative-wish",
+      "tagFa": "آرزو و دعا",
+      "tagEn": "Wish",
+      "titleFa": "وجه التزامی -sIn",
+      "titleEn": "Optative -sIn",
+      "bodyFa": "برای آرزو، دعا و «مبادا» از -sIn استفاده می‌شود: olsun (باشد)، uyutsun (بخواباند)، görmesin (نبیند)، değmesin (نرسد). شکل منفی با -me- ساخته می‌شود.",
+      "bodyEn": "For wishes and prayers Turkish uses -sIn: olsun (let it be), uyutsun (let them put to sleep), görmesin (let him not see), değmesin (let it not touch). The negative uses -me-.",
+      "example": {
+        "text": "Babam görmesin.",
+        "translationFa": "پدرم نبیند.",
+        "translationEn": "Let my father not see."
+      },
+      "tone": "apricot",
+      "tables": [
+        {
+          "titleFa": "آرزو",
+          "titleEn": "Wishes",
+          "columns": [
+            {
+              "fa": "ترکی",
+              "en": "Turkish"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "olsun",
+              "باشد"
+            ],
+            [
+              "uyutsun",
+              "بخواباند"
+            ],
+            [
+              "görmesin",
+              "نبیند"
+            ],
+            [
+              "değmesin",
+              "نرسد"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-sIn برای آرزو و دعا است.",
+      "takeawayEn": "-sIn is used for wishes and prayers.",
+      "check": {
+        "promptFa": "görmesin یعنی چه؟",
+        "promptEn": "What does görmesin mean?",
+        "answerFa": "نبیند",
+        "answerEn": "let him not see"
+      }
+    },
+    {
+      "id": "privative-siz",
+      "conceptId": "tr:privative-siz",
+      "tagFa": "نداشتن",
+      "tagEn": "Lack",
+      "titleFa": "-siz و ناتوانی -amam",
+      "titleEn": "Privative -siz and inability -amam",
+      "bodyFa": "پسوند -siz یعنی «بدون»: sensiz یعنی «بدون تو». برای ناتوانی از -amem/-amam استفاده می‌شود: yapamam یعنی «نمی‌توانم انجام دهم».",
+      "bodyEn": "The suffix -siz means without: sensiz means without you. Inability uses -amem/-amam: yapamam means I can't do.",
+      "example": {
+        "text": "Sensiz yapamam.",
+        "translationFa": "بدون تو نمی‌توانم.",
+        "translationEn": "I can't without you."
+      },
+      "tone": "mint",
+      "tables": [
+        {
+          "titleFa": "بدون",
+          "titleEn": "Without",
+          "columns": [
+            {
+              "fa": "ترکی",
+              "en": "Turkish"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "sensiz",
+              "بدون تو"
+            ],
+            [
+              "parasız",
+              "بدون پول"
+            ],
+            [
+              "yapamam",
+              "نمی‌توانم"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-siz یعنی «بدون».",
+      "takeawayEn": "-siz means without.",
+      "check": {
+        "promptFa": "sensiz یعنی چه؟",
+        "promptEn": "What does sensiz mean?",
+        "answerFa": "بدون تو",
+        "answerEn": "without you"
+      }
+    },
+    {
+      "id": "aorist-r",
+      "conceptId": "tr:aorist-r",
+      "tagFa": "زمان گسترده",
+      "tagEn": "Aorist",
+      "titleFa": "زمان گسترده -r",
+      "titleEn": "Aorist -r",
+      "bodyFa": "زمان گسترده برای عادت، حقیقت کلی و آینده نزدیک است: uyurum (می‌خوابم)، kalırsın (می‌مانی)، olursun (می‌شوی)، bulursun (می‌رسی). شخص با پسوند -m/-n/-k مشخص می‌شود.",
+      "bodyEn": "The aorist is used for habits, general truths and near future: uyurum (I sleep), kalırsın (you stay), olursun (you become), bulursun (you will find). Person is marked by -m/-n/-k.",
+      "example": {
+        "text": "Bir cümlede kalırsın.",
+        "translationFa": "در یک جمله می‌مانی.",
+        "translationEn": "You'll remain in a sentence."
+      },
+      "tone": "blue",
+      "tables": [
+        {
+          "titleFa": "زمان گسترده",
+          "titleEn": "Aorist",
+          "columns": [
+            {
+              "fa": "شکل",
+              "en": "Form"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "uyurum",
+              "می‌خوابم"
+            ],
+            [
+              "kalırsın",
+              "می‌مانی"
+            ],
+            [
+              "olursun",
+              "می‌شوی"
+            ],
+            [
+              "bulursun",
+              "می‌رسی"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "-r زمان گسترده است.",
+      "takeawayEn": "-r is the aorist.",
+      "check": {
+        "promptFa": "kalırsın یعنی چه؟",
+        "promptEn": "What does kalırsın mean?",
+        "answerFa": "می‌مانی",
+        "answerEn": "you stay"
+      }
+    },
+    {
+      "id": "reflexive-kendi",
+      "conceptId": "tr:reflexive-kendi",
+      "tagFa": "ضمیر انعکاسی",
+      "tagEn": "Reflexive",
+      "titleFa": "kendi و مفعول",
+      "titleEn": "Reflexive kendi and object",
+      "bodyFa": "kendi یعنی «خود». با پسوند ملکی و مفعولی، kendimi یعنی «خودم را». در Kendimi vurasım var، مفعول kendimi است و فعل vurasım است.",
+      "bodyEn": "Kendi means oneself. With possessive and accusative suffixes, kendimi means myself. In Kendimi vurasım var, kendimi is the object and vurasım is the verb.",
+      "example": {
+        "text": "Kendimi vurasım var.",
+        "translationFa": "دلم می‌خواهد خودم را بزنم.",
+        "translationEn": "I want to hit myself."
+      },
+      "tone": "rose",
+      "tables": [
+        {
+          "titleFa": "kendi",
+          "titleEn": "kendi",
+          "columns": [
+            {
+              "fa": "شکل",
+              "en": "Form"
+            },
+            {
+              "fa": "معنی",
+              "en": "Meaning"
+            }
+          ],
+          "rows": [
+            [
+              "kendimi",
+              "خودم را"
+            ],
+            [
+              "kendini",
+              "خودت را"
+            ],
+            [
+              "kendisi",
+              "خودش"
+            ]
+          ]
+        }
+      ],
+      "takeawayFa": "kendimi یعنی «خودم را».",
+      "takeawayEn": "Kendimi means myself.",
+      "check": {
+        "promptFa": "kendimi یعنی چه؟",
+        "promptEn": "What does kendimi mean?",
+        "answerFa": "خودم را",
+        "answerEn": "myself"
+      }
+    }
+  ],
+  "idioms": [
+    {
+      "id": "deliler-gibi",
+      "text": "deliler gibi",
+      "translationFa": "مثل دیوانه‌ها",
+      "translationEn": "like crazy",
+      "contextFa": "برای شدت زیاد.",
+      "contextEn": "For great intensity.",
+      "lineId": "line-7",
+      "tone": "rose"
+    },
+    {
+      "id": "hasret-kalmak",
+      "text": "hasret kalmak",
+      "translationFa": "دلتنگ شدن",
+      "translationEn": "to long for, to miss",
+      "contextFa": "وقتی کسی را دلتنگ می‌شوی.",
+      "contextEn": "When you miss someone.",
+      "lineId": "line-7",
+      "tone": "apricot"
+    },
+    {
+      "id": "vurulmak-idiom",
+      "text": "vurulmak",
+      "translationFa": "دل باختن",
+      "translationEn": "to fall head over heels",
+      "contextFa": "وقتی عاشق کسی می‌شوی.",
+      "contextEn": "When you fall in love with someone.",
+      "lineId": "line-4",
+      "tone": "rose"
+    },
+    {
+      "id": "ne-hale-gelmek",
+      "text": "ne hâle gelmek",
+      "translationFa": "به چه حالی رسیدن",
+      "translationEn": "to end up in a state",
+      "contextFa": "وقتی وضعیت بدی پیدا می‌کنی.",
+      "contextEn": "When you end up in a bad state.",
+      "lineId": "line-21",
+      "tone": "coral"
+    },
+    {
+      "id": "icine-etmek",
+      "text": "içine etmek",
+      "translationFa": "خراب کردن (مبتذل)",
+      "translationEn": "to ruin, mess up (vulgar)",
+      "contextFa": "اصطلاح مبتذل برای خراب کردن زندگی کسی.",
+      "contextEn": "Vulgar idiom for ruining someone's life.",
+      "lineId": "line-22",
+      "tone": "coral"
+    },
+    {
+      "id": "belani-bulmak",
+      "text": "belanı bulmak",
+      "translationFa": "به سزای خود رسیدن",
+      "translationEn": "to get what's coming to you",
+      "contextFa": "وقتی کسی نتیجهٔ کارش را می‌بیند.",
+      "contextEn": "When someone faces the consequences.",
+      "lineId": "line-35",
+      "tone": "amber"
+    },
+    {
+      "id": "golgen-olmak",
+      "text": "gölgen olmak",
+      "translationFa": "سایهٔ کسی بودن",
+      "translationEn": "to be someone's shadow",
+      "contextFa": "وقتی همیشه پشت سر کسی هستی.",
+      "contextEn": "When you are always behind someone.",
+      "lineId": "line-42",
+      "tone": "mint"
+    },
+    {
+      "id": "bir-gecelik-olmak",
+      "text": "bir gecelik olmak",
+      "translationFa": "یک‌شبه بودن",
+      "translationEn": "to be a one-night thing",
+      "contextFa": "وقتی رابطه فقط یک شب است.",
+      "contextEn": "When a relationship is only for one night.",
+      "lineId": "line-38",
+      "tone": "apricot"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "beni-de-al",
+      "text": "Beni de al.",
+      "translationFa": "مرا هم ببر.",
+      "translationEn": "Take me too.",
+      "contextFa": "برای درخواست همراهی.",
+      "contextEn": "To ask someone to take you along.",
+      "lineId": "line-1",
+      "tone": "blue"
+    },
+    {
+      "id": "yakma-beni",
+      "text": "Yakma beni.",
+      "translationFa": "مرا نسوزان.",
+      "translationEn": "Don't burn me.",
+      "contextFa": "برای نهی کردن.",
+      "contextEn": "To forbid or plead.",
+      "lineId": "line-2",
+      "tone": "coral"
+    },
+    {
+      "id": "sen-nerdesin",
+      "text": "Sen nerdesin?",
+      "translationFa": "تو کجایی؟",
+      "translationEn": "Where are you?",
+      "contextFa": "برای پرسیدن مکان.",
+      "contextEn": "To ask where someone is.",
+      "lineId": "line-26",
+      "tone": "mint"
+    },
+    {
+      "id": "icim-yaniyor",
+      "text": "İçim yanıyor hâlâ.",
+      "translationFa": "درونم هنوز می‌سوزد.",
+      "translationEn": "My insides still burn.",
+      "contextFa": "برای گفتن درد درونی.",
+      "contextEn": "To express inner pain.",
+      "lineId": "line-39",
+      "tone": "rose"
+    },
+    {
+      "id": "yalniz-kalmak-iyi",
+      "text": "Yalnız kalmak bazen daha iyi.",
+      "translationFa": "گاهی تنها ماندن بهتر است.",
+      "translationEn": "Being alone is sometimes better.",
+      "contextFa": "برای نظر دادن دربارهٔ تنهایی.",
+      "contextEn": "To give an opinion about being alone.",
+      "lineId": "line-24",
+      "tone": "apricot"
+    },
+    {
+      "id": "babam-gormesin",
+      "text": "Babam görmesin.",
+      "translationFa": "پدرم نبیند.",
+      "translationEn": "Let my father not see.",
+      "contextFa": "برای آرزو و دعا.",
+      "contextEn": "For a wish or prayer.",
+      "lineId": "line-29",
+      "tone": "amber"
+    },
+    {
+      "id": "adilar-duyar-oldum",
+      "text": "Adını çok duyar oldum.",
+      "translationFa": "خیلی نامت را می‌شنوم.",
+      "translationEn": "I hear your name a lot lately.",
+      "contextFa": "وقتی نام کسی را زیاد می‌شنوی.",
+      "contextEn": "When you hear someone's name often.",
+      "lineId": "line-10",
+      "tone": "blue"
+    },
+    {
+      "id": "hayat-neden-adil",
+      "text": "Hayat neden adil değildi?",
+      "translationFa": "چرا زندگی عادلانه نبود؟",
+      "translationEn": "Why wasn't life fair?",
+      "contextFa": "برای پرسیدن دربارهٔ عدالت زندگی.",
+      "contextEn": "To ask about fairness in life.",
+      "lineId": "line-25",
+      "tone": "mint"
+    }
+  ],
+  "vocabularyTables": [
+    {
+      "titleFa": "ضمیرها و شکل‌های آن‌ها",
+      "titleEn": "Pronouns and their forms",
+      "columns": [
+        {
+          "fa": "ترکی",
+          "en": "Turkish"
+        },
+        {
+          "fa": "معنی",
+          "en": "Meaning"
+        },
+        {
+          "fa": "نمونه در آهنگ",
+          "en": "Example in the song"
+        }
+      ],
+      "rows": [
+        [
+          "ben",
+          "من",
+          "Beni de al"
+        ],
+        [
+          "sen",
+          "تو",
+          "Sen nerdesin?"
+        ],
+        [
+          "beni",
+          "مرا",
+          "yakma beni"
+        ],
+        [
+          "sana",
+          "برای تو",
+          "Sana bunu yazmıştım"
+        ],
+        [
+          "kendimi",
+          "خودم را",
+          "Kendimi vurasım var"
+        ],
+        [
+          "bana",
+          "برای من",
+          "bulamadın mı bana?"
+        ]
+      ]
+    },
+    {
+      "titleFa": "فعل‌های پرکاربرد آهنگ",
+      "titleEn": "Common verbs in the song",
+      "columns": [
+        {
+          "fa": "مصدر",
+          "en": "Infinitive"
+        },
+        {
+          "fa": "معنی",
+          "en": "Meaning"
+        },
+        {
+          "fa": "نمونه",
+          "en": "Example"
+        }
+      ],
+      "rows": [
+        [
+          "almak",
+          "گرفتن",
+          "al"
+        ],
+        [
+          "bırakmak",
+          "رها کردن",
+          "bırak"
+        ],
+        [
+          "yazmak",
+          "نوشتن",
+          "yazmıştım"
+        ],
+        [
+          "gelmek",
+          "آمدن",
+          "geliyorsun"
+        ],
+        [
+          "unutmak",
+          "فراموش کردن",
+          "unutup"
+        ],
+        [
+          "bulmak",
+          "پیدا کردن",
+          "bulursun"
+        ],
+        [
+          "sevmek",
+          "دوست داشتن",
+          "sevmedin"
+        ],
+        [
+          "olmak",
+          "شدن",
+          "olursun"
+        ]
+      ]
+    },
+    {
+      "titleFa": "اسم‌های انتزاعی و احساسی",
+      "titleEn": "Abstract and emotional nouns",
+      "columns": [
+        {
+          "fa": "ترکی",
+          "en": "Turkish"
+        },
+        {
+          "fa": "معنی",
+          "en": "Meaning"
+        }
+      ],
+      "rows": [
+        [
+          "inat",
+          "لجاجت"
+        ],
+        [
+          "hasret",
+          "دلتنگی"
+        ],
+        [
+          "bela",
+          "بلا"
+        ],
+        [
+          "insaf",
+          "انصاف"
+        ],
+        [
+          "hayat",
+          "زندگی"
+        ],
+        [
+          "ömür",
+          "عمر"
+        ],
+        [
+          "gönül",
+          "دل"
+        ],
+        [
+          "dert",
+          "درد"
+        ],
+        [
+          "hâl",
+          "حال"
+        ]
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "yakma-choice",
+      "type": "choice",
+      "skillFa": "درک واژه",
+      "skillEn": "Meaning",
+      "promptFa": "yakma در متن یعنی چه؟",
+      "promptEn": "What does yakma mean?",
+      "explanationFa": "yakma یعنی نسوزان.",
+      "explanationEn": "Yakma means don't burn.",
+      "lineId": "line-2",
+      "relatedLexemeIds": [
+        "tr:yakmak"
+      ],
+      "options": [
+        {
+          "id": "burn",
+          "fa": "بسوزان",
+          "en": "burn it"
+        },
+        {
+          "id": "dont-burn",
+          "fa": "نسوزان",
+          "en": "don't burn"
+        },
+        {
+          "id": "burns",
+          "fa": "می‌سوزد",
+          "en": "it burns"
+        }
+      ],
+      "correctId": "dont-burn"
+    },
+    {
+      "id": "gulum-choice",
+      "type": "choice",
+      "skillFa": "درک واژه",
+      "skillEn": "Meaning",
+      "promptFa": "gülüm یعنی چه؟",
+      "promptEn": "What does gülüm mean?",
+      "explanationFa": "gülüm یعنی عزیزم.",
+      "explanationEn": "Gülüm means my dear.",
+      "lineId": "line-15",
+      "relatedLexemeIds": [
+        "tr:gulum"
+      ],
+      "options": [
+        {
+          "id": "rose",
+          "fa": "گل سرخ",
+          "en": "rose"
+        },
+        {
+          "id": "my-dear",
+          "fa": "عزیزم",
+          "en": "my dear"
+        },
+        {
+          "id": "smile",
+          "fa": "لبخند",
+          "en": "smile"
+        }
+      ],
+      "correctId": "my-dear"
+    },
+    {
+      "id": "hasret-choice",
+      "type": "choice",
+      "skillFa": "درک واژه",
+      "skillEn": "Meaning",
+      "promptFa": "hasret یعنی چه؟",
+      "promptEn": "What does hasret mean?",
+      "explanationFa": "hasret یعنی دلتنگی.",
+      "explanationEn": "Hasret means longing.",
+      "lineId": "line-7",
+      "relatedLexemeIds": [
+        "tr:hasret"
+      ],
+      "options": [
+        {
+          "id": "longing",
+          "fa": "دلتنگی",
+          "en": "longing"
+        },
+        {
+          "id": "anger",
+          "fa": "خشم",
+          "en": "anger"
+        },
+        {
+          "id": "joy",
+          "fa": "شادی",
+          "en": "joy"
+        }
+      ],
+      "correctId": "longing"
+    },
+    {
+      "id": "sensiz-choice",
+      "type": "choice",
+      "skillFa": "درک واژه",
+      "skillEn": "Meaning",
+      "promptFa": "sensiz یعنی چه؟",
+      "promptEn": "What does sensiz mean?",
+      "explanationFa": "sensiz یعنی بدون تو.",
+      "explanationEn": "Sensiz means without you.",
+      "lineId": "line-19",
+      "relatedLexemeIds": [
+        "tr:sensiz"
+      ],
+      "options": [
+        {
+          "id": "with-you",
+          "fa": "با تو",
+          "en": "with you"
+        },
+        {
+          "id": "without-you",
+          "fa": "بدون تو",
+          "en": "without you"
+        },
+        {
+          "id": "for-you",
+          "fa": "برای تو",
+          "en": "for you"
+        }
+      ],
+      "correctId": "without-you"
+    },
+    {
+      "id": "verb-match",
+      "type": "match",
+      "skillFa": "وصل کردن",
+      "skillEn": "Match",
+      "promptFa": "فعل‌ها و معنی‌ها را وصل کن.",
+      "promptEn": "Match verbs to meanings.",
+      "explanationFa": "yakmak سوزاندن و yazmak نوشتن است.",
+      "explanationEn": "Yakmak is to burn and yazmak is to write.",
+      "pairs": [
+        {
+          "id": "yakmak",
+          "text": "yakmak",
+          "fa": "سوزاندن",
+          "en": "to burn",
+          "lexemeId": "tr:yakmak"
+        },
+        {
+          "id": "yazmak",
+          "text": "yazmak",
+          "fa": "نوشتن",
+          "en": "to write",
+          "lexemeId": "tr:yazmak"
+        },
+        {
+          "id": "unutmak",
+          "text": "unutmak",
+          "fa": "فراموش کردن",
+          "en": "to forget",
+          "lexemeId": "tr:unutmak"
+        },
+        {
+          "id": "sevmek",
+          "text": "sevmek",
+          "fa": "دوست داشتن",
+          "en": "to love",
+          "lexemeId": "tr:sevmek"
+        }
+      ],
+      "meaningOrder": [
+        "sevmek",
+        "yakmak",
+        "unutmak",
+        "yazmak"
+      ]
+    },
+    {
+      "id": "noun-match",
+      "type": "match",
+      "skillFa": "وصل کردن",
+      "skillEn": "Match",
+      "promptFa": "اسم‌ها و معنی‌ها را وصل کن.",
+      "promptEn": "Match nouns to meanings.",
+      "explanationFa": "kalp قلب و göz چشم است.",
+      "explanationEn": "Kalp is heart and göz is eye.",
+      "pairs": [
+        {
+          "id": "kalp",
+          "text": "kalp",
+          "fa": "قلب",
+          "en": "heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "id": "goz",
+          "text": "göz",
+          "fa": "چشم",
+          "en": "eye",
+          "lexemeId": "tr:goz"
+        },
+        {
+          "id": "omuz",
+          "text": "omuz",
+          "fa": "شانه",
+          "en": "shoulder",
+          "lexemeId": "tr:omuz"
+        },
+        {
+          "id": "gonul",
+          "text": "gönül",
+          "fa": "دل",
+          "en": "heart",
+          "lexemeId": "tr:gonul"
+        }
+      ],
+      "meaningOrder": [
+        "omuz",
+        "kalp",
+        "gonul",
+        "goz"
+      ]
+    },
+    {
+      "id": "emotion-match",
+      "type": "match",
+      "skillFa": "وصل کردن",
+      "skillEn": "Match",
+      "promptFa": "واژه‌های احساسی را وصل کن.",
+      "promptEn": "Match emotion words.",
+      "explanationFa": "inat لجاجت و bela بلا است.",
+      "explanationEn": "Inat is stubbornness and bela is trouble.",
+      "pairs": [
+        {
+          "id": "inat",
+          "text": "inat",
+          "fa": "لجاجت",
+          "en": "stubbornness",
+          "lexemeId": "tr:inat"
+        },
+        {
+          "id": "bela",
+          "text": "bela",
+          "fa": "بلا",
+          "en": "trouble",
+          "lexemeId": "tr:bela"
+        },
+        {
+          "id": "dert",
+          "text": "dert",
+          "fa": "درد",
+          "en": "trouble",
+          "lexemeId": "tr:dert"
+        },
+        {
+          "id": "hasret",
+          "text": "hasret",
+          "fa": "دلتنگی",
+          "en": "longing",
+          "lexemeId": "tr:hasret"
+        }
+      ],
+      "meaningOrder": [
+        "dert",
+        "inat",
+        "hasret",
+        "bela"
+      ]
+    },
+    {
+      "id": "body-match",
+      "type": "match",
+      "skillFa": "وصل کردن",
+      "skillEn": "Match",
+      "promptFa": "واژه‌های بدن را وصل کن.",
+      "promptEn": "Match body words.",
+      "explanationFa": "kaş ابرو و omuz شانه است.",
+      "explanationEn": "Kaş is eyebrow and omuz is shoulder.",
+      "pairs": [
+        {
+          "id": "kas",
+          "text": "kaş",
+          "fa": "ابرو",
+          "en": "eyebrow",
+          "lexemeId": "tr:kas"
+        },
+        {
+          "id": "omuz2",
+          "text": "omuz",
+          "fa": "شانه",
+          "en": "shoulder",
+          "lexemeId": "tr:omuz"
+        },
+        {
+          "id": "kalp2",
+          "text": "kalp",
+          "fa": "قلب",
+          "en": "heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "id": "goz2",
+          "text": "göz",
+          "fa": "چشم",
+          "en": "eye",
+          "lexemeId": "tr:goz"
+        }
+      ],
+      "meaningOrder": [
+        "goz2",
+        "kas",
+        "kalp2",
+        "omuz2"
+      ]
+    },
+    {
+      "id": "beni-order",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Build a line",
+      "promptFa": "بخش‌های جمله را مرتب کن.",
+      "promptEn": "Put the chunks in order.",
+      "explanationFa": "ترتیب: Beni de al.",
+      "explanationEn": "The line is Beni de al.",
+      "lineId": "line-1",
+      "relatedLexemeIds": [
+        "tr:almak"
+      ],
+      "chunks": [
+        {
+          "id": "beni",
+          "text": "Beni"
+        },
+        {
+          "id": "de",
+          "text": "de"
+        },
+        {
+          "id": "al",
+          "text": "al."
+        }
+      ],
+      "presentationOrder": [
+        "al",
+        "beni",
+        "de"
+      ]
+    },
+    {
+      "id": "aklima-order",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Build a line",
+      "promptFa": "بخش‌های جمله را مرتب کن.",
+      "promptEn": "Put the chunks in order.",
+      "explanationFa": "ترتیب: Aklıma geliyorsun, yakma beni.",
+      "explanationEn": "The line is Aklıma geliyorsun, yakma beni.",
+      "lineId": "line-12",
+      "relatedLexemeIds": [
+        "tr:gelmek"
+      ],
+      "chunks": [
+        {
+          "id": "aklima",
+          "text": "Aklıma"
+        },
+        {
+          "id": "geliyorsun",
+          "text": "geliyorsun,"
+        },
+        {
+          "id": "yakma",
+          "text": "yakma"
+        },
+        {
+          "id": "beni",
+          "text": "beni"
+        }
+      ],
+      "presentationOrder": [
+        "beni",
+        "yakma",
+        "aklima",
+        "geliyorsun"
+      ]
+    },
+    {
+      "id": "sen-order",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Build a line",
+      "promptFa": "بخش‌های جمله را مرتب کن.",
+      "promptEn": "Put the chunks in order.",
+      "explanationFa": "ترتیب: Sen nerdesin?",
+      "explanationEn": "The line is Sen nerdesin?",
+      "lineId": "line-26",
+      "relatedLexemeIds": [
+        "tr:sen"
+      ],
+      "chunks": [
+        {
+          "id": "sen",
+          "text": "Sen"
+        },
+        {
+          "id": "nerdesin",
+          "text": "nerdesin?"
+        }
+      ],
+      "presentationOrder": [
+        "nerdesin",
+        "sen"
+      ]
+    },
+    {
+      "id": "icim-order",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Build a line",
+      "promptFa": "بخش‌های جمله را مرتب کن.",
+      "promptEn": "Put the chunks in order.",
+      "explanationFa": "ترتیب: İçim yanıyor hâlâ.",
+      "explanationEn": "The line is İçim yanıyor hâlâ.",
+      "lineId": "line-39",
+      "relatedLexemeIds": [
+        "tr:yanmak"
+      ],
+      "chunks": [
+        {
+          "id": "icim",
+          "text": "İçim"
+        },
+        {
+          "id": "yaniyor",
+          "text": "yanıyor"
+        },
+        {
+          "id": "hala",
+          "text": "hâlâ"
+        }
+      ],
+      "presentationOrder": [
+        "hala",
+        "icim",
+        "yaniyor"
+      ]
+    },
+    {
+      "id": "al-type",
+      "type": "typing",
+      "skillFa": "تایپ واژه",
+      "skillEn": "Type the word",
+      "promptFa": "واژهٔ جاافتاده را بنویس.",
+      "promptEn": "Type the missing word.",
+      "explanationFa": "واژه al است.",
+      "explanationEn": "The missing word is al.",
+      "lineId": "line-1",
+      "relatedLexemeIds": [
+        "tr:almak"
+      ],
+      "context": "Beni de ____.",
+      "accepted": [
+        "al"
+      ]
+    },
+    {
+      "id": "vuruldum-type",
+      "type": "typing",
+      "skillFa": "تایپ واژه",
+      "skillEn": "Type the word",
+      "promptFa": "واژهٔ جاافتاده را بنویس.",
+      "promptEn": "Type the missing word.",
+      "explanationFa": "واژه vuruldum است.",
+      "explanationEn": "The missing word is vuruldum.",
+      "lineId": "line-4",
+      "relatedLexemeIds": [
+        "tr:vurulmak"
+      ],
+      "context": "Kaşına gözüne ____.",
+      "accepted": [
+        "vuruldum"
+      ]
+    },
+    {
+      "id": "nerdesin-type",
+      "type": "typing",
+      "skillFa": "تایپ واژه",
+      "skillEn": "Type the word",
+      "promptFa": "واژهٔ جاافتاده را بنویس.",
+      "promptEn": "Type the missing word.",
+      "explanationFa": "واژه nerdesin است.",
+      "explanationEn": "The missing word is nerdesin.",
+      "lineId": "line-26",
+      "relatedLexemeIds": [
+        "tr:sen"
+      ],
+      "context": "Sen ____?",
+      "accepted": [
+        "nerdesin"
+      ]
+    },
+    {
+      "id": "yaniyor-type",
+      "type": "typing",
+      "skillFa": "تایپ واژه",
+      "skillEn": "Type the word",
+      "promptFa": "واژهٔ جاافتاده را بنویس.",
+      "promptEn": "Type the missing word.",
+      "explanationFa": "واژه yanıyor است.",
+      "explanationEn": "The missing word is yanıyor.",
+      "lineId": "line-39",
+      "relatedLexemeIds": [
+        "tr:yanmak"
+      ],
+      "context": "İçim ____ hâlâ.",
+      "accepted": [
+        "yanıyor"
+      ]
+    }
+  ]
+}
