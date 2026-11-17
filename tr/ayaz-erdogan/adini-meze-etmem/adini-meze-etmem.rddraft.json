@@ -1,0 +1,6032 @@
+{
+  "draftSchemaVersion": 1,
+  "songId": "adini-meze-etmem",
+  "targetLanguage": "tr",
+  "locale": "tr-TR",
+  "title": "Adını Meze Etmem",
+  "artist": "Ayaz Erdoğan",
+  "createdAt": "2026-11-17T07:34:33Z",
+  "generator": "Arena.ai educational content agent — reedance-doc",
+  "notes": "User-provided Turkish lyrics, with repeated lines retained individually for alignment. Section headings and unrelated website recommendations were excluded. Original colloquial spellings are kept and explained; examples are independently authored. No audio, media, timing or level supplied. Lyrics and audio rights remain unverified. Upstream v1 schemas enumerate en/es/ko only; Windows Studio branch arena/132cfe2a-reedance-desktop at 6707874dec5c8dcd874279238a5abd1c5eaecbb0 extends validation to tr in memory. Other versions/consumers require verification.",
+  "sources": {
+    "lyrics": {
+      "description": "Lyrics supplied by the user in this task on 2026-11-17. Section labels and an unrelated recommendation block were omitted; no permission document accompanied the lyrics.",
+      "rightsStatus": "unverified",
+      "sourceReference": "User message, 2026-11-17",
+      "attribution": "Ayaz Erdoğan — Adını Meze Etmem"
+    },
+    "lesson": {
+      "description": "Original Persian/English translation, explanations, independent examples, conjugation tables and exercises produced from the supplied text.",
+      "rightsStatus": "unverified",
+      "sourceReference": "Created for reedance-doc task, 2026-11-17"
+    }
+  },
+  "credits": {
+    "lyrics": "Ayaz Erdoğan — Adını Meze Etmem (as supplied; rights unverified)",
+    "noticeFa": "پیش‌نویس آموزشی است؛ حقوق متن و صوت پیش از انتشار باید بررسی و تأیید شود.",
+    "noticeEn": "Educational draft only; lyric and audio rights must be verified before publication."
+  },
+  "disclaimerFa": "فایل خام آموزشی بدون صوت و زمان‌بندی است؛ مجوز متن و صوت تأیید نشده و سطح نیز ارائه نشده است.",
+  "disclaimerEn": "Content-only educational draft without audio or timing; lyric/audio rights are unverified and no level was provided.",
+  "lyrics": [
+    {
+      "id": "line-1",
+      "text": "Kimse anlamadı derdimi",
+      "translationFa": "هیچ‌کس دردم را نفهمید.",
+      "translationEn": "Nobody understood my sorrow.",
+      "tokens": [
+        {
+          "surface": "Kimse",
+          "translationFa": "کسی؛ با منفی: هیچ‌کس",
+          "translationEn": "anyone; nobody with negation",
+          "lexemeId": "tr:kimse"
+        },
+        {
+          "surface": "anlamadı",
+          "translationFa": "نفهمید",
+          "translationEn": "did not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "derdimi",
+          "translationFa": "دردم را",
+          "translationEn": "my sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-2",
+      "text": "Soğuttum inan her masada içimi",
+      "translationFa": "باور کن، سر هر میز دلم را سرد کردم.",
+      "translationEn": "Believe me, I cooled my heart at every table.",
+      "tokens": [
+        {
+          "surface": "Soğuttum",
+          "translationFa": "سرد کردم",
+          "translationEn": "I cooled",
+          "lexemeId": "tr:sogutmak"
+        },
+        {
+          "surface": "inan",
+          "translationFa": "باور کن",
+          "translationEn": "believe",
+          "lexemeId": "tr:inanmak"
+        },
+        {
+          "surface": "her",
+          "translationFa": "هر",
+          "translationEn": "every, each",
+          "lexemeId": "tr:her"
+        },
+        {
+          "surface": "masada",
+          "translationFa": "سر میز",
+          "translationEn": "at the table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "surface": "içimi",
+          "translationFa": "دلم را",
+          "translationEn": "my inner self",
+          "lexemeId": "tr:ic"
+        }
+      ]
+    },
+    {
+      "id": "line-3",
+      "text": "Adını meze etmem",
+      "translationFa": "نامت را نقلِ محفل نمی‌کنم.",
+      "translationEn": "I will not make your name table gossip.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "meze",
+          "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+          "translationEn": "appetizer; gossip topic",
+          "lexemeId": "tr:meze"
+        },
+        {
+          "surface": "etmem",
+          "translationFa": "نمی‌کنم",
+          "translationEn": "I do not make",
+          "lexemeId": "tr:etmek"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "Çıkacak kalbim yerinden",
+      "translationFa": "قلبم از جا کنده خواهد شد.",
+      "translationEn": "My heart will leap out of its place.",
+      "tokens": [
+        {
+          "surface": "Çıkacak",
+          "translationFa": "بیرون خواهد آمد",
+          "translationEn": "will come out",
+          "lexemeId": "tr:cikmak"
+        },
+        {
+          "surface": "kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "yerinden",
+          "translationFa": "از جایش",
+          "translationEn": "from its place",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-5",
+      "text": "Sevdim yürekten",
+      "translationFa": "از ته دل دوست داشتم.",
+      "translationEn": "I loved with all my heart.",
+      "tokens": [
+        {
+          "surface": "Sevdim",
+          "translationFa": "دوست داشتم",
+          "translationEn": "I loved",
+          "lexemeId": "tr:sevmek"
+        },
+        {
+          "surface": "yürekten",
+          "translationFa": "از ته دل",
+          "translationEn": "from the heart",
+          "lexemeId": "tr:yurek"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "Kimse anlamadı derdimi",
+      "translationFa": "هیچ‌کس دردم را نفهمید.",
+      "translationEn": "Nobody understood my sorrow.",
+      "tokens": [
+        {
+          "surface": "Kimse",
+          "translationFa": "کسی؛ با منفی: هیچ‌کس",
+          "translationEn": "anyone; nobody with negation",
+          "lexemeId": "tr:kimse"
+        },
+        {
+          "surface": "anlamadı",
+          "translationFa": "نفهمید",
+          "translationEn": "did not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "derdimi",
+          "translationFa": "دردم را",
+          "translationEn": "my sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "Soğuttum inan her masada içimi",
+      "translationFa": "باور کن، سر هر میز دلم را سرد کردم.",
+      "translationEn": "Believe me, I cooled my heart at every table.",
+      "tokens": [
+        {
+          "surface": "Soğuttum",
+          "translationFa": "سرد کردم",
+          "translationEn": "I cooled",
+          "lexemeId": "tr:sogutmak"
+        },
+        {
+          "surface": "inan",
+          "translationFa": "باور کن",
+          "translationEn": "believe",
+          "lexemeId": "tr:inanmak"
+        },
+        {
+          "surface": "her",
+          "translationFa": "هر",
+          "translationEn": "every, each",
+          "lexemeId": "tr:her"
+        },
+        {
+          "surface": "masada",
+          "translationFa": "سر میز",
+          "translationEn": "at the table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "surface": "içimi",
+          "translationFa": "دلم را",
+          "translationEn": "my inner self",
+          "lexemeId": "tr:ic"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "Adını meze etmem",
+      "translationFa": "نامت را نقلِ محفل نمی‌کنم.",
+      "translationEn": "I will not make your name table gossip.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "meze",
+          "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+          "translationEn": "appetizer; gossip topic",
+          "lexemeId": "tr:meze"
+        },
+        {
+          "surface": "etmem",
+          "translationFa": "نمی‌کنم",
+          "translationEn": "I do not make",
+          "lexemeId": "tr:etmek"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "Çıkacak kalbim yerinden",
+      "translationFa": "قلبم از جا کنده خواهد شد.",
+      "translationEn": "My heart will leap out of its place.",
+      "tokens": [
+        {
+          "surface": "Çıkacak",
+          "translationFa": "بیرون خواهد آمد",
+          "translationEn": "will come out",
+          "lexemeId": "tr:cikmak"
+        },
+        {
+          "surface": "kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "yerinden",
+          "translationFa": "از جایش",
+          "translationEn": "from its place",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "Ne gelir elden",
+      "translationFa": "از دست آدم چه برمی‌آید؟",
+      "translationEn": "What can one do?",
+      "tokens": [
+        {
+          "surface": "Ne",
+          "translationFa": "چه، چه چیزی",
+          "translationEn": "what",
+          "lexemeId": "tr:ne"
+        },
+        {
+          "surface": "gelir",
+          "translationFa": "می‌آید",
+          "translationEn": "comes",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "elden",
+          "translationFa": "از دست",
+          "translationEn": "from one's hand",
+          "lexemeId": "tr:el"
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "Bu bir günah, bulandın yalana",
+      "translationFa": "این گناه است؛ به دروغ آلوده شدی.",
+      "translationEn": "This is a sin; you became entangled in lies.",
+      "tokens": [
+        {
+          "surface": "Bu",
+          "translationFa": "این",
+          "translationEn": "this",
+          "lexemeId": "tr:bu"
+        },
+        {
+          "surface": "bir",
+          "translationFa": "یک",
+          "translationEn": "one, a",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "günah,",
+          "translationFa": "گناه",
+          "translationEn": "sin",
+          "lexemeId": "tr:gunah"
+        },
+        {
+          "surface": "bulandın",
+          "translationFa": "آلوده شدی",
+          "translationEn": "you became entangled",
+          "lexemeId": "tr:bulanmak"
+        },
+        {
+          "surface": "yalana",
+          "translationFa": "به دروغ",
+          "translationEn": "in lies",
+          "lexemeId": "tr:yalan"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "Kimin için bu savaş öldüm hep uğruna",
+      "translationFa": "این جنگ برای کیست؟ همیشه در راهش جان دادم.",
+      "translationEn": "Who is this war for? I kept dying for its sake.",
+      "tokens": [
+        {
+          "surface": "Kimin",
+          "translationFa": "چه کسی (در حالت ملکی)",
+          "translationEn": "whose",
+          "lexemeId": "tr:kim"
+        },
+        {
+          "surface": "için",
+          "translationFa": "برای، به خاطر",
+          "translationEn": "for, because of",
+          "lexemeId": "tr:icin"
+        },
+        {
+          "surface": "bu",
+          "translationFa": "این",
+          "translationEn": "this",
+          "lexemeId": "tr:bu"
+        },
+        {
+          "surface": "savaş",
+          "translationFa": "جنگ",
+          "translationEn": "war",
+          "lexemeId": "tr:savas"
+        },
+        {
+          "surface": "öldüm",
+          "translationFa": "مردم",
+          "translationEn": "I died",
+          "lexemeId": "tr:olmek"
+        },
+        {
+          "surface": "hep",
+          "translationFa": "همیشه، مدام",
+          "translationEn": "always",
+          "lexemeId": "tr:hep"
+        },
+        {
+          "surface": "uğruna",
+          "translationFa": "در راهش",
+          "translationEn": "for its sake",
+          "lexemeId": "tr:ugur"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "Açtıysan bir yara önce onu kapat",
+      "translationFa": "اگر زخمی باز کرده‌ای، اول آن را ببند.",
+      "translationEn": "If you opened a wound, close it first.",
+      "tokens": [
+        {
+          "surface": "Açtıysan",
+          "translationFa": "اگر باز کرده‌ای",
+          "translationEn": "if you opened",
+          "lexemeId": "tr:acmak"
+        },
+        {
+          "surface": "bir",
+          "translationFa": "یک",
+          "translationEn": "one, a",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "yara",
+          "translationFa": "زخم",
+          "translationEn": "wound",
+          "lexemeId": "tr:yara"
+        },
+        {
+          "surface": "önce",
+          "translationFa": "قبل، اول",
+          "translationEn": "before, first",
+          "lexemeId": "tr:once"
+        },
+        {
+          "surface": "onu",
+          "translationFa": "آن را",
+          "translationEn": "it as object",
+          "lexemeId": "tr:o"
+        },
+        {
+          "surface": "kapat",
+          "translationFa": "ببند",
+          "translationEn": "close",
+          "lexemeId": "tr:kapatmak"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "Kanarsa sel olur, yanarım bin defa",
+      "translationFa": "اگر خون بیاید سیل می‌شود؛ هزار بار می‌سوزم.",
+      "translationEn": "If it bleeds it becomes a flood; I burn a thousand times.",
+      "tokens": [
+        {
+          "surface": "Kanarsa",
+          "translationFa": "اگر خون بیاید",
+          "translationEn": "if it bleeds",
+          "lexemeId": "tr:kanamak"
+        },
+        {
+          "surface": "sel",
+          "translationFa": "سیل",
+          "translationEn": "flood",
+          "lexemeId": "tr:sel"
+        },
+        {
+          "surface": "olur,",
+          "translationFa": "می‌شود",
+          "translationEn": "it becomes",
+          "lexemeId": "tr:olmak"
+        },
+        {
+          "surface": "yanarım",
+          "translationFa": "می‌سوزم",
+          "translationEn": "I burn",
+          "lexemeId": "tr:yanmak"
+        },
+        {
+          "surface": "bin",
+          "translationFa": "هزار",
+          "translationEn": "a thousand",
+          "lexemeId": "tr:bin"
+        },
+        {
+          "surface": "defa",
+          "translationFa": "بار، دفعه",
+          "translationEn": "time, occasion",
+          "lexemeId": "tr:defa"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "Bi kerede gel, konuşalım ara",
+      "translationFa": "یک بار هم بیا، حرف بزنیم، زنگ بزن.",
+      "translationEn": "Come just once; let's talk, call me.",
+      "tokens": [
+        {
+          "surface": "Bi",
+          "translationFa": "یک",
+          "translationEn": "a, one",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "kerede",
+          "translationFa": "بار هم",
+          "translationEn": "time, too",
+          "lexemeId": "tr:kere"
+        },
+        {
+          "surface": "gel,",
+          "translationFa": "بیا",
+          "translationEn": "come",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "konuşalım",
+          "translationFa": "بیایید حرف بزنیم",
+          "translationEn": "let us talk",
+          "lexemeId": "tr:konusmak"
+        },
+        {
+          "surface": "ara",
+          "translationFa": "تماس بگیر",
+          "translationEn": "call",
+          "lexemeId": "tr:aramak"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "Hem hatalısın, hem niye bu kadar çaba",
+      "translationFa": "هم خطاکاری، هم چرا این همه تلاش؟",
+      "translationEn": "You are at fault, and why make so much effort?",
+      "tokens": [
+        {
+          "surface": "Hem",
+          "translationFa": "هم، هم ... هم",
+          "translationEn": "both, also",
+          "lexemeId": "tr:hem"
+        },
+        {
+          "surface": "hatalısın,",
+          "translationFa": "خطاکاری",
+          "translationEn": "you are wrong",
+          "lexemeId": "tr:hatali"
+        },
+        {
+          "surface": "hem",
+          "translationFa": "هم، هم ... هم",
+          "translationEn": "both, also",
+          "lexemeId": "tr:hem"
+        },
+        {
+          "surface": "niye",
+          "translationFa": "چرا",
+          "translationEn": "why",
+          "lexemeId": "tr:niye"
+        },
+        {
+          "surface": "bu",
+          "translationFa": "این",
+          "translationEn": "this",
+          "lexemeId": "tr:bu"
+        },
+        {
+          "surface": "kadar",
+          "translationFa": "تا، به اندازهٔ",
+          "translationEn": "until, as much as",
+          "lexemeId": "tr:kadar"
+        },
+        {
+          "surface": "çaba",
+          "translationFa": "تلاش",
+          "translationEn": "effort",
+          "lexemeId": "tr:caba"
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "Gitmek istiyorsun",
+      "translationFa": "می‌خواهی بروی.",
+      "translationEn": "You want to leave.",
+      "tokens": [
+        {
+          "surface": "Gitmek",
+          "translationFa": "رفتن",
+          "translationEn": "to leave",
+          "lexemeId": "tr:gitmek"
+        },
+        {
+          "surface": "istiyorsun",
+          "translationFa": "می‌خواهی",
+          "translationEn": "you want",
+          "lexemeId": "tr:istemek"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "Bir cümle kuruyorsun oda elveda",
+      "translationFa": "یک جمله می‌سازی و آن هم «خداحافظ» است.",
+      "translationEn": "You form one sentence, and that is goodbye.",
+      "tokens": [
+        {
+          "surface": "Bir",
+          "translationFa": "یک",
+          "translationEn": "one, a",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "cümle",
+          "translationFa": "جمله",
+          "translationEn": "sentence",
+          "lexemeId": "tr:cumle"
+        },
+        {
+          "surface": "kuruyorsun",
+          "translationFa": "می‌سازی",
+          "translationEn": "you form",
+          "lexemeId": "tr:kurmak"
+        },
+        {
+          "surface": "oda",
+          "translationFa": "آن هم",
+          "translationEn": "that too",
+          "lexemeId": "tr:o"
+        },
+        {
+          "surface": "elveda",
+          "translationFa": "خداحافظ، بدرود",
+          "translationEn": "farewell, goodbye",
+          "lexemeId": "tr:elveda"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "Kimse anlamadı derdimi",
+      "translationFa": "هیچ‌کس دردم را نفهمید.",
+      "translationEn": "Nobody understood my sorrow.",
+      "tokens": [
+        {
+          "surface": "Kimse",
+          "translationFa": "کسی؛ با منفی: هیچ‌کس",
+          "translationEn": "anyone; nobody with negation",
+          "lexemeId": "tr:kimse"
+        },
+        {
+          "surface": "anlamadı",
+          "translationFa": "نفهمید",
+          "translationEn": "did not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "derdimi",
+          "translationFa": "دردم را",
+          "translationEn": "my sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "Soğuttum inan her masada içimi",
+      "translationFa": "باور کن، سر هر میز دلم را سرد کردم.",
+      "translationEn": "Believe me, I cooled my heart at every table.",
+      "tokens": [
+        {
+          "surface": "Soğuttum",
+          "translationFa": "سرد کردم",
+          "translationEn": "I cooled",
+          "lexemeId": "tr:sogutmak"
+        },
+        {
+          "surface": "inan",
+          "translationFa": "باور کن",
+          "translationEn": "believe",
+          "lexemeId": "tr:inanmak"
+        },
+        {
+          "surface": "her",
+          "translationFa": "هر",
+          "translationEn": "every, each",
+          "lexemeId": "tr:her"
+        },
+        {
+          "surface": "masada",
+          "translationFa": "سر میز",
+          "translationEn": "at the table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "surface": "içimi",
+          "translationFa": "دلم را",
+          "translationEn": "my inner self",
+          "lexemeId": "tr:ic"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "Adını meze etmem",
+      "translationFa": "نامت را نقلِ محفل نمی‌کنم.",
+      "translationEn": "I will not make your name table gossip.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "meze",
+          "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+          "translationEn": "appetizer; gossip topic",
+          "lexemeId": "tr:meze"
+        },
+        {
+          "surface": "etmem",
+          "translationFa": "نمی‌کنم",
+          "translationEn": "I do not make",
+          "lexemeId": "tr:etmek"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "Çıkacak kalbim yerinden",
+      "translationFa": "قلبم از جا کنده خواهد شد.",
+      "translationEn": "My heart will leap out of its place.",
+      "tokens": [
+        {
+          "surface": "Çıkacak",
+          "translationFa": "بیرون خواهد آمد",
+          "translationEn": "will come out",
+          "lexemeId": "tr:cikmak"
+        },
+        {
+          "surface": "kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "yerinden",
+          "translationFa": "از جایش",
+          "translationEn": "from its place",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "Sevdim yürekten",
+      "translationFa": "از ته دل دوست داشتم.",
+      "translationEn": "I loved with all my heart.",
+      "tokens": [
+        {
+          "surface": "Sevdim",
+          "translationFa": "دوست داشتم",
+          "translationEn": "I loved",
+          "lexemeId": "tr:sevmek"
+        },
+        {
+          "surface": "yürekten",
+          "translationFa": "از ته دل",
+          "translationEn": "from the heart",
+          "lexemeId": "tr:yurek"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "Kimse anlamadı derdimi",
+      "translationFa": "هیچ‌کس دردم را نفهمید.",
+      "translationEn": "Nobody understood my sorrow.",
+      "tokens": [
+        {
+          "surface": "Kimse",
+          "translationFa": "کسی؛ با منفی: هیچ‌کس",
+          "translationEn": "anyone; nobody with negation",
+          "lexemeId": "tr:kimse"
+        },
+        {
+          "surface": "anlamadı",
+          "translationFa": "نفهمید",
+          "translationEn": "did not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "derdimi",
+          "translationFa": "دردم را",
+          "translationEn": "my sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "Soğuttum inan her masada içimi",
+      "translationFa": "باور کن، سر هر میز دلم را سرد کردم.",
+      "translationEn": "Believe me, I cooled my heart at every table.",
+      "tokens": [
+        {
+          "surface": "Soğuttum",
+          "translationFa": "سرد کردم",
+          "translationEn": "I cooled",
+          "lexemeId": "tr:sogutmak"
+        },
+        {
+          "surface": "inan",
+          "translationFa": "باور کن",
+          "translationEn": "believe",
+          "lexemeId": "tr:inanmak"
+        },
+        {
+          "surface": "her",
+          "translationFa": "هر",
+          "translationEn": "every, each",
+          "lexemeId": "tr:her"
+        },
+        {
+          "surface": "masada",
+          "translationFa": "سر میز",
+          "translationEn": "at the table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "surface": "içimi",
+          "translationFa": "دلم را",
+          "translationEn": "my inner self",
+          "lexemeId": "tr:ic"
+        }
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "Adını meze etmem",
+      "translationFa": "نامت را نقلِ محفل نمی‌کنم.",
+      "translationEn": "I will not make your name table gossip.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "meze",
+          "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+          "translationEn": "appetizer; gossip topic",
+          "lexemeId": "tr:meze"
+        },
+        {
+          "surface": "etmem",
+          "translationFa": "نمی‌کنم",
+          "translationEn": "I do not make",
+          "lexemeId": "tr:etmek"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "Çıkacak kalbim yerinden",
+      "translationFa": "قلبم از جا کنده خواهد شد.",
+      "translationEn": "My heart will leap out of its place.",
+      "tokens": [
+        {
+          "surface": "Çıkacak",
+          "translationFa": "بیرون خواهد آمد",
+          "translationEn": "will come out",
+          "lexemeId": "tr:cikmak"
+        },
+        {
+          "surface": "kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "yerinden",
+          "translationFa": "از جایش",
+          "translationEn": "from its place",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "Ne gelir elden",
+      "translationFa": "از دست آدم چه برمی‌آید؟",
+      "translationEn": "What can one do?",
+      "tokens": [
+        {
+          "surface": "Ne",
+          "translationFa": "چه، چه چیزی",
+          "translationEn": "what",
+          "lexemeId": "tr:ne"
+        },
+        {
+          "surface": "gelir",
+          "translationFa": "می‌آید",
+          "translationEn": "comes",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "elden",
+          "translationFa": "از دست",
+          "translationEn": "from one's hand",
+          "lexemeId": "tr:el"
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "Beni biri farkeder, geceler affeder mi",
+      "translationFa": "کسی متوجه من می‌شود؛ آیا شب‌ها می‌بخشند؟",
+      "translationEn": "Someone notices me; do the nights forgive?",
+      "tokens": [
+        {
+          "surface": "Beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        },
+        {
+          "surface": "biri",
+          "translationFa": "کسی، یکی",
+          "translationEn": "someone, one",
+          "lexemeId": "tr:biri"
+        },
+        {
+          "surface": "farkeder,",
+          "translationFa": "متوجه می‌شود",
+          "translationEn": "notices",
+          "lexemeId": "tr:fark-etmek"
+        },
+        {
+          "surface": "geceler",
+          "translationFa": "شب‌ها",
+          "translationEn": "nights",
+          "lexemeId": "tr:gece"
+        },
+        {
+          "surface": "affeder",
+          "translationFa": "می‌بخشد",
+          "translationEn": "forgives",
+          "lexemeId": "tr:affetmek"
+        },
+        {
+          "surface": "mi",
+          "translationFa": "آیا",
+          "translationEn": "question particle",
+          "lexemeId": "tr:mi"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "Bilmem bi gülüşün kaç ömrümüze bedel",
+      "translationFa": "نمی‌دانم یک لبخندت معادل چند عمرِ ماست.",
+      "translationEn": "I do not know how many lifetimes of ours one of your smiles is worth.",
+      "tokens": [
+        {
+          "surface": "Bilmem",
+          "translationFa": "نمی‌دانم",
+          "translationEn": "I do not know",
+          "lexemeId": "tr:bilmek"
+        },
+        {
+          "surface": "bi",
+          "translationFa": "یک",
+          "translationEn": "a, one",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "gülüşün",
+          "translationFa": "لبخندت",
+          "translationEn": "your smile",
+          "lexemeId": "tr:gulus"
+        },
+        {
+          "surface": "kaç",
+          "translationFa": "چند",
+          "translationEn": "how many",
+          "lexemeId": "tr:kac"
+        },
+        {
+          "surface": "ömrümüze",
+          "translationFa": "برای عمرهای ما",
+          "translationEn": "to our lifetimes",
+          "lexemeId": "tr:omur"
+        },
+        {
+          "surface": "bedel",
+          "translationFa": "بها، تاوان",
+          "translationEn": "price, cost",
+          "lexemeId": "tr:bedel"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "Senlik bi durum yok bu tek taraflı dert",
+      "translationFa": "چیزی مربوط به تو نیست؛ این دردی یک‌طرفه است.",
+      "translationEn": "There is nothing for you to do; this trouble is one-sided.",
+      "tokens": [
+        {
+          "surface": "Senlik",
+          "translationFa": "مربوط به تو، مناسب تو",
+          "translationEn": "for you, your concern",
+          "lexemeId": "tr:senlik"
+        },
+        {
+          "surface": "bi",
+          "translationFa": "یک",
+          "translationEn": "a, one",
+          "lexemeId": "tr:bir"
+        },
+        {
+          "surface": "durum",
+          "translationFa": "وضعیت",
+          "translationEn": "situation",
+          "lexemeId": "tr:durum"
+        },
+        {
+          "surface": "yok",
+          "translationFa": "نیست، وجود ندارد",
+          "translationEn": "there is not, absent",
+          "lexemeId": "tr:yok"
+        },
+        {
+          "surface": "bu",
+          "translationFa": "این",
+          "translationEn": "this",
+          "lexemeId": "tr:bu"
+        },
+        {
+          "surface": "tek",
+          "translationFa": "تک، تنها",
+          "translationEn": "single, sole",
+          "lexemeId": "tr:tek"
+        },
+        {
+          "surface": "taraflı",
+          "translationFa": "طرفه",
+          "translationEn": "sided",
+          "lexemeId": "tr:tarafli"
+        },
+        {
+          "surface": "dert",
+          "translationFa": "درد، گرفتاری",
+          "translationEn": "trouble, sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "Hangisi doğru tamam yalancıyım ben",
+      "translationFa": "کدام درست است؟ باشد، من دروغ‌گویم.",
+      "translationEn": "Which is true? Fine, I am a liar.",
+      "tokens": [
+        {
+          "surface": "Hangisi",
+          "translationFa": "کدام‌یک",
+          "translationEn": "which one",
+          "lexemeId": "tr:hangisi"
+        },
+        {
+          "surface": "doğru",
+          "translationFa": "درست، صحیح",
+          "translationEn": "correct, true",
+          "lexemeId": "tr:dogru"
+        },
+        {
+          "surface": "tamam",
+          "translationFa": "باشه، تمام",
+          "translationEn": "okay, all right",
+          "lexemeId": "tr:tamam"
+        },
+        {
+          "surface": "yalancıyım",
+          "translationFa": "دروغ‌گویم",
+          "translationEn": "I am a liar",
+          "lexemeId": "tr:yalanci"
+        },
+        {
+          "surface": "ben",
+          "translationFa": "من",
+          "translationEn": "I",
+          "lexemeId": "tr:ben"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "Seni öylesine anlayamadım ki",
+      "translationFa": "آن‌قدر نتوانستم تو را بفهمم که...",
+      "translationEn": "I failed to understand you so much that...",
+      "tokens": [
+        {
+          "surface": "Seni",
+          "translationFa": "تو را",
+          "translationEn": "you as object",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "öylesine",
+          "translationFa": "آن‌قدر، چنان؛ در بافت",
+          "translationEn": "so much, to such an extent",
+          "lexemeId": "tr:oylesine"
+        },
+        {
+          "surface": "anlayamadım",
+          "translationFa": "نتوانستم بفهمم",
+          "translationEn": "I could not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "ki",
+          "translationFa": "که",
+          "translationEn": "that",
+          "lexemeId": "tr:ki"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "Kalbin başka yerde benim değil",
+      "translationFa": "قلبت جای دیگری است؛ مال من نیست.",
+      "translationEn": "Your heart is elsewhere; it is not mine.",
+      "tokens": [
+        {
+          "surface": "Kalbin",
+          "translationFa": "قلبت",
+          "translationEn": "your heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "başka",
+          "translationFa": "دیگر",
+          "translationEn": "other",
+          "lexemeId": "tr:baska"
+        },
+        {
+          "surface": "yerde",
+          "translationFa": "در جا",
+          "translationEn": "in a place",
+          "lexemeId": "tr:yer"
+        },
+        {
+          "surface": "benim",
+          "translationFa": "مال من",
+          "translationEn": "mine",
+          "lexemeId": "tr:ben"
+        },
+        {
+          "surface": "değil",
+          "translationFa": "نیست، نه",
+          "translationEn": "not",
+          "lexemeId": "tr:degil"
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "Unutamam öyle senin gibi",
+      "translationFa": "نمی‌توانم مثل تو به آن سادگی فراموش کنم.",
+      "translationEn": "I cannot forget so easily like you.",
+      "tokens": [
+        {
+          "surface": "Unutamam",
+          "translationFa": "نمی‌توانم فراموش کنم",
+          "translationEn": "I cannot forget",
+          "lexemeId": "tr:unutmak"
+        },
+        {
+          "surface": "öyle",
+          "translationFa": "آن‌طور، چنان",
+          "translationEn": "so, that way",
+          "lexemeId": "tr:oyle"
+        },
+        {
+          "surface": "senin",
+          "translationFa": "تو، مال تو",
+          "translationEn": "your, yours",
+          "lexemeId": "tr:sen"
+        },
+        {
+          "surface": "gibi",
+          "translationFa": "مثل، مانند",
+          "translationEn": "like, as if",
+          "lexemeId": "tr:gibi"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "Beni öldür",
+      "translationFa": "مرا بکش.",
+      "translationEn": "Kill me.",
+      "tokens": [
+        {
+          "surface": "Beni",
+          "translationFa": "مرا",
+          "translationEn": "me",
+          "lexemeId": "tr:ben"
+        },
+        {
+          "surface": "öldür",
+          "translationFa": "بکش",
+          "translationEn": "kill",
+          "lexemeId": "tr:oldurmek"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "Kimse anlamadı derdimi",
+      "translationFa": "هیچ‌کس دردم را نفهمید.",
+      "translationEn": "Nobody understood my sorrow.",
+      "tokens": [
+        {
+          "surface": "Kimse",
+          "translationFa": "کسی؛ با منفی: هیچ‌کس",
+          "translationEn": "anyone; nobody with negation",
+          "lexemeId": "tr:kimse"
+        },
+        {
+          "surface": "anlamadı",
+          "translationFa": "نفهمید",
+          "translationEn": "did not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "derdimi",
+          "translationFa": "دردم را",
+          "translationEn": "my sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "Soğuttum inan her masada içimi",
+      "translationFa": "باور کن، سر هر میز دلم را سرد کردم.",
+      "translationEn": "Believe me, I cooled my heart at every table.",
+      "tokens": [
+        {
+          "surface": "Soğuttum",
+          "translationFa": "سرد کردم",
+          "translationEn": "I cooled",
+          "lexemeId": "tr:sogutmak"
+        },
+        {
+          "surface": "inan",
+          "translationFa": "باور کن",
+          "translationEn": "believe",
+          "lexemeId": "tr:inanmak"
+        },
+        {
+          "surface": "her",
+          "translationFa": "هر",
+          "translationEn": "every, each",
+          "lexemeId": "tr:her"
+        },
+        {
+          "surface": "masada",
+          "translationFa": "سر میز",
+          "translationEn": "at the table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "surface": "içimi",
+          "translationFa": "دلم را",
+          "translationEn": "my inner self",
+          "lexemeId": "tr:ic"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "Adını meze etmem",
+      "translationFa": "نامت را نقلِ محفل نمی‌کنم.",
+      "translationEn": "I will not make your name table gossip.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "meze",
+          "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+          "translationEn": "appetizer; gossip topic",
+          "lexemeId": "tr:meze"
+        },
+        {
+          "surface": "etmem",
+          "translationFa": "نمی‌کنم",
+          "translationEn": "I do not make",
+          "lexemeId": "tr:etmek"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "Çıkacak kalbim yerinden",
+      "translationFa": "قلبم از جا کنده خواهد شد.",
+      "translationEn": "My heart will leap out of its place.",
+      "tokens": [
+        {
+          "surface": "Çıkacak",
+          "translationFa": "بیرون خواهد آمد",
+          "translationEn": "will come out",
+          "lexemeId": "tr:cikmak"
+        },
+        {
+          "surface": "kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "yerinden",
+          "translationFa": "از جایش",
+          "translationEn": "from its place",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "Sevdim yürekten",
+      "translationFa": "از ته دل دوست داشتم.",
+      "translationEn": "I loved with all my heart.",
+      "tokens": [
+        {
+          "surface": "Sevdim",
+          "translationFa": "دوست داشتم",
+          "translationEn": "I loved",
+          "lexemeId": "tr:sevmek"
+        },
+        {
+          "surface": "yürekten",
+          "translationFa": "از ته دل",
+          "translationEn": "from the heart",
+          "lexemeId": "tr:yurek"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "Kimse anlamadı derdimi",
+      "translationFa": "هیچ‌کس دردم را نفهمید.",
+      "translationEn": "Nobody understood my sorrow.",
+      "tokens": [
+        {
+          "surface": "Kimse",
+          "translationFa": "کسی؛ با منفی: هیچ‌کس",
+          "translationEn": "anyone; nobody with negation",
+          "lexemeId": "tr:kimse"
+        },
+        {
+          "surface": "anlamadı",
+          "translationFa": "نفهمید",
+          "translationEn": "did not understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "surface": "derdimi",
+          "translationFa": "دردم را",
+          "translationEn": "my sorrow",
+          "lexemeId": "tr:dert"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "Soğuttum inan her masada içimi",
+      "translationFa": "باور کن، سر هر میز دلم را سرد کردم.",
+      "translationEn": "Believe me, I cooled my heart at every table.",
+      "tokens": [
+        {
+          "surface": "Soğuttum",
+          "translationFa": "سرد کردم",
+          "translationEn": "I cooled",
+          "lexemeId": "tr:sogutmak"
+        },
+        {
+          "surface": "inan",
+          "translationFa": "باور کن",
+          "translationEn": "believe",
+          "lexemeId": "tr:inanmak"
+        },
+        {
+          "surface": "her",
+          "translationFa": "هر",
+          "translationEn": "every, each",
+          "lexemeId": "tr:her"
+        },
+        {
+          "surface": "masada",
+          "translationFa": "سر میز",
+          "translationEn": "at the table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "surface": "içimi",
+          "translationFa": "دلم را",
+          "translationEn": "my inner self",
+          "lexemeId": "tr:ic"
+        }
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "Adını meze etmem",
+      "translationFa": "نامت را نقلِ محفل نمی‌کنم.",
+      "translationEn": "I will not make your name table gossip.",
+      "tokens": [
+        {
+          "surface": "Adını",
+          "translationFa": "نامت را",
+          "translationEn": "your name",
+          "lexemeId": "tr:ad"
+        },
+        {
+          "surface": "meze",
+          "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+          "translationEn": "appetizer; gossip topic",
+          "lexemeId": "tr:meze"
+        },
+        {
+          "surface": "etmem",
+          "translationFa": "نمی‌کنم",
+          "translationEn": "I do not make",
+          "lexemeId": "tr:etmek"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "Çıkacak kalbim yerinden",
+      "translationFa": "قلبم از جا کنده خواهد شد.",
+      "translationEn": "My heart will leap out of its place.",
+      "tokens": [
+        {
+          "surface": "Çıkacak",
+          "translationFa": "بیرون خواهد آمد",
+          "translationEn": "will come out",
+          "lexemeId": "tr:cikmak"
+        },
+        {
+          "surface": "kalbim",
+          "translationFa": "قلبم",
+          "translationEn": "my heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "surface": "yerinden",
+          "translationFa": "از جایش",
+          "translationEn": "from its place",
+          "lexemeId": "tr:yer"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "Ne gelir elden",
+      "translationFa": "از دست آدم چه برمی‌آید؟",
+      "translationEn": "What can one do?",
+      "tokens": [
+        {
+          "surface": "Ne",
+          "translationFa": "چه، چه چیزی",
+          "translationEn": "what",
+          "lexemeId": "tr:ne"
+        },
+        {
+          "surface": "gelir",
+          "translationFa": "می‌آید",
+          "translationEn": "comes",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "surface": "elden",
+          "translationFa": "از دست",
+          "translationEn": "from one's hand",
+          "lexemeId": "tr:el"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "lexemeId": "tr:kimse",
+      "lemma": "kimse",
+      "normalizedKey": "kimse",
+      "translationFa": "کسی؛ با منفی: هیچ‌کس",
+      "translationEn": "anyone; nobody with negation",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Odada kimse yoktu.",
+        "translationFa": "در اتاق هیچ‌کس نبود.",
+        "translationEn": "There was nobody in the room."
+      }
+    },
+    {
+      "lexemeId": "tr:anlamak",
+      "lemma": "anlamak",
+      "normalizedKey": "anlamak",
+      "translationFa": "فهمیدن",
+      "translationEn": "to understand",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Soruyu hemen anladık.",
+        "translationFa": "سؤال را فوراً فهمیدیم.",
+        "translationEn": "We understood the question immediately."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی anlamak",
+          "titleEn": "Six-person conjugation: anlamak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: anlamadı",
+              "en": "Lyric form: anlamadı (past)"
+            },
+            {
+              "fa": "صورت متن: anlayamadım",
+              "en": "Lyric form: anlayamadım (past)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "anlarım",
+              "anlamadım",
+              "anlayamadım"
+            ],
+            [
+              "sen (تو)",
+              "anlarsın",
+              "anlamadın",
+              "anlayamadın"
+            ],
+            [
+              "o (او)",
+              "anlar",
+              "anlamadı",
+              "anlayamadı"
+            ],
+            [
+              "biz (ما)",
+              "anlarız",
+              "anlamadık",
+              "anlayamadık"
+            ],
+            [
+              "siz (شما)",
+              "anlarsınız",
+              "anlamadınız",
+              "anlayamadınız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "anlarlar",
+              "anlamadılar",
+              "anlayamadılar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: anlamak",
+          "titleEn": "Lyric form analysis: anlamak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "anlamadı",
+              {
+                "fa": "گذشتهٔ قطعی منفی: anla-ma-dı.",
+                "en": "past; see the corresponding six-person column."
+              }
+            ],
+            [
+              "anlayamadım",
+              {
+                "fa": "گذشتهٔ ناتوانی: anla-y-a-ma-dı-m؛ با منفی ساده فرق دارد.",
+                "en": "past; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:dert",
+      "lemma": "dert",
+      "normalizedKey": "dert",
+      "translationFa": "درد، گرفتاری",
+      "translationEn": "trouble, sorrow",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Arkadaşım derdini bana anlattı.",
+        "translationFa": "دوستم گرفتاری‌اش را برایم تعریف کرد.",
+        "translationEn": "My friend told me about her trouble."
+      }
+    },
+    {
+      "lexemeId": "tr:sogutmak",
+      "lemma": "soğutmak",
+      "normalizedKey": "soğutmak",
+      "translationFa": "سرد کردن",
+      "translationEn": "to cool",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Çorbayı biraz soğuttum.",
+        "translationFa": "سوپ را کمی سرد کردم.",
+        "translationEn": "I cooled the soup a little."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی soğutmak",
+          "titleEn": "Six-person conjugation: soğutmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Soğuttum",
+              "en": "Lyric form: Soğuttum (past)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "soğuturum",
+              "soğuttum"
+            ],
+            [
+              "sen (تو)",
+              "soğutursun",
+              "soğuttun"
+            ],
+            [
+              "o (او)",
+              "soğutur",
+              "soğuttu"
+            ],
+            [
+              "biz (ما)",
+              "soğuturuz",
+              "soğuttuk"
+            ],
+            [
+              "siz (شما)",
+              "soğutursunuz",
+              "soğuttunuz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "soğuturlar",
+              "soğuttular"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: soğutmak",
+          "titleEn": "Lyric form analysis: soğutmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Soğuttum",
+              {
+                "fa": "گذشتهٔ قطعی مثبت؛ ساخت سببی از soğumak.",
+                "en": "past; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:inanmak",
+      "lemma": "inanmak",
+      "normalizedKey": "inanmak",
+      "translationFa": "باور کردن",
+      "translationEn": "to believe",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bu habere hemen inanmadım.",
+        "translationFa": "فوراً این خبر را باور نکردم.",
+        "translationEn": "I did not immediately believe the news."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی inanmak",
+          "titleEn": "Six-person conjugation: inanmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: inan",
+              "en": "Lyric form: inan (imperative)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "inanırım",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "sen (تو)",
+              "inanırsın",
+              "inan"
+            ],
+            [
+              "o (او)",
+              "inanır",
+              "inansın"
+            ],
+            [
+              "biz (ما)",
+              "inanırız",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "siz (شما)",
+              "inanırsınız",
+              "inanın"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "inanırlar",
+              "inansınlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: inanmak",
+          "titleEn": "Lyric form analysis: inanmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "inan",
+              {
+                "fa": "امر مثبت دوم‌شخص مفرد.",
+                "en": "imperative; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:her",
+      "lemma": "her",
+      "normalizedKey": "her",
+      "translationFa": "هر",
+      "translationEn": "every, each",
+      "partFa": "تعیین‌کننده",
+      "partEn": "determiner",
+      "tone": "blue",
+      "example": {
+        "text": "Her öğrenci bir kitap seçti.",
+        "translationFa": "هر دانش‌آموز یک کتاب انتخاب کرد.",
+        "translationEn": "Every student chose a book."
+      }
+    },
+    {
+      "lexemeId": "tr:masa",
+      "lemma": "masa",
+      "normalizedKey": "masa",
+      "translationFa": "میز",
+      "translationEn": "table",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Kitaplar masanın üstünde.",
+        "translationFa": "کتاب‌ها روی میز هستند.",
+        "translationEn": "The books are on the table."
+      }
+    },
+    {
+      "lexemeId": "tr:ic",
+      "lemma": "iç",
+      "normalizedKey": "iç",
+      "translationFa": "درون، داخل",
+      "translationEn": "inside",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Kutunun içinde iki kalem var.",
+        "translationFa": "درون جعبه دو مداد است.",
+        "translationEn": "There are two pencils inside the box."
+      }
+    },
+    {
+      "lexemeId": "tr:ad",
+      "lemma": "ad",
+      "normalizedKey": "ad",
+      "translationFa": "نام، اسم",
+      "translationEn": "name",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu çocuğun adı Deniz.",
+        "translationFa": "اسم این کودک دنیز است.",
+        "translationEn": "This child's name is Deniz."
+      }
+    },
+    {
+      "lexemeId": "tr:meze",
+      "lemma": "meze",
+      "normalizedKey": "meze",
+      "translationFa": "پیش‌غذا؛ در اصطلاح نقل مجلس",
+      "translationEn": "appetizer; gossip topic",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Restoranda masaya meze getirdiler.",
+        "translationFa": "در رستوران پیش‌غذا سر میز آوردند.",
+        "translationEn": "They brought appetizers to the table at the restaurant."
+      }
+    },
+    {
+      "lexemeId": "tr:etmek",
+      "lemma": "etmek",
+      "normalizedKey": "etmek",
+      "translationFa": "کردن؛ فعل کمکی",
+      "translationEn": "to do; auxiliary",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bana yardım etti.",
+        "translationFa": "به من کمک کرد.",
+        "translationEn": "She helped me."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی etmek",
+          "titleEn": "Six-person conjugation: etmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: etmem",
+              "en": "Lyric form: etmem (negative aorist / inability)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "ederim",
+              "etmem"
+            ],
+            [
+              "sen (تو)",
+              "edersin",
+              "etmezsin"
+            ],
+            [
+              "o (او)",
+              "eder",
+              "etmez"
+            ],
+            [
+              "biz (ما)",
+              "ederiz",
+              "etmeyiz"
+            ],
+            [
+              "siz (شما)",
+              "edersiniz",
+              "etmezsiniz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "ederler",
+              "etmezler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: etmek",
+          "titleEn": "Lyric form analysis: etmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "etmem",
+              {
+                "fa": "حال گستردهٔ منفی در اصطلاح meze etmek.",
+                "en": "negative aorist / inability; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:cikmak",
+      "lemma": "çıkmak",
+      "normalizedKey": "çıkmak",
+      "translationFa": "بیرون رفتن، خارج شدن",
+      "translationEn": "to go out, come out",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Sabah erkenden evden çıktık.",
+        "translationFa": "صبح زود از خانه بیرون رفتیم.",
+        "translationEn": "We left the house early in the morning."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی çıkmak",
+          "titleEn": "Six-person conjugation: çıkmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Çıkacak",
+              "en": "Lyric form: Çıkacak (future)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "çıkarım",
+              "çıkacağım"
+            ],
+            [
+              "sen (تو)",
+              "çıkarsın",
+              "çıkacaksın"
+            ],
+            [
+              "o (او)",
+              "çıkar",
+              "çıkacak"
+            ],
+            [
+              "biz (ما)",
+              "çıkarız",
+              "çıkacağız"
+            ],
+            [
+              "siz (شما)",
+              "çıkarsınız",
+              "çıkacaksınız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "çıkarlar",
+              "çıkacaklar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: çıkmak",
+          "titleEn": "Lyric form analysis: çıkmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Çıkacak",
+              {
+                "fa": "آیندهٔ مثبت.",
+                "en": "future; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:kalp",
+      "lemma": "kalp",
+      "normalizedKey": "kalp",
+      "translationFa": "قلب",
+      "translationEn": "heart",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Doktor kalbini dinledi.",
+        "translationFa": "پزشک قلبش را معاینه کرد.",
+        "translationEn": "The doctor listened to her heart."
+      }
+    },
+    {
+      "lexemeId": "tr:yer",
+      "lemma": "yer",
+      "normalizedKey": "yer",
+      "translationFa": "جا، مکان، زمین",
+      "translationEn": "place, ground",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Parkta oturacak bir yer bulduk.",
+        "translationFa": "در پارک جایی برای نشستن پیدا کردیم.",
+        "translationEn": "We found a place to sit in the park."
+      }
+    },
+    {
+      "lexemeId": "tr:sevmek",
+      "lemma": "sevmek",
+      "normalizedKey": "sevmek",
+      "translationFa": "دوست داشتن",
+      "translationEn": "to love, like",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Kedileri çok seviyorum.",
+        "translationFa": "گربه‌ها را خیلی دوست دارم.",
+        "translationEn": "I really like cats."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی sevmek",
+          "titleEn": "Six-person conjugation: sevmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Sevdim",
+              "en": "Lyric form: Sevdim (past)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "severim",
+              "sevdim"
+            ],
+            [
+              "sen (تو)",
+              "seversin",
+              "sevdin"
+            ],
+            [
+              "o (او)",
+              "sever",
+              "sevdi"
+            ],
+            [
+              "biz (ما)",
+              "severiz",
+              "sevdik"
+            ],
+            [
+              "siz (شما)",
+              "seversiniz",
+              "sevdiniz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "severler",
+              "sevdiler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: sevmek",
+          "titleEn": "Lyric form analysis: sevmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Sevdim",
+              {
+                "fa": "گذشتهٔ قطعی مثبت.",
+                "en": "past; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:yurek",
+      "lemma": "yürek",
+      "normalizedKey": "yürek",
+      "translationFa": "دل، قلب",
+      "translationEn": "heart",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu işi yapacak yüreği vardı.",
+        "translationFa": "دل و جرئت انجام این کار را داشت.",
+        "translationEn": "He had the courage to do it."
+      }
+    },
+    {
+      "lexemeId": "tr:ne",
+      "lemma": "ne",
+      "normalizedKey": "ne",
+      "translationFa": "چه، چه چیزی",
+      "translationEn": "what",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Masada ne var?",
+        "translationFa": "روی میز چه هست؟",
+        "translationEn": "What is on the table?"
+      }
+    },
+    {
+      "lexemeId": "tr:gelmek",
+      "lemma": "gelmek",
+      "normalizedKey": "gelmek",
+      "translationFa": "آمدن",
+      "translationEn": "to come",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Misafirler yarın gelecek.",
+        "translationFa": "مهمان‌ها فردا خواهند آمد.",
+        "translationEn": "The guests will come tomorrow."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی gelmek",
+          "titleEn": "Six-person conjugation: gelmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: gel",
+              "en": "Lyric form: gel (imperative)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "gelirim",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "sen (تو)",
+              "gelirsin",
+              "gel"
+            ],
+            [
+              "o (او)",
+              "gelir",
+              "gelsin"
+            ],
+            [
+              "biz (ما)",
+              "geliriz",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "siz (شما)",
+              "gelirsiniz",
+              "gelin"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "gelirler",
+              "gelsinler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: gelmek",
+          "titleEn": "Lyric form analysis: gelmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "gelir",
+              {
+                "fa": "حال گستردهٔ مثبت.",
+                "en": "aorist; see the corresponding six-person column."
+              }
+            ],
+            [
+              "gel",
+              {
+                "fa": "امر مثبت دوم‌شخص مفرد.",
+                "en": "imperative; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:el",
+      "lemma": "el",
+      "normalizedKey": "el",
+      "translationFa": "دست",
+      "translationEn": "hand",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Yemekten önce ellerini yıka.",
+        "translationFa": "پیش از غذا دست‌هایت را بشوی.",
+        "translationEn": "Wash your hands before eating."
+      }
+    },
+    {
+      "lexemeId": "tr:bu",
+      "lemma": "bu",
+      "normalizedKey": "bu",
+      "translationFa": "این",
+      "translationEn": "this",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu kitap çok ilginç.",
+        "translationFa": "این کتاب بسیار جالب است.",
+        "translationEn": "This book is very interesting."
+      }
+    },
+    {
+      "lexemeId": "tr:bir",
+      "lemma": "bir",
+      "normalizedKey": "bir",
+      "translationFa": "یک",
+      "translationEn": "one, a",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Bir kitap ve iki kalem aldım.",
+        "translationFa": "یک کتاب و دو مداد خریدم.",
+        "translationEn": "I bought one book and two pencils."
+      }
+    },
+    {
+      "lexemeId": "tr:gunah",
+      "lemma": "günah",
+      "normalizedKey": "günah",
+      "translationFa": "گناه",
+      "translationEn": "sin",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Yalan söylemek günah sayılır.",
+        "translationFa": "دروغ گفتن گناه محسوب می‌شود.",
+        "translationEn": "Lying is considered a sin."
+      }
+    },
+    {
+      "lexemeId": "tr:bulanmak",
+      "lemma": "bulanmak",
+      "normalizedKey": "bulanmak",
+      "translationFa": "آلوده یا درگیر شدن",
+      "translationEn": "to become tainted, entangled",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Su yağmurdan sonra bulandı.",
+        "translationFa": "آب بعد از باران گل‌آلود شد.",
+        "translationEn": "The water became muddy after the rain."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی bulanmak",
+          "titleEn": "Six-person conjugation: bulanmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: bulandın",
+              "en": "Lyric form: bulandın (past)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "bulanırım",
+              "bulandım"
+            ],
+            [
+              "sen (تو)",
+              "bulanırsın",
+              "bulandın"
+            ],
+            [
+              "o (او)",
+              "bulanır",
+              "bulandı"
+            ],
+            [
+              "biz (ما)",
+              "bulanırız",
+              "bulandık"
+            ],
+            [
+              "siz (شما)",
+              "bulanırsınız",
+              "bulandınız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "bulanırlar",
+              "bulandılar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: bulanmak",
+          "titleEn": "Lyric form analysis: bulanmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "bulandın",
+              {
+                "fa": "گذشتهٔ قطعی مثبت، با yalana یعنی گرفتار دروغ شدن.",
+                "en": "past; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:yalan",
+      "lemma": "yalan",
+      "normalizedKey": "yalan",
+      "translationFa": "دروغ",
+      "translationEn": "lie",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu hikâyenin yalan olduğu anlaşıldı.",
+        "translationFa": "معلوم شد این داستان دروغ است.",
+        "translationEn": "The story turned out to be a lie."
+      }
+    },
+    {
+      "lexemeId": "tr:kim",
+      "lemma": "kim",
+      "normalizedKey": "kim",
+      "translationFa": "چه کسی",
+      "translationEn": "who",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu kitabı kim yazdı?",
+        "translationFa": "چه کسی این کتاب را نوشت؟",
+        "translationEn": "Who wrote this book?"
+      }
+    },
+    {
+      "lexemeId": "tr:icin",
+      "lemma": "için",
+      "normalizedKey": "için",
+      "translationFa": "برای، به خاطر",
+      "translationEn": "for, because of",
+      "partFa": "حرف اضافهٔ پسین",
+      "partEn": "postposition",
+      "tone": "blue",
+      "example": {
+        "text": "Bu çiçekleri annem için aldım.",
+        "translationFa": "این گل‌ها را برای مادرم خریدم.",
+        "translationEn": "I bought these flowers for my mother."
+      }
+    },
+    {
+      "lexemeId": "tr:savas",
+      "lemma": "savaş",
+      "normalizedKey": "savaş",
+      "translationFa": "جنگ",
+      "translationEn": "war",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Savaş birçok insanı evsiz bıraktı.",
+        "translationFa": "جنگ افراد زیادی را بی‌خانمان کرد.",
+        "translationEn": "The war left many people homeless."
+      }
+    },
+    {
+      "lexemeId": "tr:olmek",
+      "lemma": "ölmek",
+      "normalizedKey": "ölmek",
+      "translationFa": "مردن",
+      "translationEn": "to die",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bitki susuzluktan öldü.",
+        "translationFa": "گیاه از بی‌آبی مرد.",
+        "translationEn": "The plant died from lack of water."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی ölmek",
+          "titleEn": "Six-person conjugation: ölmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: öldüm",
+              "en": "Lyric form: öldüm (past)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "ölürüm",
+              "öldüm"
+            ],
+            [
+              "sen (تو)",
+              "ölürsün",
+              "öldün"
+            ],
+            [
+              "o (او)",
+              "ölür",
+              "öldü"
+            ],
+            [
+              "biz (ما)",
+              "ölürüz",
+              "öldük"
+            ],
+            [
+              "siz (شما)",
+              "ölürsünüz",
+              "öldünüz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "ölürler",
+              "öldüler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: ölmek",
+          "titleEn": "Lyric form analysis: ölmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "öldüm",
+              {
+                "fa": "گذشتهٔ قطعی مثبت.",
+                "en": "past; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:hep",
+      "lemma": "hep",
+      "normalizedKey": "hep",
+      "translationFa": "همیشه، مدام",
+      "translationEn": "always",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Hep aynı yolu kullanıyoruz.",
+        "translationFa": "همیشه از یک راه استفاده می‌کنیم.",
+        "translationEn": "We always take the same route."
+      }
+    },
+    {
+      "lexemeId": "tr:ugur",
+      "lemma": "uğur",
+      "normalizedKey": "uğur",
+      "translationFa": "به خاطر، در راهِ",
+      "translationEn": "for the sake of",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Barış uğruna çok çalıştılar.",
+        "translationFa": "برای صلح بسیار تلاش کردند.",
+        "translationEn": "They worked hard for the sake of peace."
+      }
+    },
+    {
+      "lexemeId": "tr:acmak",
+      "lemma": "açmak",
+      "normalizedKey": "açmak",
+      "translationFa": "باز کردن",
+      "translationEn": "to open",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Pencereyi açar mısın?",
+        "translationFa": "پنجره را باز می‌کنی؟",
+        "translationEn": "Can you open the window?"
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی açmak",
+          "titleEn": "Six-person conjugation: açmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Açtıysan",
+              "en": "Lyric form: Açtıysan (conditional)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "açarım",
+              "açtıysam"
+            ],
+            [
+              "sen (تو)",
+              "açarsın",
+              "açtıysan"
+            ],
+            [
+              "o (او)",
+              "açar",
+              "açtıysa"
+            ],
+            [
+              "biz (ما)",
+              "açarız",
+              "açtıysak"
+            ],
+            [
+              "siz (شما)",
+              "açarsınız",
+              "açtıysanız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "açarlar",
+              "açtılarsa"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: açmak",
+          "titleEn": "Lyric form analysis: açmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Açtıysan",
+              {
+                "fa": "گذشتهٔ قطعی + شرط: açtı + ysa + n.",
+                "en": "conditional; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:yara",
+      "lemma": "yara",
+      "normalizedKey": "yara",
+      "translationFa": "زخم",
+      "translationEn": "wound",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Doktor yarayı temizledi.",
+        "translationFa": "پزشک زخم را تمیز کرد.",
+        "translationEn": "The doctor cleaned the wound."
+      }
+    },
+    {
+      "lexemeId": "tr:once",
+      "lemma": "önce",
+      "normalizedKey": "önce",
+      "translationFa": "قبل، اول",
+      "translationEn": "before, first",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Yemekten önce ellerimizi yıkarız.",
+        "translationFa": "قبل از غذا دست‌هایمان را می‌شوییم.",
+        "translationEn": "We wash our hands before eating."
+      }
+    },
+    {
+      "lexemeId": "tr:o",
+      "lemma": "o",
+      "normalizedKey": "o",
+      "translationFa": "او، آن",
+      "translationEn": "he, she, it; that",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "O bugün kütüphanede.",
+        "translationFa": "او امروز در کتابخانه است.",
+        "translationEn": "They are at the library today."
+      }
+    },
+    {
+      "lexemeId": "tr:kapatmak",
+      "lemma": "kapatmak",
+      "normalizedKey": "kapatmak",
+      "translationFa": "بستن",
+      "translationEn": "to close",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Çıkarken ışığı kapat.",
+        "translationFa": "هنگام خروج چراغ را خاموش کن.",
+        "translationEn": "Turn off the light when you leave."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی kapatmak",
+          "titleEn": "Six-person conjugation: kapatmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: kapat",
+              "en": "Lyric form: kapat (imperative)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "kapatırım",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "sen (تو)",
+              "kapatırsın",
+              "kapat"
+            ],
+            [
+              "o (او)",
+              "kapatır",
+              "kapatsın"
+            ],
+            [
+              "biz (ما)",
+              "kapatırız",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "siz (شما)",
+              "kapatırsınız",
+              "kapatın"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "kapatırlar",
+              "kapatsınlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: kapatmak",
+          "titleEn": "Lyric form analysis: kapatmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "kapat",
+              {
+                "fa": "امر مثبت دوم‌شخص مفرد.",
+                "en": "imperative; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:kanamak",
+      "lemma": "kanamak",
+      "normalizedKey": "kanamak",
+      "translationFa": "خون آمدن",
+      "translationEn": "to bleed",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Parmağım biraz kanadı.",
+        "translationFa": "انگشتم کمی خون آمد.",
+        "translationEn": "My finger bled a little."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی kanamak",
+          "titleEn": "Six-person conjugation: kanamak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Kanarsa",
+              "en": "Lyric form: Kanarsa (conditional)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "kanarım",
+              "kanarsam"
+            ],
+            [
+              "sen (تو)",
+              "kanarsın",
+              "kanarsan"
+            ],
+            [
+              "o (او)",
+              "kanar",
+              "kanarsa"
+            ],
+            [
+              "biz (ما)",
+              "kanarız",
+              "kanarsak"
+            ],
+            [
+              "siz (شما)",
+              "kanarsınız",
+              "kanarsanız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "kanarlar",
+              "kanarlarsa"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: kanamak",
+          "titleEn": "Lyric form analysis: kanamak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Kanarsa",
+              {
+                "fa": "حال گسترده + شرط: kanar + sa؛ با kanmak به معنی فریب خوردن اشتباه نشود.",
+                "en": "conditional; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:sel",
+      "lemma": "sel",
+      "normalizedKey": "sel",
+      "translationFa": "سیل",
+      "translationEn": "flood",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Sel köprünün yolunu kapattı.",
+        "translationFa": "سیل راه پل را بست.",
+        "translationEn": "The flood blocked the road to the bridge."
+      }
+    },
+    {
+      "lexemeId": "tr:olmak",
+      "lemma": "olmak",
+      "normalizedKey": "olmak",
+      "translationFa": "بودن، شدن",
+      "translationEn": "to be, become",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Kardeşim doktor oldu.",
+        "translationFa": "خواهر یا برادرم پزشک شد.",
+        "translationEn": "My sibling became a doctor."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی olmak",
+          "titleEn": "Six-person conjugation: olmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "olurum"
+            ],
+            [
+              "sen (تو)",
+              "olursun"
+            ],
+            [
+              "o (او)",
+              "olur"
+            ],
+            [
+              "biz (ما)",
+              "oluruz"
+            ],
+            [
+              "siz (شما)",
+              "olursunuz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "olurlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: olmak",
+          "titleEn": "Lyric form analysis: olmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "olur",
+              {
+                "fa": "حال گستردهٔ مثبت.",
+                "en": "aorist; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:yanmak",
+      "lemma": "yanmak",
+      "normalizedKey": "yanmak",
+      "translationFa": "سوختن، روشن بودن",
+      "translationEn": "to burn, be lit",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Lamba bütün gece yandı.",
+        "translationFa": "چراغ تمام شب روشن بود.",
+        "translationEn": "The lamp stayed lit all night."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی yanmak",
+          "titleEn": "Six-person conjugation: yanmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "yanarım"
+            ],
+            [
+              "sen (تو)",
+              "yanarsın"
+            ],
+            [
+              "o (او)",
+              "yanar"
+            ],
+            [
+              "biz (ما)",
+              "yanarız"
+            ],
+            [
+              "siz (شما)",
+              "yanarsınız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "yanarlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: yanmak",
+          "titleEn": "Lyric form analysis: yanmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "yanarım",
+              {
+                "fa": "حال گستردهٔ مثبت.",
+                "en": "aorist; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:bin",
+      "lemma": "bin",
+      "normalizedKey": "bin",
+      "translationFa": "هزار",
+      "translationEn": "a thousand",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Bu köyde bin kişi yaşıyor.",
+        "translationFa": "در این روستا هزار نفر زندگی می‌کنند.",
+        "translationEn": "A thousand people live in this village."
+      }
+    },
+    {
+      "lexemeId": "tr:defa",
+      "lemma": "defa",
+      "normalizedKey": "defa",
+      "translationFa": "بار، دفعه",
+      "translationEn": "time, occasion",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu filmi iki defa izledim.",
+        "translationFa": "این فیلم را دو بار دیدم.",
+        "translationEn": "I watched this film twice."
+      }
+    },
+    {
+      "lexemeId": "tr:kere",
+      "lemma": "kere",
+      "normalizedKey": "kere",
+      "translationFa": "بار، مرتبه",
+      "translationEn": "time, occasion",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu soruyu üç kere sordum.",
+        "translationFa": "این سؤال را سه بار پرسیدم.",
+        "translationEn": "I asked this question three times."
+      }
+    },
+    {
+      "lexemeId": "tr:konusmak",
+      "lemma": "konuşmak",
+      "normalizedKey": "konuşmak",
+      "translationFa": "صحبت کردن",
+      "translationEn": "to speak",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Toplantıdan sonra konuşalım.",
+        "translationFa": "بعد از جلسه صحبت کنیم.",
+        "translationEn": "Let us talk after the meeting."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی konuşmak",
+          "titleEn": "Six-person conjugation: konuşmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: konuşalım",
+              "en": "Lyric form: konuşalım (optative)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "konuşurum",
+              "konuşayım"
+            ],
+            [
+              "sen (تو)",
+              "konuşursun",
+              "konuşasın*"
+            ],
+            [
+              "o (او)",
+              "konuşur",
+              "konuşa*"
+            ],
+            [
+              "biz (ما)",
+              "konuşuruz",
+              "konuşalım"
+            ],
+            [
+              "siz (شما)",
+              "konuşursunuz",
+              "konuşasınız*"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "konuşurlar",
+              "konuşalar*"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms.",
+          "footerFa": "* صورت‌های التزامی دوم و سوم در ترکی امروز کم‌کاربردند؛ به‌جای آن اغلب از امر استفاده می‌شود.",
+          "footerEn": "* Second- and third-person optatives are rare in contemporary Turkish; imperatives are normally used instead."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: konuşmak",
+          "titleEn": "Lyric form analysis: konuşmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "konuşalım",
+              {
+                "fa": "التزامی/پیشنهاد اول‌شخص جمع، نه امر اول‌شخص.",
+                "en": "optative; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:aramak",
+      "lemma": "aramak",
+      "normalizedKey": "aramak",
+      "translationFa": "جست‌وجو یا تلفن کردن",
+      "translationEn": "to search, call",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Anahtarımı her yerde aradım.",
+        "translationFa": "همه‌جا دنبال کلیدم گشتم.",
+        "translationEn": "I looked for my key everywhere."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی aramak",
+          "titleEn": "Six-person conjugation: aramak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: ara",
+              "en": "Lyric form: ara (imperative)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "ararım",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "sen (تو)",
+              "ararsın",
+              "ara"
+            ],
+            [
+              "o (او)",
+              "arar",
+              "arasın"
+            ],
+            [
+              "biz (ما)",
+              "ararız",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "siz (شما)",
+              "ararsınız",
+              "arayın"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "ararlar",
+              "arasınlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: aramak",
+          "titleEn": "Lyric form analysis: aramak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "ara",
+              {
+                "fa": "امر مثبت دوم‌شخص مفرد؛ اینجا به معنی تلفن کردن.",
+                "en": "imperative; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:hem",
+      "lemma": "hem",
+      "normalizedKey": "hem",
+      "translationFa": "هم، هم ... هم",
+      "translationEn": "both, also",
+      "partFa": "حرف ربط",
+      "partEn": "conjunction",
+      "tone": "blue",
+      "example": {
+        "text": "Hem Türkçe hem Farsça biliyor.",
+        "translationFa": "هم ترکی و هم فارسی می‌داند.",
+        "translationEn": "She knows both Turkish and Persian."
+      }
+    },
+    {
+      "lexemeId": "tr:hatali",
+      "lemma": "hatalı",
+      "normalizedKey": "hatalı",
+      "translationFa": "خطاکار، اشتباه",
+      "translationEn": "wrong, mistaken",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "blue",
+      "example": {
+        "text": "Bu hesap hatalı görünüyor.",
+        "translationFa": "این محاسبه اشتباه به نظر می‌رسد.",
+        "translationEn": "This calculation looks incorrect."
+      }
+    },
+    {
+      "lexemeId": "tr:niye",
+      "lemma": "niye",
+      "normalizedKey": "niye",
+      "translationFa": "چرا",
+      "translationEn": "why",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Niye pencere açık?",
+        "translationFa": "چرا پنجره باز است؟",
+        "translationEn": "Why is the window open?"
+      }
+    },
+    {
+      "lexemeId": "tr:kadar",
+      "lemma": "kadar",
+      "normalizedKey": "kadar",
+      "translationFa": "تا، به اندازهٔ",
+      "translationEn": "until, as much as",
+      "partFa": "حرف اضافهٔ پسین",
+      "partEn": "postposition",
+      "tone": "blue",
+      "example": {
+        "text": "Akşama kadar burada kalacağız.",
+        "translationFa": "تا غروب اینجا می‌مانیم.",
+        "translationEn": "We will stay here until evening."
+      }
+    },
+    {
+      "lexemeId": "tr:caba",
+      "lemma": "çaba",
+      "normalizedKey": "çaba",
+      "translationFa": "تلاش",
+      "translationEn": "effort",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Başarısı büyük bir çabanın sonucu.",
+        "translationFa": "موفقیتش نتیجهٔ تلاش بزرگی است.",
+        "translationEn": "His success is the result of great effort."
+      }
+    },
+    {
+      "lexemeId": "tr:gitmek",
+      "lemma": "gitmek",
+      "normalizedKey": "gitmek",
+      "translationFa": "رفتن",
+      "translationEn": "to go",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Her sabah işe giderim.",
+        "translationFa": "هر صبح به سر کار می‌روم.",
+        "translationEn": "I go to work every morning."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی gitmek",
+          "titleEn": "Six-person conjugation: gitmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "giderim"
+            ],
+            [
+              "sen (تو)",
+              "gidersin"
+            ],
+            [
+              "o (او)",
+              "gider"
+            ],
+            [
+              "biz (ما)",
+              "gideriz"
+            ],
+            [
+              "siz (شما)",
+              "gidersiniz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "giderler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: gitmek",
+          "titleEn": "Lyric form analysis: gitmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Gitmek",
+              {
+                "fa": "مصدر -mAk، بدون شناسه و زمان مستقل.",
+                "en": "Nonfinite form; no independent person/tense."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:istemek",
+      "lemma": "istemek",
+      "normalizedKey": "istemek",
+      "translationFa": "خواستن",
+      "translationEn": "to want",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bir bardak su istiyorum.",
+        "translationFa": "یک لیوان آب می‌خواهم.",
+        "translationEn": "I want a glass of water."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی istemek",
+          "titleEn": "Six-person conjugation: istemek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: istiyorsun",
+              "en": "Lyric form: istiyorsun (progressive)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "isterim",
+              "istiyorum"
+            ],
+            [
+              "sen (تو)",
+              "istersin",
+              "istiyorsun"
+            ],
+            [
+              "o (او)",
+              "ister",
+              "istiyor"
+            ],
+            [
+              "biz (ما)",
+              "isteriz",
+              "istiyoruz"
+            ],
+            [
+              "siz (شما)",
+              "istersiniz",
+              "istiyorsunuz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "isterler",
+              "istiyorlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: istemek",
+          "titleEn": "Lyric form analysis: istemek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "istiyorsun",
+              {
+                "fa": "حال استمراری مثبت.",
+                "en": "progressive; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:cumle",
+      "lemma": "cümle",
+      "normalizedKey": "cümle",
+      "translationFa": "جمله",
+      "translationEn": "sentence",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Bu cümlede üç kelime var.",
+        "translationFa": "در این جمله سه واژه هست.",
+        "translationEn": "There are three words in this sentence."
+      }
+    },
+    {
+      "lexemeId": "tr:kurmak",
+      "lemma": "kurmak",
+      "normalizedKey": "kurmak",
+      "translationFa": "ساختن، برپا کردن",
+      "translationEn": "to build, form",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bahçeye küçük bir çadır kurduk.",
+        "translationFa": "در باغ چادر کوچکی برپا کردیم.",
+        "translationEn": "We pitched a small tent in the garden."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی kurmak",
+          "titleEn": "Six-person conjugation: kurmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: kuruyorsun",
+              "en": "Lyric form: kuruyorsun (progressive)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "kurarım",
+              "kuruyorum"
+            ],
+            [
+              "sen (تو)",
+              "kurarsın",
+              "kuruyorsun"
+            ],
+            [
+              "o (او)",
+              "kurar",
+              "kuruyor"
+            ],
+            [
+              "biz (ما)",
+              "kurarız",
+              "kuruyoruz"
+            ],
+            [
+              "siz (شما)",
+              "kurarsınız",
+              "kuruyorsunuz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "kurarlar",
+              "kuruyorlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: kurmak",
+          "titleEn": "Lyric form analysis: kurmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "kuruyorsun",
+              {
+                "fa": "حال استمراری مثبت.",
+                "en": "progressive; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:elveda",
+      "lemma": "elveda",
+      "normalizedKey": "elveda",
+      "translationFa": "خداحافظ، بدرود",
+      "translationEn": "farewell, goodbye",
+      "partFa": "ندا",
+      "partEn": "interjection",
+      "tone": "blue",
+      "example": {
+        "text": "Elveda deyip trene bindi.",
+        "translationFa": "خداحافظی کرد و سوار قطار شد.",
+        "translationEn": "She said farewell and boarded the train."
+      }
+    },
+    {
+      "lexemeId": "tr:ben",
+      "lemma": "ben",
+      "normalizedKey": "ben",
+      "translationFa": "من",
+      "translationEn": "I",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Ben bugün evde çalışıyorum.",
+        "translationFa": "من امروز در خانه کار می‌کنم.",
+        "translationEn": "I am working at home today."
+      }
+    },
+    {
+      "lexemeId": "tr:biri",
+      "lemma": "biri",
+      "normalizedKey": "biri",
+      "translationFa": "کسی، یکی",
+      "translationEn": "someone, one",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Biri pencereyi açık bırakmış.",
+        "translationFa": "یک نفر پنجره را باز گذاشته است.",
+        "translationEn": "Someone left the window open."
+      }
+    },
+    {
+      "lexemeId": "tr:fark-etmek",
+      "lemma": "fark etmek",
+      "normalizedKey": "fark etmek",
+      "translationFa": "متوجه شدن",
+      "translationEn": "to notice",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Hatasını hemen fark etti.",
+        "translationFa": "فوراً متوجه اشتباهش شد.",
+        "translationEn": "He noticed his mistake immediately."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی fark etmek",
+          "titleEn": "Six-person conjugation: fark etmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "fark ederim"
+            ],
+            [
+              "sen (تو)",
+              "fark edersin"
+            ],
+            [
+              "o (او)",
+              "fark eder"
+            ],
+            [
+              "biz (ما)",
+              "fark ederiz"
+            ],
+            [
+              "siz (شما)",
+              "fark edersiniz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "fark ederler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: fark etmek",
+          "titleEn": "Lyric form analysis: fark etmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "farkeder",
+              {
+                "fa": "حال گسترده؛ املای معیار fark eder جداست.",
+                "en": "aorist; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:gece",
+      "lemma": "gece",
+      "normalizedKey": "gece",
+      "translationFa": "شب",
+      "translationEn": "night",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Gece gökyüzünde yıldızlar vardı.",
+        "translationFa": "شب در آسمان ستاره‌هایی بود.",
+        "translationEn": "There were stars in the night sky."
+      }
+    },
+    {
+      "lexemeId": "tr:affetmek",
+      "lemma": "affetmek",
+      "normalizedKey": "affetmek",
+      "translationFa": "بخشیدن",
+      "translationEn": "to forgive",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Arkadaşını affetti.",
+        "translationFa": "دوستش را بخشید.",
+        "translationEn": "She forgave her friend."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی affetmek",
+          "titleEn": "Six-person conjugation: affetmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "affederim"
+            ],
+            [
+              "sen (تو)",
+              "affedersin"
+            ],
+            [
+              "o (او)",
+              "affeder"
+            ],
+            [
+              "biz (ما)",
+              "affederiz"
+            ],
+            [
+              "siz (شما)",
+              "affedersiniz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "affederler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: affetmek",
+          "titleEn": "Lyric form analysis: affetmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "affeder",
+              {
+                "fa": "حال گستردهٔ مثبت؛ شکل پرسشی با mi جدا می‌آید.",
+                "en": "aorist; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:mi",
+      "lemma": "mi",
+      "normalizedKey": "mi",
+      "translationFa": "آیا؛ نشانهٔ پرسش",
+      "translationEn": "question particle",
+      "partFa": "ذره / حرف",
+      "partEn": "particle",
+      "tone": "blue",
+      "example": {
+        "text": "Bu çanta senin mi?",
+        "translationFa": "آیا این کیف مال توست؟",
+        "translationEn": "Is this bag yours?"
+      }
+    },
+    {
+      "lexemeId": "tr:bilmek",
+      "lemma": "bilmek",
+      "normalizedKey": "bilmek",
+      "translationFa": "دانستن",
+      "translationEn": "to know",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Bu sorunun cevabını biliyorum.",
+        "translationFa": "پاسخ این سؤال را می‌دانم.",
+        "translationEn": "I know the answer to this question."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی bilmek",
+          "titleEn": "Six-person conjugation: bilmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Bilmem",
+              "en": "Lyric form: Bilmem (negative aorist / inability)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "bilirim",
+              "bilmem"
+            ],
+            [
+              "sen (تو)",
+              "bilirsin",
+              "bilmezsin"
+            ],
+            [
+              "o (او)",
+              "bilir",
+              "bilmez"
+            ],
+            [
+              "biz (ما)",
+              "biliriz",
+              "bilmeyiz"
+            ],
+            [
+              "siz (شما)",
+              "bilirsiniz",
+              "bilmezsiniz"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "bilirler",
+              "bilmezler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: bilmek",
+          "titleEn": "Lyric form analysis: bilmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Bilmem",
+              {
+                "fa": "حال گستردهٔ منفی.",
+                "en": "negative aorist / inability; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:gulus",
+      "lemma": "gülüş",
+      "normalizedKey": "gülüş",
+      "translationFa": "لبخند، خنده",
+      "translationEn": "smile",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Gülüşü herkesi neşelendirdi.",
+        "translationFa": "لبخندش همه را شاد کرد.",
+        "translationEn": "Her smile cheered everyone up."
+      }
+    },
+    {
+      "lexemeId": "tr:kac",
+      "lemma": "kaç",
+      "normalizedKey": "kaç",
+      "translationFa": "چند",
+      "translationEn": "how many",
+      "partFa": "تعیین‌کننده",
+      "partEn": "determiner",
+      "tone": "blue",
+      "example": {
+        "text": "Sınıfta kaç öğrenci var?",
+        "translationFa": "در کلاس چند دانش‌آموز هست؟",
+        "translationEn": "How many students are in the class?"
+      }
+    },
+    {
+      "lexemeId": "tr:omur",
+      "lemma": "ömür",
+      "normalizedKey": "ömür",
+      "translationFa": "عمر، طول زندگی",
+      "translationEn": "lifetime",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Uzun bir ömür yaşadı.",
+        "translationFa": "عمر درازی داشت.",
+        "translationEn": "He lived a long life."
+      }
+    },
+    {
+      "lexemeId": "tr:bedel",
+      "lemma": "bedel",
+      "normalizedKey": "bedel",
+      "translationFa": "بها، تاوان",
+      "translationEn": "price, cost",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Herkes bunun bedelini ödedi.",
+        "translationFa": "همه بهای آن را پرداختند.",
+        "translationEn": "Everyone paid the price for it."
+      }
+    },
+    {
+      "lexemeId": "tr:senlik",
+      "lemma": "senlik",
+      "normalizedKey": "senlik",
+      "translationFa": "مربوط به تو، مناسب تو",
+      "translationEn": "for you, your concern",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "blue",
+      "example": {
+        "text": "Bu iş senlik değil.",
+        "translationFa": "این کار مناسب تو نیست.",
+        "translationEn": "This job is not for you."
+      }
+    },
+    {
+      "lexemeId": "tr:durum",
+      "lemma": "durum",
+      "normalizedKey": "durum",
+      "translationFa": "وضعیت",
+      "translationEn": "situation",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Durumu doktora açıkladım.",
+        "translationFa": "وضعیت را برای پزشک توضیح دادم.",
+        "translationEn": "I explained the situation to the doctor."
+      }
+    },
+    {
+      "lexemeId": "tr:yok",
+      "lemma": "yok",
+      "normalizedKey": "yok",
+      "translationFa": "نیست، وجود ندارد",
+      "translationEn": "there is not, absent",
+      "partFa": "گزارهٔ اسمی",
+      "partEn": "predicate",
+      "tone": "blue",
+      "example": {
+        "text": "Bugün evde ekmek yok.",
+        "translationFa": "امروز در خانه نان نیست.",
+        "translationEn": "There is no bread at home today."
+      }
+    },
+    {
+      "lexemeId": "tr:tek",
+      "lemma": "tek",
+      "normalizedKey": "tek",
+      "translationFa": "تک، تنها",
+      "translationEn": "single, sole",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "blue",
+      "example": {
+        "text": "Tek bir sorum var.",
+        "translationFa": "فقط یک سؤال دارم.",
+        "translationEn": "I have just one question."
+      }
+    },
+    {
+      "lexemeId": "tr:tarafli",
+      "lemma": "taraflı",
+      "normalizedKey": "taraflı",
+      "translationFa": "دارای طرف؛ در ترکیبِ یک‌طرفه",
+      "translationEn": "sided, biased",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "blue",
+      "example": {
+        "text": "İki taraflı anlaşma imzalandı.",
+        "translationFa": "توافقی دوطرفه امضا شد.",
+        "translationEn": "A two-sided agreement was signed."
+      }
+    },
+    {
+      "lexemeId": "tr:hangisi",
+      "lemma": "hangisi",
+      "normalizedKey": "hangisi",
+      "translationFa": "کدام‌یک",
+      "translationEn": "which one",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Hangisi senin çantan?",
+        "translationFa": "کدام‌یک کیف توست؟",
+        "translationEn": "Which one is your bag?"
+      }
+    },
+    {
+      "lexemeId": "tr:dogru",
+      "lemma": "doğru",
+      "normalizedKey": "doğru",
+      "translationFa": "درست، صحیح",
+      "translationEn": "correct, true",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "blue",
+      "example": {
+        "text": "Bu cevap doğru.",
+        "translationFa": "این پاسخ درست است.",
+        "translationEn": "This answer is correct."
+      }
+    },
+    {
+      "lexemeId": "tr:tamam",
+      "lemma": "tamam",
+      "normalizedKey": "tamam",
+      "translationFa": "باشه، تمام",
+      "translationEn": "okay, all right",
+      "partFa": "ندا",
+      "partEn": "interjection",
+      "tone": "blue",
+      "example": {
+        "text": "Tamam, yarın konuşuruz.",
+        "translationFa": "باشه، فردا صحبت می‌کنیم.",
+        "translationEn": "Okay, we will talk tomorrow."
+      }
+    },
+    {
+      "lexemeId": "tr:yalanci",
+      "lemma": "yalancı",
+      "normalizedKey": "yalancı",
+      "translationFa": "دروغ‌گو",
+      "translationEn": "liar",
+      "partFa": "اسم",
+      "partEn": "noun",
+      "tone": "blue",
+      "example": {
+        "text": "Yalancı sonunda gerçeği söyledi.",
+        "translationFa": "دروغ‌گو بالاخره حقیقت را گفت.",
+        "translationEn": "The liar finally told the truth."
+      }
+    },
+    {
+      "lexemeId": "tr:sen",
+      "lemma": "sen",
+      "normalizedKey": "sen",
+      "translationFa": "تو",
+      "translationEn": "you",
+      "partFa": "ضمیر",
+      "partEn": "pronoun",
+      "tone": "blue",
+      "example": {
+        "text": "Sen yarın bizimle gelir misin?",
+        "translationFa": "تو فردا با ما می‌آیی؟",
+        "translationEn": "Will you come with us tomorrow?"
+      }
+    },
+    {
+      "lexemeId": "tr:oylesine",
+      "lemma": "öylesine",
+      "normalizedKey": "öylesine",
+      "translationFa": "آن‌قدر، چنان؛ در بافت",
+      "translationEn": "so much, to such an extent",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Öylesine yoruldu ki hemen uyudu.",
+        "translationFa": "چنان خسته شد که فوراً خوابید.",
+        "translationEn": "She got so tired that she fell asleep immediately."
+      }
+    },
+    {
+      "lexemeId": "tr:ki",
+      "lemma": "ki",
+      "normalizedKey": "ki",
+      "translationFa": "که؛ نشانهٔ تأکید در برخی جمله‌ها",
+      "translationEn": "that; emphasis particle",
+      "partFa": "ذره / حرف",
+      "partEn": "particle",
+      "tone": "blue",
+      "example": {
+        "text": "Biliyorum ki yarın gelecek.",
+        "translationFa": "می‌دانم که فردا خواهد آمد.",
+        "translationEn": "I know that she will come tomorrow."
+      }
+    },
+    {
+      "lexemeId": "tr:baska",
+      "lemma": "başka",
+      "normalizedKey": "başka",
+      "translationFa": "دیگر، متفاوت",
+      "translationEn": "other, another",
+      "partFa": "صفت",
+      "partEn": "adjective",
+      "tone": "blue",
+      "example": {
+        "text": "Başka bir renk seçebiliriz.",
+        "translationFa": "می‌توانیم رنگ دیگری انتخاب کنیم.",
+        "translationEn": "We can choose another color."
+      }
+    },
+    {
+      "lexemeId": "tr:degil",
+      "lemma": "değil",
+      "normalizedKey": "değil",
+      "translationFa": "نیست، نه",
+      "translationEn": "not",
+      "partFa": "ذره / حرف",
+      "partEn": "particle",
+      "tone": "blue",
+      "example": {
+        "text": "Bu çanta benim değil.",
+        "translationFa": "این کیف مال من نیست.",
+        "translationEn": "This bag is not mine."
+      }
+    },
+    {
+      "lexemeId": "tr:unutmak",
+      "lemma": "unutmak",
+      "normalizedKey": "unutmak",
+      "translationFa": "فراموش کردن",
+      "translationEn": "to forget",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Toplantının saatini unuttum.",
+        "translationFa": "ساعت جلسه را فراموش کردم.",
+        "translationEn": "I forgot the time of the meeting."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی unutmak",
+          "titleEn": "Six-person conjugation: unutmak",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: Unutamam",
+              "en": "Lyric form: Unutamam (negative aorist / inability)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "unuturum",
+              "unutamam"
+            ],
+            [
+              "sen (تو)",
+              "unutursun",
+              "unutamazsın"
+            ],
+            [
+              "o (او)",
+              "unutur",
+              "unutamaz"
+            ],
+            [
+              "biz (ما)",
+              "unuturuz",
+              "unutamayız"
+            ],
+            [
+              "siz (شما)",
+              "unutursunuz",
+              "unutamazsınız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "unuturlar",
+              "unutamazlar"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: unutmak",
+          "titleEn": "Lyric form analysis: unutmak",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "Unutamam",
+              {
+                "fa": "حال گستردهٔ ناتوانی.",
+                "en": "negative aorist / inability; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:oyle",
+      "lemma": "öyle",
+      "normalizedKey": "öyle",
+      "translationFa": "آن‌طور، چنان",
+      "translationEn": "so, that way",
+      "partFa": "قید",
+      "partEn": "adverb",
+      "tone": "blue",
+      "example": {
+        "text": "Öyle düşünmüyorum.",
+        "translationFa": "من آن‌طور فکر نمی‌کنم.",
+        "translationEn": "I do not think so."
+      }
+    },
+    {
+      "lexemeId": "tr:gibi",
+      "lemma": "gibi",
+      "normalizedKey": "gibi",
+      "translationFa": "مثل، مانند",
+      "translationEn": "like, as if",
+      "partFa": "حرف اضافهٔ پسین",
+      "partEn": "postposition",
+      "tone": "blue",
+      "example": {
+        "text": "Kardeşi gibi hızlı koşuyor.",
+        "translationFa": "او مثل خواهر یا برادرش سریع می‌دود.",
+        "translationEn": "She runs fast like her sibling."
+      }
+    },
+    {
+      "lexemeId": "tr:oldurmek",
+      "lemma": "öldürmek",
+      "normalizedKey": "öldürmek",
+      "translationFa": "کشتن",
+      "translationEn": "to kill",
+      "partFa": "فعل",
+      "partEn": "verb",
+      "tone": "mint",
+      "example": {
+        "text": "Soğuk bitkileri öldürdü.",
+        "translationFa": "سرما گیاهان را از بین برد.",
+        "translationEn": "The cold killed the plants."
+      },
+      "tables": [
+        {
+          "titleFa": "صرف شش‌شخصی öldürmek",
+          "titleEn": "Six-person conjugation: öldürmek",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "حال گستردهٔ مثبت",
+              "en": "Positive aorist"
+            },
+            {
+              "fa": "صورت متن: öldür",
+              "en": "Lyric form: öldür (imperative)"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "öldürürüm",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "sen (تو)",
+              "öldürürsün",
+              "öldür"
+            ],
+            [
+              "o (او)",
+              "öldürür",
+              "öldürsün"
+            ],
+            [
+              "biz (ما)",
+              "öldürürüz",
+              {
+                "fa": "— (امر اول‌شخص ندارد)",
+                "en": "— (no first-person imperative)"
+              }
+            ],
+            [
+              "siz (شما)",
+              "öldürürsünüz",
+              "öldürün"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "öldürürler",
+              "öldürsünler"
+            ]
+          ],
+          "introFa": "ستون نخست حال گستردهٔ مثبت است؛ ستون‌های دیگر زمان، وجه و مثبت/منفی بودن صورت‌های متن را حفظ می‌کنند.",
+          "introEn": "The first column is the positive aorist; other columns retain the tense, mood and polarity of the lyric forms."
+        },
+        {
+          "titleFa": "تحلیل صورت‌های متن: öldürmek",
+          "titleEn": "Lyric form analysis: öldürmek",
+          "columns": [
+            {
+              "fa": "صورت",
+              "en": "Form"
+            },
+            {
+              "fa": "تحلیل",
+              "en": "Analysis"
+            }
+          ],
+          "rows": [
+            [
+              "öldür",
+              {
+                "fa": "امر مثبت دوم‌شخص مفرد.",
+                "en": "imperative; see the corresponding six-person column."
+              }
+            ]
+          ],
+          "footerFa": "صورت‌های فعل‌قیدی، مصدر و صفت‌فعلی شناسهٔ مستقل ندارند؛ برای آن‌ها شخص را از جمله و بافت بفهمید.",
+          "footerEn": "Converbs, infinitives and participles are nonfinite; infer their subject and time from the surrounding clause."
+        }
+      ]
+    },
+    {
+      "lexemeId": "tr:iki",
+      "lemma": "iki",
+      "normalizedKey": "iki",
+      "translationFa": "دو",
+      "translationEn": "two",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "İki kardeşim var.",
+        "translationFa": "دو خواهر یا برادر دارم.",
+        "translationEn": "I have two siblings."
+      }
+    },
+    {
+      "lexemeId": "tr:uc",
+      "lemma": "üç",
+      "normalizedKey": "üç",
+      "translationFa": "سه",
+      "translationEn": "three",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Masada üç kitap var.",
+        "translationFa": "روی میز سه کتاب هست.",
+        "translationEn": "There are three books on the table."
+      }
+    },
+    {
+      "lexemeId": "tr:dort",
+      "lemma": "dört",
+      "normalizedKey": "dört",
+      "translationFa": "چهار",
+      "translationEn": "four",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Dört gün sonra döneceğiz.",
+        "translationFa": "چهار روز دیگر برمی‌گردیم.",
+        "translationEn": "We will return in four days."
+      }
+    },
+    {
+      "lexemeId": "tr:bes",
+      "lemma": "beş",
+      "normalizedKey": "beş",
+      "translationFa": "پنج",
+      "translationEn": "five",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Beş öğrenci kütüphaneye gitti.",
+        "translationFa": "پنج دانش‌آموز به کتابخانه رفتند.",
+        "translationEn": "Five students went to the library."
+      }
+    },
+    {
+      "lexemeId": "tr:alti",
+      "lemma": "altı",
+      "normalizedKey": "altı",
+      "translationFa": "شش",
+      "translationEn": "six",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Masada altı bardak var.",
+        "translationFa": "روی میز شش لیوان هست.",
+        "translationEn": "There are six glasses on the table."
+      }
+    },
+    {
+      "lexemeId": "tr:yedi",
+      "lemma": "yedi",
+      "normalizedKey": "yedi",
+      "translationFa": "هفت",
+      "translationEn": "seven",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Haftada yedi gün bulunur.",
+        "translationFa": "در هفته هفت روز وجود دارد.",
+        "translationEn": "There are seven days in a week."
+      }
+    },
+    {
+      "lexemeId": "tr:sekiz",
+      "lemma": "sekiz",
+      "normalizedKey": "sekiz",
+      "translationFa": "هشت",
+      "translationEn": "eight",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Tren saat sekizde kalkıyor.",
+        "translationFa": "قطار ساعت هشت حرکت می‌کند.",
+        "translationEn": "The train leaves at eight."
+      }
+    },
+    {
+      "lexemeId": "tr:dokuz",
+      "lemma": "dokuz",
+      "normalizedKey": "dokuz",
+      "translationFa": "نه",
+      "translationEn": "nine",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "Dokuz sayfayı bugün okudum.",
+        "translationFa": "امروز نه صفحه خواندم.",
+        "translationEn": "I read nine pages today."
+      }
+    },
+    {
+      "lexemeId": "tr:on",
+      "lemma": "on",
+      "normalizedKey": "on",
+      "translationFa": "ده",
+      "translationEn": "ten",
+      "partFa": "عدد",
+      "partEn": "number",
+      "tone": "blue",
+      "example": {
+        "text": "On dakika sonra görüşürüz.",
+        "translationFa": "ده دقیقهٔ دیگر همدیگر را می‌بینیم.",
+        "translationEn": "See you in ten minutes."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "genis-zaman",
+      "conceptId": "tr:genis-zaman",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "حال گسترده (حال سادهٔ ترکی)",
+      "titleEn": "Aorist or Turkish simple present",
+      "bodyFa": "حال گسترده برای عادت، حقیقت و گاهی آینده به‌کار می‌رود: gel-ir، sev-er، çık-ar. انتخاب -r/-Ar/-Ir به فعل بستگی دارد؛ صرف شش‌شخص هر فعل در جدول خودش آمده است. آن را با حال استمراری -yor یکی نگیرید.",
+      "bodyEn": "The aorist expresses habits, general facts and sometimes the future. Its -r/-Ar/-Ir shape depends on the verb; each verb has its six-person table. It is distinct from the progressive -yor.",
+      "example": {
+        "text": "Tren her sabah yedide kalkar.",
+        "translationFa": "قطار هر صبح ساعت هفت حرکت می‌کند.",
+        "translationEn": "The train leaves at seven every morning."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "belirli-gecmis",
+      "conceptId": "tr:belirli-gecmis",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "گذشتهٔ قطعی -DI",
+      "titleEn": "Direct past -DI",
+      "bodyFa": "پسوند گذشته با هماهنگی واکه و همخوان -dı/-di/-du/-dü یا -tı/-ti/-tu/-tü است: geldi، çıktı. شخص پس از آن می‌آید؛ در منفی، -ma/-me پیش از پسوند گذشته قرار می‌گیرد.",
+      "bodyEn": "The witnessed/direct past uses -dı/-di/-du/-dü or voiceless -tı/-ti/-tu/-tü, followed by person endings. Negation -ma/-me precedes it.",
+      "example": {
+        "text": "Dün pencereyi kapattım.",
+        "translationFa": "دیروز پنجره را بستم.",
+        "translationEn": "I closed the window yesterday."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "simdiki-zaman",
+      "conceptId": "tr:simdiki-zaman",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "حال استمراری -yor",
+      "titleEn": "Progressive -yor",
+      "bodyFa": "بن + -(I)yor + شناسه، عمل یا وضعیت جاری را می‌رساند: kuruyor، istiyor. واکهٔ پایانی بعضی بن‌ها تغییر می‌کند؛ معنای فارسی گاه حال ساده است.",
+      "bodyEn": "The stem + -(I)yor + person ending marks an ongoing action or state. Some final stem vowels change; Persian may translate it as a simple present.",
+      "example": {
+        "text": "Şimdi kitap okuyorum.",
+        "translationFa": "اکنون دارم کتاب می‌خوانم.",
+        "translationEn": "I am reading a book now."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "gelecek-zaman",
+      "conceptId": "tr:gelecek-zaman",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "آینده و املای معیار",
+      "titleEn": "Future and standard spelling",
+      "bodyFa": "-acak/-ecek آینده را می‌سازد. پیش از شناسهٔ واکه‌دار اول‌شخص، k به ğ تبدیل می‌شود: gelecek → geleceğim/geleceğiz. شکل‌های شکستهٔ متن همان آینده‌اند، نه مصدر جدید.",
+      "bodyEn": "-acak/-ecek marks the future. Before vowel-initial first-person endings, final k becomes ğ: geleceğim, geleceğiz. Contracted lyric spellings represent the same future.",
+      "example": {
+        "text": "Yarın müzeye gideceğiz.",
+        "translationFa": "فردا به موزه خواهیم رفت.",
+        "translationEn": "We will go to the museum tomorrow."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "genis-olumsuz",
+      "conceptId": "tr:genis-olumsuz",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "منفی حال گسترده",
+      "titleEn": "-mAz and negative aorist",
+      "bodyFa": "حال گستردهٔ منفی در سوم‌شخص -maz/-mez دارد؛ اما اول‌شخص مفرد -mam/-mem و جمع -mayız/-meyiz است: bilmez، bilmem، bilmeyiz. این ساخت به‌خودی‌خود معنی «نتوانستن» ندارد.",
+      "bodyEn": "The negative aorist uses -maz/-mez in the third person, but -mam/-mem and -mayız/-meyiz for first-person singular and plural. It does not itself mean inability.",
+      "example": {
+        "text": "Ben kahve içmem.",
+        "translationFa": "من قهوه نمی‌نوشم.",
+        "translationEn": "I do not drink coffee."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "yetersizlik",
+      "conceptId": "tr:yetersizlik",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "ناتوانی در برابر منفی ساده",
+      "titleEn": "Inability versus ordinary negation",
+      "bodyFa": "برای «نتوانستن» بن + -(y)A-ma- می‌آید: gelemem «نمی‌توانم بیایم»؛ gelmem فقط «نمی‌آیم» است. گذشتهٔ ناتوانی gel-e-me-dim (gelemedim) و شکل‌های شش‌شخصی در جدول فعل آمده‌اند.",
+      "bodyEn": "Negative ability uses stem + -(y)A-ma-: gelemem means cannot come, whereas gelmem only means do not come. The past of inability is gelemedim.",
+      "example": {
+        "text": "Bu ağır kutuyu kaldıramam.",
+        "translationFa": "نمی‌توانم این جعبهٔ سنگین را بلند کنم.",
+        "translationEn": "I cannot lift this heavy box."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "emir",
+      "conceptId": "tr:emir",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "امر و اشخاص مجاز",
+      "titleEn": "Imperatives and their valid persons",
+      "bodyFa": "امر برای sen و siz و نیز درخواست برای o/onlar به‌کار می‌رود: gel، gelin، gelsin، gelsinler. امر دستوریِ ben/biz وجود ندارد؛ برای «بیاییم» از التزامی gelelim استفاده می‌شود. نهی با -ma/-me است.",
+      "bodyEn": "Imperatives address sen or siz and can also request action by o/onlar: gel, gelin, gelsin, gelsinler. There is no first-person imperative; gelelim is an optative suggestion. Add -ma/-me for a negative command.",
+      "example": {
+        "text": "Lütfen kapıyı kapatın.",
+        "translationFa": "لطفاً در را ببندید.",
+        "translationEn": "Please close the door."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "sart",
+      "conceptId": "tr:sart",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "شرط -sA و ترکیب زمان‌ها",
+      "titleEn": "Conditional -sA with tenses",
+      "bodyFa": "-sa/-se همراه شناسه شرط می‌سازد و می‌تواند پس از گذشته، گسترده یا استمراری بیاید: geldiysen، gelirsen، geliyorsan. olsaydın نیز شرط خلاف واقع در گذشته است. شکل‌های متفاوت را به یک زمان فرو نکاهید.",
+      "bodyEn": "-sa/-se and person endings express a condition and can follow past, aorist or progressive forms; olsaydın is a past counterfactual. The underlying tense must be preserved.",
+      "example": {
+        "text": "Vaktin olursa bana yaz.",
+        "translationFa": "اگر وقت داشتی به من بنویس.",
+        "translationEn": "Write to me if you have time."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "iyelik",
+      "conceptId": "tr:iyelik",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "مالکیت و تغییر بن",
+      "titleEn": "Possession and stem changes",
+      "bodyFa": "مالکیت با پسوند می‌آید: ad-ın «نامت»، kalb-im «قلبم»، dert-im «دردم». سپس مفعول یا حالت می‌آید: ad-ın-ı، dert-im-i. برخی بن‌ها با واکه نرم یا کوتاه می‌شوند: kalp→kalb، akıl→akl، ömür→ömr.",
+      "bodyEn": "Possession is suffixal: ad-ın, kalb-im, dert-im; a case suffix can follow, as in ad-ın-ı. Some stems soften or drop a vowel, e.g. kalp→kalb and akıl→akl.",
+      "example": {
+        "text": "Arkadaşımın adını biliyorum.",
+        "translationFa": "نام دوستم را می‌دانم.",
+        "translationEn": "I know my friend's name."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "haller",
+      "conceptId": "tr:haller",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "حالت‌های اسم و ضمیر",
+      "titleEn": "Noun and pronoun cases",
+      "bodyFa": "مفعول معین -I، جهت -A، مکان -DA و مبدأ -DAn می‌گیرد: kapıyı، kapıya، kapıda، kapıdan. شکل واکه و d/t با واژه هماهنگ است؛ جهت ben/sen استثنائاً bana/sana می‌شود.",
+      "bodyEn": "A definite object takes -I, direction -A, location -DA and source -DAn. Vowel and d/t harmony apply; ben and sen have the irregular dative forms bana and sana.",
+      "example": {
+        "text": "Kitabı masadan çantaya koydum.",
+        "translationFa": "کتاب را از روی میز در کیف گذاشتم.",
+        "translationEn": "I put the book from the table into the bag."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "soru-ve-de",
+      "conceptId": "tr:soru-ve-de",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "پرسش mi و «هم» جدا",
+      "titleEn": "Question particle mi and separate de",
+      "bodyFa": "mi/mı/mu/mü با هماهنگی واکه جدا نوشته می‌شود؛ شناسهٔ آن به خود ذره می‌چسبد: hazır mısın؟ حرف ربط de/da «هم» هم جداست، اما پسوند مکان -de/-da چسبیده است: evde.",
+      "bodyEn": "The harmonic question particle mi/mı/mu/mü is written separately, with any person ending attached to it: hazır mısın? Additive de/da is separate, but locative -de/-da attaches to the noun.",
+      "example": {
+        "text": "Sen de burada mısın?",
+        "translationFa": "آیا تو هم اینجا هستی؟",
+        "translationEn": "Are you here too?"
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "belirsiz-olumsuz",
+      "conceptId": "tr:belirsiz-olumsuz",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "kimse و هیچ‌کس در جملهٔ منفی",
+      "titleEn": "Indefinite pronouns with negation",
+      "bodyFa": "kimse در پرسش یا بافت مثبت می‌تواند «کسی» باشد؛ همراه فعل منفی یا yok معمولاً «هیچ‌کس» معنی می‌دهد. هیچِ تأکیدی hiç و هیچ‌یکِ hiçbir نیز در جملهٔ منفی کاربرد دارند.",
+      "bodyEn": "Kimse can mean anyone in a question or positive context, but with a negative verb or yok it normally means nobody. Hiç and hiçbir reinforce negation.",
+      "example": {
+        "text": "Kimse bu soruyu çözmedi.",
+        "translationFa": "هیچ‌کس این سؤال را حل نکرد.",
+        "translationEn": "Nobody solved this question."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "sayilar",
+      "conceptId": "tr:sayilar",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "اعداد، مقدار و تکرار",
+      "titleEn": "Numbers, quantity and repetition",
+      "bodyFa": "bir/bi گاهی عدد یک و گاهی صرفاً «یک/ـی» نکره است. جدول از bir تا on را آموزش می‌دهد؛ birer توزیع «یکی‌یکی/هر کدام یک» است و kırk یا bin در بافت شعر گاه اغراق‌اند.",
+      "bodyEn": "Bir/bi can mean the number one or an indefinite article. The table teaches bir through on; birer is distributive, and kırk or bin may be figurative exaggeration in lyrics.",
+      "example": {
+        "text": "Çocuklara birer kalem verdim.",
+        "translationFa": "به هر کودک یک مداد دادم.",
+        "translationEn": "I gave each child one pencil."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "yapim-ekleri",
+      "conceptId": "tr:yapim-ekleri",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "پسوندهای -lI و -lIk و شناسهٔ اسمی",
+      "titleEn": "Derivational suffixes and nominal person",
+      "bodyFa": "hata-lı-sın یعنی «خطاکاری»: -lı «دارای/مرتبط با» و -sın شناسهٔ توست. tek taraf-lı یعنی یک‌طرفه؛ sen-lik در بافت «مربوط به تو» است. در yalancı-y-ım، -y- میانجی و -ım شناسهٔ من است.",
+      "bodyEn": "Hata-lı-sın means “you are at fault”: -lı forms a related adjective and -sın marks you. Tek taraf-lı is one-sided; sen-lik means concerning you here. Yalancı-y-ım uses buffer y and first-person -ım.",
+      "example": {
+        "text": "Bu iş senlik değil.",
+        "translationFa": "این کار مناسب تو نیست.",
+        "translationEn": "This job is not for you."
+      },
+      "tone": "blue",
+      "tables": [
+        {
+          "titleFa": "شناسهٔ گزارهٔ اسمی",
+          "titleEn": "Person endings on nominal predicates",
+          "columns": [
+            {
+              "fa": "شخص",
+              "en": "Person"
+            },
+            {
+              "fa": "hatalı",
+              "en": "at fault"
+            },
+            {
+              "fa": "yalancı",
+              "en": "liar"
+            }
+          ],
+          "rows": [
+            [
+              "ben (من)",
+              "hatalıyım",
+              "yalancıyım"
+            ],
+            [
+              "sen (تو)",
+              "hatalısın",
+              "yalancısın"
+            ],
+            [
+              "o (او)",
+              "hatalı",
+              "yalancı"
+            ],
+            [
+              "biz (ما)",
+              "hatalıyız",
+              "yalancıyız"
+            ],
+            [
+              "siz (شما)",
+              "hatalısınız",
+              "yalancısınız"
+            ],
+            [
+              "onlar (آن‌ها)",
+              "hatalılar",
+              "yalancılar"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hem-ve-ki",
+      "conceptId": "tr:hem-ve-ki",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "هم ... هم و چنان ... که",
+      "titleEn": "Both ... and; so ... that",
+      "bodyFa": "hem ... hem دو بخش هم‌پایه را پیوند می‌دهد. öylesine ... ki شدت و نتیجه را می‌رساند؛ ki در این کاربرد جدا نوشته می‌شود.",
+      "bodyEn": "Hem ... hem links two parallel elements. Öylesine ... ki expresses degree and result; this ki is written separately.",
+      "example": {
+        "text": "Öylesine yoruldu ki hemen uyudu.",
+        "translationFa": "چنان خسته شد که فوراً خوابید.",
+        "translationEn": "She became so tired that she fell asleep immediately."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "mastar-istek",
+      "conceptId": "tr:mastar-istek",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "مصدر در کنار خواستن",
+      "titleEn": "Infinitive with want",
+      "bodyFa": "gitmek مصدر «رفتن» است، نه فعل صرف‌شده؛ در gitmek istiyorsun فعل شخص‌دار istemek است. gülüş-ün از اسمِ مشتق gülüş و مالکیت تو ساخته شده، نه فعل صرف‌شده. برای خود gitmek جدول حال گستردهٔ شش‌شخصی آمده است.",
+      "bodyEn": "Gitmek is the infinitive “to go”, not a finite verb; istemek is the person-marked predicate in gitmek istiyorsun. Gülüş-ün is the derived noun gülüş plus a possessive ending, not a finite verb. The base verb gitmek has a separate six-person aorist table.",
+      "example": {
+        "text": "Yarın yüzmek istiyorum.",
+        "translationFa": "فردا می‌خواهم شنا کنم.",
+        "translationEn": "I want to swim tomorrow."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "agizdan-yaziya",
+      "conceptId": "tr:agizdan-yaziya",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "نوشتار محاوره‌ای و مرجع آن",
+      "titleEn": "Colloquial spellings in the text",
+      "bodyFa": "در متن ارسالی bi همان bir است؛ farkeder در معیار fark eder و oda در این بافت o da «آن هم» نوشته می‌شود، نه اسم oda «اتاق». Bi kerede می‌تواند «یک‌بار هم» یا «در یک نوبت» باشد؛ بدون شنیدن و بافت بیشتر، قطعیت ندارد.",
+      "bodyEn": "In the supplied text bi represents bir; standard writing separates fark eder and contextual o da, which here is not the noun oda “room”. Bi kerede can mean “once too” or “in one go”; the phrase is contextually ambiguous.",
+      "example": {
+        "text": "O da bizi fark etti.",
+        "translationFa": "او هم متوجه ما شد.",
+        "translationEn": "They noticed us too."
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "neden-ve-kimin",
+      "conceptId": "tr:neden-ve-kimin",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "پرسش از صاحب و دلیل",
+      "titleEn": "Whose and for whom",
+      "bodyFa": "kimin برای مالک یا صاحب است؛ kimin için «برای چه کسی» می‌پرسد. kime جهتِ عمل است، در حالی که ne و niye دربارهٔ چیز و علت می‌پرسند.",
+      "bodyEn": "Kimin asks whose; kimin için means for whom. Kime marks a recipient, whereas ne and niye ask about a thing and a reason.",
+      "example": {
+        "text": "Bu hediyeyi kimin için aldın?",
+        "translationFa": "این هدیه را برای چه کسی خریدی؟",
+        "translationEn": "For whom did you buy this gift?"
+      },
+      "tone": "blue"
+    },
+    {
+      "id": "dilek-istek",
+      "conceptId": "tr:dilek-istek",
+      "tagFa": "دستور زبان",
+      "tagEn": "Grammar",
+      "titleFa": "پیشنهاد با -AlIm",
+      "titleEn": "First-person optative suggestion",
+      "bodyFa": "konuşalım یعنی «بیایید حرف بزنیم» و با -AlIm پیشنهاد اول‌شخص جمع است. صورت‌های اول‌شخص التزامی‌اند، نه امر؛ صورت‌های دوم و سوم در این الگو در زبان امروز کم‌کاربردند و معمولاً امر به‌کار می‌رود.",
+      "bodyEn": "Konuşalım “let us speak” is a first-person plural optative suggestion, not a first-person imperative. Other optative persons are rare in contemporary use and imperatives are normally preferred.",
+      "example": {
+        "text": "Toplantıdan sonra konuşalım.",
+        "translationFa": "بعد از جلسه حرف بزنیم.",
+        "translationEn": "Let us talk after the meeting."
+      },
+      "tone": "blue"
+    }
+  ],
+  "idioms": [
+    {
+      "id": "idiom-1",
+      "text": "adını meze etmek",
+      "translationFa": "نام کسی را نقل محفل کردن",
+      "translationEn": "to make someone's name table gossip",
+      "contextFa": "نمونهٔ مستقل: Kimsenin adını meze etmeyelim. — نام هیچ‌کس را نقل محفل نکنیم.",
+      "contextEn": "Independent example: Kimsenin adını meze etmeyelim. — Let us not make anyone's name table gossip.",
+      "lineId": "line-3",
+      "tone": "apricot"
+    },
+    {
+      "id": "idiom-2",
+      "text": "elden gelmek",
+      "translationFa": "از دست کسی برآمدن",
+      "translationEn": "to be within one's power",
+      "contextFa": "نمونهٔ مستقل: Elimden geleni yaptım. — هر کاری از دستم برمی‌آمد انجام دادم.",
+      "contextEn": "Independent example: Elimden geleni yaptım. — I did everything I could.",
+      "lineId": "line-10",
+      "tone": "apricot"
+    },
+    {
+      "id": "idiom-3",
+      "text": "yürekten sevmek",
+      "translationFa": "از ته دل دوست داشتن",
+      "translationEn": "to love wholeheartedly",
+      "contextFa": "نمونهٔ مستقل: Çocuklarını yürekten sever. — فرزندانش را از ته دل دوست دارد.",
+      "contextEn": "Independent example: Çocuklarını yürekten sever. — She loves her children wholeheartedly.",
+      "lineId": "line-5",
+      "tone": "apricot"
+    },
+    {
+      "id": "idiom-4",
+      "text": "tek taraflı",
+      "translationFa": "یک‌طرفه، بدون همراهی طرف مقابل",
+      "translationEn": "one-sided",
+      "contextFa": "نمونهٔ مستقل: Bu anlaşma tek taraflı olamaz. — این توافق نمی‌تواند یک‌طرفه باشد.",
+      "contextEn": "Independent example: Bu anlaşma tek taraflı olamaz. — This agreement cannot be one-sided.",
+      "lineId": "line-31",
+      "tone": "apricot"
+    },
+    {
+      "id": "idiom-5",
+      "text": "kalbi yerinden çıkacak gibi olmak",
+      "translationFa": "از شدت هیجان دل در سینه نماندن",
+      "translationEn": "to feel one's heart will leap out",
+      "contextFa": "نمونهٔ مستقل: Heyecandan kalbi yerinden çıkacak gibiydi. — از هیجان انگار قلبش از سینه بیرون می‌زد.",
+      "contextEn": "Independent example: Heyecandan kalbi yerinden çıkacak gibiydi. — Her heart felt as if it would leap out from excitement.",
+      "lineId": "line-4",
+      "tone": "apricot"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "practice-1",
+      "text": "Kimsenin adını meze etmeyelim.",
+      "translationFa": "نام هیچ‌کس را نقل محفل نکنیم.",
+      "translationEn": "Let us not make anyone's name table gossip.",
+      "contextFa": "نمونهٔ تازه برای تمرین عبارت مرتبط با این سطر؛ بخشی از لیریک نیست.",
+      "contextEn": "A new practice sentence for the expression associated with this line, not a lyric.",
+      "lineId": "line-3",
+      "tone": "mint"
+    },
+    {
+      "id": "practice-2",
+      "text": "Elimden geleni yaptım.",
+      "translationFa": "هر کاری از دستم برمی‌آمد انجام دادم.",
+      "translationEn": "I did everything I could.",
+      "contextFa": "نمونهٔ تازه برای تمرین عبارت مرتبط با این سطر؛ بخشی از لیریک نیست.",
+      "contextEn": "A new practice sentence for the expression associated with this line, not a lyric.",
+      "lineId": "line-10",
+      "tone": "mint"
+    },
+    {
+      "id": "practice-3",
+      "text": "Çocuklarını yürekten sever.",
+      "translationFa": "فرزندانش را از ته دل دوست دارد.",
+      "translationEn": "She loves her children wholeheartedly.",
+      "contextFa": "نمونهٔ تازه برای تمرین عبارت مرتبط با این سطر؛ بخشی از لیریک نیست.",
+      "contextEn": "A new practice sentence for the expression associated with this line, not a lyric.",
+      "lineId": "line-5",
+      "tone": "mint"
+    },
+    {
+      "id": "practice-4",
+      "text": "Bu anlaşma tek taraflı olamaz.",
+      "translationFa": "این توافق نمی‌تواند یک‌طرفه باشد.",
+      "translationEn": "This agreement cannot be one-sided.",
+      "contextFa": "نمونهٔ تازه برای تمرین عبارت مرتبط با این سطر؛ بخشی از لیریک نیست.",
+      "contextEn": "A new practice sentence for the expression associated with this line, not a lyric.",
+      "lineId": "line-31",
+      "tone": "mint"
+    },
+    {
+      "id": "practice-5",
+      "text": "Heyecandan kalbi yerinden çıkacak gibiydi.",
+      "translationFa": "از هیجان انگار قلبش از سینه بیرون می‌زد.",
+      "translationEn": "Her heart felt as if it would leap out from excitement.",
+      "contextFa": "نمونهٔ تازه برای تمرین عبارت مرتبط با این سطر؛ بخشی از لیریک نیست.",
+      "contextEn": "A new practice sentence for the expression associated with this line, not a lyric.",
+      "lineId": "line-4",
+      "tone": "mint"
+    }
+  ],
+  "vocabularyTables": [
+    {
+      "titleFa": "اعداد یک تا ده و عددهای متن",
+      "titleEn": "Numbers one to ten and lyric numbers",
+      "columns": [
+        {
+          "fa": "عدد",
+          "en": "Number"
+        },
+        {
+          "fa": "ترکی",
+          "en": "Turkish"
+        },
+        {
+          "fa": "فارسی",
+          "en": "Persian"
+        },
+        {
+          "fa": "انگلیسی",
+          "en": "English"
+        }
+      ],
+      "rows": [
+        [
+          "1",
+          "bir",
+          "یک",
+          "one"
+        ],
+        [
+          "2",
+          "iki",
+          "دو",
+          "two"
+        ],
+        [
+          "3",
+          "üç",
+          "سه",
+          "three"
+        ],
+        [
+          "4",
+          "dört",
+          "چهار",
+          "four"
+        ],
+        [
+          "5",
+          "beş",
+          "پنج",
+          "five"
+        ],
+        [
+          "6",
+          "altı",
+          "شش",
+          "six"
+        ],
+        [
+          "7",
+          "yedi",
+          "هفت",
+          "seven"
+        ],
+        [
+          "8",
+          "sekiz",
+          "هشت",
+          "eight"
+        ],
+        [
+          "9",
+          "dokuz",
+          "نه",
+          "nine"
+        ],
+        [
+          "10",
+          "on",
+          "ده",
+          "ten"
+        ],
+        [
+          "1000",
+          "bin",
+          "هزار",
+          "a thousand"
+        ]
+      ],
+      "introFa": "bir گاهی عدد و گاهی نشانهٔ نکره است؛ bi صورت محاوره‌ای آن است.",
+      "introEn": "Bir can be the number one or an indefinite article; bi is colloquial."
+    },
+    {
+      "titleFa": "اعضای بدن؛ ده واژهٔ مرتبط با قلب",
+      "titleEn": "Body parts: ten words related to heart",
+      "columns": [
+        {
+          "fa": "ترکی",
+          "en": "Turkish"
+        },
+        {
+          "fa": "معنی فارسی",
+          "en": "Persian"
+        },
+        {
+          "fa": "معنی انگلیسی",
+          "en": "English"
+        }
+      ],
+      "rows": [
+        [
+          "kalp",
+          "قلب",
+          "heart"
+        ],
+        [
+          "baş",
+          "سر",
+          "head"
+        ],
+        [
+          "göz",
+          "چشم",
+          "eye"
+        ],
+        [
+          "kulak",
+          "گوش",
+          "ear"
+        ],
+        [
+          "burun",
+          "بینی",
+          "nose"
+        ],
+        [
+          "ağız",
+          "دهان",
+          "mouth"
+        ],
+        [
+          "el",
+          "دست",
+          "hand"
+        ],
+        [
+          "kol",
+          "بازو",
+          "arm"
+        ],
+        [
+          "ayak",
+          "پا",
+          "foot"
+        ],
+        [
+          "sırt",
+          "پشت",
+          "back"
+        ],
+        [
+          "karın",
+          "شکم",
+          "belly"
+        ]
+      ],
+      "introFa": "واژه‌های مرتبط برای یادگیری فراتر از متن؛ همه لزوماً در آهنگ نیستند.",
+      "introEn": "Related vocabulary beyond the lyric; not all of these words occur in the song."
+    },
+    {
+      "titleFa": "احساسات و حالات مرتبط",
+      "titleEn": "Related feelings and states",
+      "columns": [
+        {
+          "fa": "ترکی",
+          "en": "Turkish"
+        },
+        {
+          "fa": "معنی فارسی",
+          "en": "Persian"
+        },
+        {
+          "fa": "معنی انگلیسی",
+          "en": "English"
+        }
+      ],
+      "rows": [
+        [
+          "sevgi",
+          "محبت",
+          "affection"
+        ],
+        [
+          "aşk",
+          "عشق",
+          "love"
+        ],
+        [
+          "sevinç",
+          "شادی",
+          "joy"
+        ],
+        [
+          "üzüntü",
+          "اندوه",
+          "sadness"
+        ],
+        [
+          "korku",
+          "ترس",
+          "fear"
+        ],
+        [
+          "öfke",
+          "خشم",
+          "anger"
+        ],
+        [
+          "nefret",
+          "نفرت",
+          "hatred"
+        ],
+        [
+          "umut",
+          "امید",
+          "hope"
+        ],
+        [
+          "pişmanlık",
+          "پشیمانی",
+          "regret"
+        ],
+        [
+          "özlem",
+          "دلتنگی",
+          "longing"
+        ],
+        [
+          "huzur",
+          "آرامش",
+          "peace"
+        ]
+      ],
+      "introFa": "واژه‌های مرتبط برای یادگیری فراتر از متن؛ همه لزوماً در آهنگ نیستند.",
+      "introEn": "Related vocabulary beyond the lyric; not all of these words occur in the song."
+    }
+  ],
+  "questions": [
+    {
+      "id": "meaning-1",
+      "type": "choice",
+      "skillFa": "واژگان در بافت تازه",
+      "skillEn": "Vocabulary in a new context",
+      "promptFa": "در جملهٔ «Arkadaşım derdini bana anlattı.»، dert چه معنایی دارد؟",
+      "promptEn": "In “Arkadaşım derdini bana anlattı.”, what does dert mean?",
+      "explanationFa": "dert: درد، گرفتاری. ترجمهٔ جمله: دوستم گرفتاری‌اش را برایم تعریف کرد.",
+      "explanationEn": "dert: trouble, sorrow. Sentence: My friend told me about her trouble.",
+      "options": [
+        {
+          "id": "option-1",
+          "fa": "زخم",
+          "en": "wound"
+        },
+        {
+          "id": "option-2",
+          "fa": "سیل",
+          "en": "flood"
+        },
+        {
+          "id": "option-3",
+          "fa": "جمله",
+          "en": "sentence"
+        },
+        {
+          "id": "option-4",
+          "fa": "درد، گرفتاری",
+          "en": "trouble, sorrow"
+        }
+      ],
+      "correctId": "option-4",
+      "relatedLexemeIds": [
+        "tr:dert"
+      ],
+      "lineId": "line-1"
+    },
+    {
+      "id": "meaning-2",
+      "type": "choice",
+      "skillFa": "واژگان در بافت تازه",
+      "skillEn": "Vocabulary in a new context",
+      "promptFa": "در جملهٔ «Doktor yarayı temizledi.»، yara چه معنایی دارد؟",
+      "promptEn": "In “Doktor yarayı temizledi.”, what does yara mean?",
+      "explanationFa": "yara: زخم. ترجمهٔ جمله: پزشک زخم را تمیز کرد.",
+      "explanationEn": "yara: wound. Sentence: The doctor cleaned the wound.",
+      "options": [
+        {
+          "id": "option-1",
+          "fa": "سیل",
+          "en": "flood"
+        },
+        {
+          "id": "option-2",
+          "fa": "جمله",
+          "en": "sentence"
+        },
+        {
+          "id": "option-3",
+          "fa": "درد، گرفتاری",
+          "en": "trouble, sorrow"
+        },
+        {
+          "id": "option-4",
+          "fa": "زخم",
+          "en": "wound"
+        }
+      ],
+      "correctId": "option-4",
+      "relatedLexemeIds": [
+        "tr:yara"
+      ],
+      "lineId": "line-13"
+    },
+    {
+      "id": "meaning-3",
+      "type": "choice",
+      "skillFa": "واژگان در بافت تازه",
+      "skillEn": "Vocabulary in a new context",
+      "promptFa": "در جملهٔ «Sel köprünün yolunu kapattı.»، sel چه معنایی دارد؟",
+      "promptEn": "In “Sel köprünün yolunu kapattı.”, what does sel mean?",
+      "explanationFa": "sel: سیل. ترجمهٔ جمله: سیل راه پل را بست.",
+      "explanationEn": "sel: flood. Sentence: The flood blocked the road to the bridge.",
+      "options": [
+        {
+          "id": "option-1",
+          "fa": "جمله",
+          "en": "sentence"
+        },
+        {
+          "id": "option-2",
+          "fa": "درد، گرفتاری",
+          "en": "trouble, sorrow"
+        },
+        {
+          "id": "option-3",
+          "fa": "زخم",
+          "en": "wound"
+        },
+        {
+          "id": "option-4",
+          "fa": "سیل",
+          "en": "flood"
+        }
+      ],
+      "correctId": "option-4",
+      "relatedLexemeIds": [
+        "tr:sel"
+      ],
+      "lineId": "line-14"
+    },
+    {
+      "id": "meaning-4",
+      "type": "choice",
+      "skillFa": "واژگان در بافت تازه",
+      "skillEn": "Vocabulary in a new context",
+      "promptFa": "در جملهٔ «Bu cümlede üç kelime var.»، cümle چه معنایی دارد؟",
+      "promptEn": "In “Bu cümlede üç kelime var.”, what does cümle mean?",
+      "explanationFa": "cümle: جمله. ترجمهٔ جمله: در این جمله سه واژه هست.",
+      "explanationEn": "cümle: sentence. Sentence: There are three words in this sentence.",
+      "options": [
+        {
+          "id": "option-1",
+          "fa": "درد، گرفتاری",
+          "en": "trouble, sorrow"
+        },
+        {
+          "id": "option-2",
+          "fa": "زخم",
+          "en": "wound"
+        },
+        {
+          "id": "option-3",
+          "fa": "سیل",
+          "en": "flood"
+        },
+        {
+          "id": "option-4",
+          "fa": "جمله",
+          "en": "sentence"
+        }
+      ],
+      "correctId": "option-4",
+      "relatedLexemeIds": [
+        "tr:cumle"
+      ],
+      "lineId": "line-18"
+    },
+    {
+      "id": "match-1",
+      "type": "match",
+      "skillFa": "واژه و معنی",
+      "skillEn": "Word and meaning",
+      "promptFa": "هر واژه را به معنی درست وصل کنید.",
+      "promptEn": "Match each word to its meaning.",
+      "explanationFa": "معنی هر واژه را همراه نمونهٔ مستقل آن در واژگان مرور کنید.",
+      "explanationEn": "Review each word and its independent example in the vocabulary.",
+      "pairs": [
+        {
+          "id": "pair-1",
+          "text": "dert",
+          "fa": "درد، گرفتاری",
+          "en": "trouble, sorrow",
+          "lexemeId": "tr:dert"
+        },
+        {
+          "id": "pair-2",
+          "text": "yara",
+          "fa": "زخم",
+          "en": "wound",
+          "lexemeId": "tr:yara"
+        },
+        {
+          "id": "pair-3",
+          "text": "sel",
+          "fa": "سیل",
+          "en": "flood",
+          "lexemeId": "tr:sel"
+        },
+        {
+          "id": "pair-4",
+          "text": "cümle",
+          "fa": "جمله",
+          "en": "sentence",
+          "lexemeId": "tr:cumle"
+        }
+      ],
+      "meaningOrder": [
+        "pair-3",
+        "pair-1",
+        "pair-4",
+        "pair-2"
+      ],
+      "relatedLexemeIds": [
+        "tr:dert",
+        "tr:yara",
+        "tr:sel",
+        "tr:cumle"
+      ]
+    },
+    {
+      "id": "match-2",
+      "type": "match",
+      "skillFa": "واژه و معنی",
+      "skillEn": "Word and meaning",
+      "promptFa": "هر واژه را به معنی درست وصل کنید.",
+      "promptEn": "Match each word to its meaning.",
+      "explanationFa": "معنی هر واژه را همراه نمونهٔ مستقل آن در واژگان مرور کنید.",
+      "explanationEn": "Review each word and its independent example in the vocabulary.",
+      "pairs": [
+        {
+          "id": "pair-1",
+          "text": "anlamak",
+          "fa": "فهمیدن",
+          "en": "to understand",
+          "lexemeId": "tr:anlamak"
+        },
+        {
+          "id": "pair-2",
+          "text": "sevmek",
+          "fa": "دوست داشتن",
+          "en": "to love, like",
+          "lexemeId": "tr:sevmek"
+        },
+        {
+          "id": "pair-3",
+          "text": "gelmek",
+          "fa": "آمدن",
+          "en": "to come",
+          "lexemeId": "tr:gelmek"
+        },
+        {
+          "id": "pair-4",
+          "text": "unutmak",
+          "fa": "فراموش کردن",
+          "en": "to forget",
+          "lexemeId": "tr:unutmak"
+        }
+      ],
+      "meaningOrder": [
+        "pair-3",
+        "pair-1",
+        "pair-4",
+        "pair-2"
+      ],
+      "relatedLexemeIds": [
+        "tr:anlamak",
+        "tr:sevmek",
+        "tr:gelmek",
+        "tr:unutmak"
+      ]
+    },
+    {
+      "id": "match-3",
+      "type": "match",
+      "skillFa": "واژه و معنی",
+      "skillEn": "Word and meaning",
+      "promptFa": "هر واژه را به معنی درست وصل کنید.",
+      "promptEn": "Match each word to its meaning.",
+      "explanationFa": "معنی هر واژه را همراه نمونهٔ مستقل آن در واژگان مرور کنید.",
+      "explanationEn": "Review each word and its independent example in the vocabulary.",
+      "pairs": [
+        {
+          "id": "pair-1",
+          "text": "iki",
+          "fa": "دو",
+          "en": "two",
+          "lexemeId": "tr:iki"
+        },
+        {
+          "id": "pair-2",
+          "text": "üç",
+          "fa": "سه",
+          "en": "three",
+          "lexemeId": "tr:uc"
+        },
+        {
+          "id": "pair-3",
+          "text": "dört",
+          "fa": "چهار",
+          "en": "four",
+          "lexemeId": "tr:dort"
+        },
+        {
+          "id": "pair-4",
+          "text": "beş",
+          "fa": "پنج",
+          "en": "five",
+          "lexemeId": "tr:bes"
+        }
+      ],
+      "meaningOrder": [
+        "pair-3",
+        "pair-1",
+        "pair-4",
+        "pair-2"
+      ],
+      "relatedLexemeIds": [
+        "tr:iki",
+        "tr:uc",
+        "tr:dort",
+        "tr:bes"
+      ]
+    },
+    {
+      "id": "match-4",
+      "type": "match",
+      "skillFa": "واژه و معنی",
+      "skillEn": "Word and meaning",
+      "promptFa": "هر واژه را به معنی درست وصل کنید.",
+      "promptEn": "Match each word to its meaning.",
+      "explanationFa": "معنی هر واژه را همراه نمونهٔ مستقل آن در واژگان مرور کنید.",
+      "explanationEn": "Review each word and its independent example in the vocabulary.",
+      "pairs": [
+        {
+          "id": "pair-1",
+          "text": "masa",
+          "fa": "میز",
+          "en": "table",
+          "lexemeId": "tr:masa"
+        },
+        {
+          "id": "pair-2",
+          "text": "kalp",
+          "fa": "قلب",
+          "en": "heart",
+          "lexemeId": "tr:kalp"
+        },
+        {
+          "id": "pair-3",
+          "text": "savaş",
+          "fa": "جنگ",
+          "en": "war",
+          "lexemeId": "tr:savas"
+        },
+        {
+          "id": "pair-4",
+          "text": "gece",
+          "fa": "شب",
+          "en": "night",
+          "lexemeId": "tr:gece"
+        }
+      ],
+      "meaningOrder": [
+        "pair-3",
+        "pair-1",
+        "pair-4",
+        "pair-2"
+      ],
+      "relatedLexemeIds": [
+        "tr:masa",
+        "tr:kalp",
+        "tr:savas",
+        "tr:gece"
+      ]
+    },
+    {
+      "id": "order-1",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Sentence order",
+      "promptFa": "جملهٔ تازه را مرتب کنید: معلم سؤال را فهمید.",
+      "promptEn": "Arrange the new sentence: The teacher understood the question.",
+      "explanationFa": "ترتیب درست: Öğretmen soruyu anladı.",
+      "explanationEn": "Correct order: Öğretmen soruyu anladı.",
+      "chunks": [
+        {
+          "id": "chunk-1",
+          "text": "Öğretmen"
+        },
+        {
+          "id": "chunk-2",
+          "text": "soruyu"
+        },
+        {
+          "id": "chunk-3",
+          "text": "anladı."
+        }
+      ],
+      "presentationOrder": [
+        "chunk-3",
+        "chunk-2",
+        "chunk-1"
+      ]
+    },
+    {
+      "id": "order-2",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Sentence order",
+      "promptFa": "جملهٔ تازه را مرتب کنید: این زخم به‌زودی خوب می‌شود.",
+      "promptEn": "Arrange the new sentence: This wound will heal soon.",
+      "explanationFa": "ترتیب درست: Bu yara yakında iyileşir.",
+      "explanationEn": "Correct order: Bu yara yakında iyileşir.",
+      "chunks": [
+        {
+          "id": "chunk-1",
+          "text": "Bu"
+        },
+        {
+          "id": "chunk-2",
+          "text": "yara"
+        },
+        {
+          "id": "chunk-3",
+          "text": "yakında"
+        },
+        {
+          "id": "chunk-4",
+          "text": "iyileşir."
+        }
+      ],
+      "presentationOrder": [
+        "chunk-4",
+        "chunk-3",
+        "chunk-2",
+        "chunk-1"
+      ]
+    },
+    {
+      "id": "order-3",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Sentence order",
+      "promptFa": "جملهٔ تازه را مرتب کنید: دوستم فردا به اینجا می‌آید.",
+      "promptEn": "Arrange the new sentence: My friend will come here tomorrow.",
+      "explanationFa": "ترتیب درست: Arkadaşım yarın buraya gelir.",
+      "explanationEn": "Correct order: Arkadaşım yarın buraya gelir.",
+      "chunks": [
+        {
+          "id": "chunk-1",
+          "text": "Arkadaşım"
+        },
+        {
+          "id": "chunk-2",
+          "text": "yarın"
+        },
+        {
+          "id": "chunk-3",
+          "text": "buraya"
+        },
+        {
+          "id": "chunk-4",
+          "text": "gelir."
+        }
+      ],
+      "presentationOrder": [
+        "chunk-4",
+        "chunk-3",
+        "chunk-2",
+        "chunk-1"
+      ]
+    },
+    {
+      "id": "order-4",
+      "type": "order",
+      "skillFa": "ترتیب جمله",
+      "skillEn": "Sentence order",
+      "promptFa": "جملهٔ تازه را مرتب کنید: من این فیلم را فراموش نمی‌کنم.",
+      "promptEn": "Arrange the new sentence: I do not forget this film.",
+      "explanationFa": "ترتیب درست: Ben bu filmi unutmam.",
+      "explanationEn": "Correct order: Ben bu filmi unutmam.",
+      "chunks": [
+        {
+          "id": "chunk-1",
+          "text": "Ben"
+        },
+        {
+          "id": "chunk-2",
+          "text": "bu"
+        },
+        {
+          "id": "chunk-3",
+          "text": "filmi"
+        },
+        {
+          "id": "chunk-4",
+          "text": "unutmam."
+        }
+      ],
+      "presentationOrder": [
+        "chunk-4",
+        "chunk-3",
+        "chunk-2",
+        "chunk-1"
+      ]
+    },
+    {
+      "id": "typing-1",
+      "type": "typing",
+      "skillFa": "صرف و املا",
+      "skillEn": "Conjugation and spelling",
+      "promptFa": "گذشتهٔ منفیِ «فهمیدن» را برای سوم‌شخص بنویسید.",
+      "promptEn": "Write the third-person negative past of understand.",
+      "context": "Öğrenci soruyu ___.",
+      "accepted": [
+        "anlamadı"
+      ],
+      "explanationFa": "anla-ma-dı گذشتهٔ قطعی منفی است.",
+      "explanationEn": "Anla-ma-dı is the negative direct past."
+    },
+    {
+      "id": "typing-2",
+      "type": "typing",
+      "skillFa": "صرف و املا",
+      "skillEn": "Conjugation and spelling",
+      "promptFa": "حال گستردهٔ مثبت «آمدن» برای ما چیست؟",
+      "promptEn": "What is the first-person plural aorist of come?",
+      "context": "Biz her sabah erken ___.",
+      "accepted": [
+        "geliriz"
+      ],
+      "explanationFa": "gelir + iz برای biz است.",
+      "explanationEn": "Gelir + iz is the first-person plural."
+    },
+    {
+      "id": "typing-3",
+      "type": "typing",
+      "skillFa": "صرف و املا",
+      "skillEn": "Conjugation and spelling",
+      "promptFa": "نشانهٔ پرسش هماهنگ با واکهٔ o را بنویسید.",
+      "promptEn": "Write the question particle harmonizing with o.",
+      "context": "Bu soru zor ___?",
+      "accepted": [
+        "mu"
+      ],
+      "explanationFa": "پس از o/u، ذرهٔ پرسش mu می‌آید و جداست.",
+      "explanationEn": "After o/u, use the separate question particle mu."
+    },
+    {
+      "id": "typing-4",
+      "type": "typing",
+      "skillFa": "صرف و املا",
+      "skillEn": "Conjugation and spelling",
+      "promptFa": "امر منفی مفرد «بستن» را بنویسید.",
+      "promptEn": "Write the singular negative imperative of close.",
+      "context": "Pencereyi şimdi ___.",
+      "accepted": [
+        "kapatma"
+      ],
+      "explanationFa": "kapat + ma یعنی «نبند».",
+      "explanationEn": "Kapat + ma means do not close."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Optional: required only for scripts/validate-new-drafts.py --schema
+jsonschema[format]>=4.23,<5
