@@ -6,7 +6,7 @@
   "title": "Who Says",
   "artist": "Selena Gomez",
   "level": "B2",
-  "createdAt": "2026-11-27T14:48:28Z",
+  "createdAt": "2026-11-27T14:55:44Z",
   "generator": "Reedance content agent",
   "notes": "همهٔ ۵۸ سطرِ غیرساختاری با تکرار و هم‌خوانی حفظ شدند؛ هیچ سطر بیش از ۱۴ واژه یا سطرِ زبان دیگر وجود ندارد. واژه‌های حقیقی پیوند آموزشی دارند؛ Na-na-na-na و Na-na-na-na-na آوای بی‌پیوندند. ’em به کارتِ they و در توضیح به شکل مفعولی them متصل است. like در would like فعل و در It’s like حرف اضافه است و کارتِ جدا دارد. whitin’ دقیقاً املای فایل است و شکل کاملش whiting از white در white out، نه whiten، آموزش داده شده است. beautiful me و star potential بازگوییِ نثر معیار دارند؛ در سطر Keep you beneath … فاعل و پیوند از بافت بازسازی شده و قطعی بودنِ واژه‌های حذف‌شده ادعا نشده است. perfect و price of beauty در بافتِ حمایتی و فشارِ قضاوت زیبایی توضیح داده شده‌اند؛ ارزش انسان به ظاهر محدود نشده و کمالِ واقعیِ بی‌نقص ادعا نشده است. اثر هنریِ ندیده‌شده، الماسِ تراش‌نخورده و آسمان استعاری ترجمه و با معنای لفظی مقایسه شده‌اند. داستانِ مستقل دربارهٔ تصویرگرِ بزرگسال و نمایشگاهِ کتابخانه است. CEFR تحریری است؛ صوت و لیریک رسمی تطبیق داده نشده و حقوق لیریک تأیید نشده است.",
   "sources": {
@@ -990,7 +990,7 @@
         },
         {
           "surface": "tell",
-          "translationFa": "تشخیص دادن",
+          "translationFa": "گفتن",
           "translationEn": "tell",
           "lexemeId": "en:tell"
         },
@@ -2062,7 +2062,7 @@
         },
         {
           "surface": "tell",
-          "translationFa": "تشخیص دادن",
+          "translationFa": "گفتن",
           "translationEn": "tell",
           "lexemeId": "en:tell"
         },
@@ -3318,9 +3318,9 @@
       "partFa": "فعل",
       "tone": "apricot",
       "example": {
-        "text": "The lake looks like a mirror.",
-        "translationFa": "دریاچه مثل آینه به نظر می‌رسد.",
-        "translationEn": "The lake looks like a mirror."
+        "text": "I would like to learn more about local history.",
+        "translationFa": "مایلم دربارهٔ تاریخ محلی بیشتر یاد بگیرم.",
+        "translationEn": "I would like to learn more about local history."
       },
       "tables": [
         {
@@ -3616,8 +3616,8 @@
       "lexemeId": "en:on",
       "lemma": "on",
       "normalizedKey": "on",
-      "translationFa": "در on the phone: از راهِ تلفن؛ روی؛ جزء try on",
-      "translationEn": "on; by phone in on the phone; particle in try on",
+      "translationFa": "جزء come on: تشویق و ترغیب؛ روی",
+      "translationEn": "on; particle in encouraging come on",
       "ipa": "/ɑn/",
       "faReading": "آن",
       "partEn": "preposition",
@@ -3650,8 +3650,8 @@
       "lexemeId": "en:out",
       "lemma": "out",
       "normalizedKey": "out",
-      "translationFa": "بیرون؛ جزء pick out: انتخاب کردن",
-      "translationEn": "out; particle in pick out (choose) and stay out (remain away from home)",
+      "translationFa": "جزء white out: محو کردن؛ بیرون",
+      "translationEn": "out; particle in white out: erase or cover",
       "ipa": "/aʊt/",
       "faReading": "آوْت",
       "partFa": "قید و جزء فعل عبارتی",
@@ -3769,8 +3769,8 @@
       "lexemeId": "en:star",
       "lemma": "star",
       "normalizedKey": "star",
-      "translationFa": "ستاره",
-      "translationEn": "star; a bright heavenly body",
+      "translationFa": "ستاره؛ چهرهٔ مشهورِ هنر",
+      "translationEn": "star; a celebrated performer; a celestial body",
       "ipa": "/stɑr/",
       "faReading": "استار",
       "partEn": "noun",
@@ -3787,17 +3787,17 @@
       "lexemeId": "en:tell",
       "lemma": "tell",
       "normalizedKey": "tell",
-      "translationFa": "تشخیص دادن؛ گفتن؛ خبر دادن",
-      "translationEn": "tell; recognize; inform",
+      "translationFa": "گفتن؛ بیان کردن به کسی",
+      "translationEn": "tell; communicate something to someone",
       "ipa": "/tɛl/",
       "faReading": "تِل",
       "partFa": "فعل",
       "partEn": "verb",
       "tone": "blue",
       "example": {
-        "text": "I can tell the soup needs salt.",
-        "translationFa": "می‌توانم تشخیص بدهم که سوپ نمک لازم دارد.",
-        "translationEn": "I can tell the soup needs salt."
+        "text": "Please tell me what you need for the workshop.",
+        "translationFa": "لطفاً بگو برای کارگاه به چه نیاز داری.",
+        "translationEn": "Please tell me what you need for the workshop."
       },
       "tables": [
         {
@@ -4327,8 +4327,8 @@
       "lexemeId": "en:can",
       "lemma": "can",
       "normalizedKey": "can",
-      "translationFa": "توانستن؛ امکان داشتن؛ با could بیان حالت فرضی",
-      "translationEn": "can; be able to; be possible; could for a hypothetical ability",
+      "translationFa": "توانستن؛ امکان داشتن",
+      "translationEn": "can; ability or possibility",
       "ipa": "/kæn/",
       "faReading": "کَن",
       "partFa": "فعل وجهی",
@@ -4352,9 +4352,9 @@
       "partEn": "auxiliary verb",
       "tone": "blue",
       "example": {
-        "text": "Guests have to sign at the entrance.",
-        "translationFa": "مهمان‌ها باید دم ورودی امضا کنند.",
-        "translationEn": "Guests are required to sign at the entrance."
+        "text": "We have got enough chairs for everyone.",
+        "translationFa": "برای همه به‌اندازهٔ کافی صندلی داریم.",
+        "translationEn": "We have got enough chairs for everyone."
       }
     },
     {
@@ -7980,7 +7980,7 @@
           "tell",
           "تِل",
           {
-            "fa": "تشخیص دادن",
+            "fa": "گفتن",
             "en": "tell"
           },
           "✓"
@@ -10697,7 +10697,7 @@
               },
               {
                 "surface": "out",
-                "translationFa": "بیرون",
+                "translationFa": "جزء white out: محو کردن",
                 "translationEn": "out",
                 "lexemeId": "en:out"
               },
